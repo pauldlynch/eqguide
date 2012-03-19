@@ -1,5 +1,10 @@
-# Jekyll-Bootstrap
+**Everquest Guide - for Newbies**
 
+This is the github repository for my web site containing a guide to
+Everquest.
+
+
+# Jekyll-Bootstrap
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
