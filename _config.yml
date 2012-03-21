@@ -9,14 +9,18 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title :Everquest Guide
+title : Everquest Guide
 tagline: for Newbies
 author :
+  username : Borek
   name : Paul Lynch
   email : paul@plsys.co.uk
   github : pauldlynch
   twitter : pauldlynch
-  feedburner : feedname
+  feedburner : 
+
+# required for subfolder support when NOT on GitHub
+baseurl: http://www.paullynch.org/eqguide
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

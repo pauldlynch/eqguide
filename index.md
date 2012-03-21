@@ -1,46 +1,40 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Everquest Guide
+tagline: mainly for Returnees and Newbies
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Welcome to Everquest Guides.  I will be adding new guides over time, aiming to cover the low and mid level experience for new and returning players.  The look of the site is also subject to change!
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<h2>New Players</h2>
 
-## Update Author Attributes
+- [The Mines of Gloomingdeep](guides/mines-of-gloomingdeep)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+<h2>Everquest Anniversary</h2> 
+(16 March - 16 April every year)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+- [Anniversary Quests](guides/anniversary-quests)
+- [Fabled Mobs](guides/fabled-mobs)
+- [Fabled Pet Weapons](guides/fabled-pet-weapons)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+<h2>Forthcoming</h2>
 
-    $ rm -rf _posts/core-samples
+- Crescent Reach
+- Blightfire Moors
+- Hot Zones
+- Frostfell Quests
+- Halloween Quests
+- The Kunark Express
+- The Luclin Express
+- The Serpent's Spine Express
+- The Hero's Journey
 
-Here's a sample "posts list".
+
+<h2>News:</h2>
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="http://www.paullynch.org/eqguide{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
