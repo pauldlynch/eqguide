@@ -267,11 +267,11 @@ Gloomingdeep counts as indoors, so Camouflage, Harmony and Spirit of Wolf don’
 
 **Useful Customisations**
 
-Use the Options panel (alt-o) to turn off – auto-duck and, if you prefer, turn off show helm.  
-I also turn off Voice Chat in the Options window, as it never works for me.  
-“/assist off” to disable auto-attack on /assist.  
-"/toggle inspect" stops you from inspecting yourself by clicking.  
-Rebind attack key from q to something better (I like num pad 0); again, in the Options panel.  
-Put forage/track on movement key binding.  
-Hot keys for bind wound and open.  
-F11 to show the lag meter.
+- Use the Options panel (alt-o) to turn off – auto-duck and, if you prefer, turn off show helm.  
+- I also turn off Voice Chat in the Options window, as it never works for me.  
+- “/assist off” to disable auto-attack on /assist.  
+- "/toggle inspect" stops you from inspecting yourself by clicking.  
+- Rebind attack key from q to something better (I like num pad 0); again, in the Options panel.  
+- Put forage/track on movement key binding.  
+- Hot keys for bind wound and open.  
+- F11 to show the lag meter.
