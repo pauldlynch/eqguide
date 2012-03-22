@@ -10,6 +10,7 @@ Welcome to Everquest Guides.  I will be adding new guides over time, aiming to c
 <h2>New Players</h2>
 
 - [The Mines of Gloomingdeep](guides/mines-of-gloomingdeep)
+- [Plane of Knowledge Quests](guides/plane-of-knowledge-quests)
 
 <h2>Everquest Anniversary</h2> 
 (16 March - 16 April every year)
