@@ -252,6 +252,10 @@ You get the quest from the various (non-goblin) slaves in the jail area. Reward 
 
 Probably need to be level 8 to get this task. You need to go to the bottom of the pit, and kill Krenshin, a bazu type mob; level 12. He can drop a range item (there are three possible).
 
+*The Revolt of Gloomingdeep*
+
+This is the one quest that binds all the other quests together, and has too many stages to usefully list.  When you complete it, you get a small amount of experience (8% at level 10), and are told to clear off!
+
 **Other Rare Named Mobs**
 
 Rufus – grey rat, level 3. Drops range items; PH cave rats.  
