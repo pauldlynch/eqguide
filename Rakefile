@@ -44,13 +44,13 @@ namespace :rsync do
   # Usage: rake rsync:dryrun
   desc "--dry-run rsync"
   task :dryrun do
-    system('rsync _site/ -ave ssh --dry-run --delete paullynch@www.paullynch.org:/home/paullynch/paullynch.org/eqguide')
+    system('rsync _site/ -avzhe ssh --dry-run --delete --progress paullynch@www.paullynch.org:/home/paullynch/paullynch.org/eqguide')
   end
 
   # Usage: rake rsync:live
   desc "rsync"
   task :live do
-    system('rsync _site/ -ave ssh --delete paullynch@www.paullynch.org:/home/paullynch/paullynch.org/eqguide')
+    system('rsync _site/ -avzhe ssh --delete --progress paullynch@www.paullynch.org:/home/paullynch/paullynch.org/eqguide')
   end
 end
 
