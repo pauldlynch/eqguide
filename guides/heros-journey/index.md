@@ -11,7 +11,7 @@ You can consult the Hero's Journey in game, in several ways. The first is just b
 
 The second is by using the Tome of the Hero's Journey; click it, and a window will open showing the zones and quests for your level that you haven't yet completed, including either or both of the [Serpent Seeker's Charm of Lore](/eqguide/guides/charm-of-lore) and the [Wanderlust Guild Loadstone](/eqguide/guides/wanderlust-guild-loadstone) quests.
  
-See the [Crescent Reach guide](../guides/crescent-reach/) for the first part of this.
+See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for the first part of this.
 
 - Welcome to Crescent Reach (1+)
 	- Welcome to Crescent Reach (Emissary Tinnvin)

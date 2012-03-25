@@ -99,7 +99,7 @@ These quest come from Council Aide Shay, in the council chamber on the upper flo
 - [Rings and Things](http://everquest.allakhazam.com/db/quest.html?quest=3866)
 - [A Dark Heart](http://everquest.allakhazam.com/db/quest.html?quest=3653) 
 
-The spiderlings for Shaye are almost certainly grey cons, so do this part fast - as is the Canyon Queen.  Spiderlin silks may be of value in the Bazaar (as a trader or selling to buyers, depending on your account status).
+The spiderlings for Shaye are almost certainly grey cons, so do this part fast - as is the Canyon Queen.  Spiderling silks may be of value in the Bazaar (as a trader or selling to buyers, depending on your account status).
 
 You will need to kill alligators (no, not crocodiles) in the pond in the Hollow, and bears in the bear cave; these are all level 12+.  The cave is semi-hidden: climb out of the pond on the right at the mill wheel, and the cave entrance is behind some bushes.  Collect any high quality bear skins you find, as they have good value both in the Bazaar, and to make ten slot backpacks with a relatively low tailoring skill.  Gnolls are higher level out in the open part of the Hollows.  They won't aggro or assist each other.
 
