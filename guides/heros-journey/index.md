@@ -9,8 +9,10 @@ This is a grouped series of achievements that should take any character from lev
 
 You can consult the Hero's Journey in game, in several ways. The first is just by using the Achievements windows; one of the several sets is the Hero's Journey, which you can open up and inspect down to the level of quest titles.  If you want to find out what you have missed in the past, this is probably the best way.
 
-The second is by using the Tome of the Hero's Journey; click it, and a window will open showing the zones and quests for your level that you haven't yet completed, including either or both of the [Serpent Seeker's Charm of Lore](/eqguide/guides/charm-of-lore) and the [Wanderlust Guild Loadstone](/eqguide/guides/wanderlust-guild-loadstone) quests.
+The second is by using the Tome of the Hero's Journey; click it, and a window will open showing the zones and quests for your level that you haven't yet completed, including either or both of the [Serpent Seeker's Charm of Lore](/eqguide/guides/charm-of-lore) and the [Wanderlust Guild Loadstone](/eqguide/guides/wanderlust-guild-loadstone) quests, and various other long quest series.
  
+**Crescent Reach**
+
 See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for the first part of this.
 
 - Welcome to Crescent Reach (1+)
@@ -29,5 +31,61 @@ See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for the first pa
 
 - Graduate of Crescent Reach (1-20)
 
-
 - Serpent Seeker's Charm of Lore (1+)
+
+**Blightfire Moors**
+
+- Welcome to the Moors (21-25)
+- Battling Blightfire (26-30)
+- Champion of the Moors (31-35)
+- Job Offers (20+)
+- Two Gnolls With One Stone (20+)
+- Stemming the Threat (20+)
+- Conqueror of Blightfire (21-35)
+- Wayfarers Brotherhood Emblem (20+)
+
+**Stone Hive**
+
+- Welcome to Stone Hive (36-45)
+- Short Sharp Sting (36-45)
+- Slayer of Stone Hive (36-45)
+
+**Goru'kar Mesa**
+
+- Welcome to the Mesa (41-45)
+- Pranks and Research (46-50)
+- Moving Up the Ranks (51-55)
+- Magnate of the Mesa (41-55)
+
+**Blackfeather Roost**
+
+- Ascending the Roost (56-60)
+- Raider of the Roost (56-60)
+
+**The Steppes**
+
+- Conquering the Steppes (61-70)
+- Journeyman to the Steppes (61-70)
+
+**Sunderock Springs**
+
+- Crusader of Scale (65-75)
+- Emissary of Sunderock (65-75)
+
+**Vergalid Mines**
+
+- Disrupting the Mines (70-75)
+- Exploring Vergalid (70-75)
+- Spelunker of Vergalid Mines (70-75)
+
+**The Buried Sea**
+
+- Monkey Island (70-80)
+- Redfeather Isle (70-80)
+- Maiden's Grave (70-80)
+- Jardel's Hook (70-80)
+- Deadbone Reef (70-80)
+- Suncrest Ridge (70-80)
+- Blacksail Folly (70-80)
+- Captain o'er the Buried Sea (70-80)
+

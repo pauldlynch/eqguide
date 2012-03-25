@@ -9,7 +9,7 @@ New players to Everquest should play the Tutorial, at least once.  The tutorial 
 
 At 15 you will be forcibly expelled to the Plane of Knowledge, and you can't reenter this zone after level 10.  But there's no real reason to stay any longer, as Crescent Reach has better facilities for growing your character from level ten upwards, and some would prefer it from level 2-4 onwards as well.
 
-This latest version of Mines of Gloomingdeep has been revised for the launch of Free To Play.  Changes are to add a new quest that links together all the main quests in the zone; a few new NPCs are added to explains topics that were omitted before; and some of the gear drops are updated to be identical to Defiant.  In addition, there are additional items on the vendors (Gate spell, hurray!), and there is now a mercenary liaison in the zone.
+This latest version of Mines of Gloomingdeep has been revised for the launch of Free To Play.  Changes are to add a new quest that links together all the main quests in the zone; a few new NPCs are added to explain topics that were omitted before; and some of the gear drops are updated to be identical to Defiant.  In addition, there are new items on the vendors (Gate spell, hurray!), and there is now a mercenary liaison in the zone.
 
 Gloomingdeep was taken from Everquest sometime around the Dragons of Norrath era; although there was an earlier version with much less content and a simpler layout, and some other aspects are obviously added from Depths of Darkhollow. There are only a few potions (Divine and Celestial Healing I and II), ... There are also no guild masters, so you can’t spend training points.  
 
@@ -43,7 +43,7 @@ Your bank has another Backpack – and has 24 slots, plus the two shared slots w
 
 Start by completing “Basic Training” (I give details of all tasks below).
 
-In the main cave, pay attention also to the optional tasks: hail Poxan to be told to fetch his sword (Poxan’s Sword, 1HS 4/28, which can be useful in some cases); he returns you a Kobold Leather Mask (AC 2). Frizznik can give you the rat steaks task, too – but ignore what he says about right click to eat and increase your strength; you can’t sell them, but they are free food and add 5 HP, but only while they are in your inventory 'above' any other good (like the bread cakes).
+In the main cave, pay attention also to the optional tasks: hail Poxan to be told to fetch his sword (Poxan’s Sword, 1HS 4/28, which can be useful in some cases); he returns you a Kobold Leather Mask (AC 2). Frizznik can give you the rat steaks task, too – but ignore what he says about right click to eat and increase your strength; you can’t sell them, but they are free food and add 5 HP, but only while they are in your inventory 'above' any other food (like the bread cakes).
 
 Remember to re-equip your weapon after handing it to Absor for an upgrade! (part of Basic Training)
 
@@ -95,7 +95,7 @@ For weapons, you will get your first upgrade during “Basic Training” from Ab
 
 **Money**
 
-There’s not much you might want to buy – spells, potions, and just possibly Stitched Burlap early on. The answer is easy – open barrels. The Forlorn bows that drop sell for more than a platinum, and the staffs that drop from Spiritweavers sell for over 4pp (with high charisma!).
+There’s not much you might want to buy – spells, potions, and just possibly Stitched Burlap early on. But the answer is easy – open barrels. The Forlorn bows that drop sell for more than a platinum, and the staffs that drop from Spiritweavers sell for over 4pp (with high charisma!).
 
 **Quests/Tasks**
 
@@ -128,7 +128,7 @@ Optional task from Scribe Farquard.  Reward is 10s and 2% experience (and marks 
 
 *Kickin' Things Up A Notch - Augmentations*
 
-From McKenzie the Younger, in the rats and bats cave. He gives you an aumentation (henceforth called 'aug'), Steatite Fragment, which gives your weapon extra damage when used against kobolds.  As you are likely to get a weapon upgrade while fighting spiders (Chunk of Bronze/Chunk of Iron), save this for then.  You can move augs between items by removing it using a distiller, but as this costs 1pp, you can save money.
+From McKenzie the Younger, in the rats and bats cave. He gives you an augmentation (henceforth called 'aug'), Steatite Fragment, which gives your weapon extra damage when used against kobolds.  As you are likely to get a weapon upgrade while fighting spiders (Chunk of Bronze/Chunk of Iron), save this for then.  You can move augs between items by removing it using a distiller, but as this costs 1pp, you can save money.
 
 *Cleaning the Vermin Nests* (Guard Rahtiz)
 

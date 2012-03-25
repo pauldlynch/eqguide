@@ -14,7 +14,7 @@ Cautions:
 3. I compiled this guide while Crescent Reach was a hot zone, and during a 30% experience bonus, so if you are getting behind at any point, just grind by killing mobs that are between dark blue and yellow, of which there will be plenty.
 
 
-The quest rewards are weak compared the Defiant gear, with a few exceptions (the weapon from Vunder the Dark can be very useful); but completing the quests advances you on the Hero's Journey, and the rewards from completing an achievement are very good.  The Gloomingdeep rewards are of a similar standard (same level as Defiant).
+The quest rewards are weak compared to the Defiant gear, with a few exceptions (the weapon from Vunder the Dark can be very useful); but completing the quests advances you on the Hero's Journey, and the rewards from completing an achievement are very good.  The Gloomingdeep rewards are of a similar standard (same level as Defiant).
 
 Crescent Reach has two banks: one on the ground floor, and a banker on the raised platform upstairs.  Guildmasters are in the building in the Dragon's Grove, but the merchants here only carry spells up to level ten.  You will need to buy later spells in Plane of Knowledge.
 
@@ -45,7 +45,7 @@ This is the simplest way to link together all of the objectives that are in the 
 - Inn: on the top floor, in the back right room, pick up a drakkin scale.
 - Library: See Assistant Geejulin for a book, and a book on the shelves.
 - Merchant Wyn'las: buy (no charge) wind chimes and jar of the wind spirit.
-- Dragon's Grove: find the rune s in the SW; find a book by the NE water; pick up a water sample (from either water area); find a broadleaf ground spawn by the trees; then find rune stones to the left of the entrance to the city.
+- Dragon's Grove: find the rune stones in the SW; find a book by the NE water; pick up a water sample (from either water area); find a broadleaf ground spawn by the trees; then find rune stones to the left of the entrance to the city.
 - Hollows: fill the jar in waterfall (just swim through; there is a waterfall at each end of the stream); kill undead fishermen for the essence; click the bush just inside the sporali cave for the poisonous nettle.  Also gather mushrooms (use /open) for Ways of Nature.
 - Top floor: in the rats and bats room, target yourself and click the staff you were given, then talk to the invisible drakkin in the far right corner; pick up a dusty skeleton bone (ground spawn) in the same general area.
 - Back to the council room for hand-ins.
@@ -57,7 +57,7 @@ Vakk'dra: then go to Butcher Katorr (on raised platform behind banker), and back
 
 Total exp is about one level (bringing you to almost 4), plus the Council of Six achievement.
 
-Once you have taken all these, go to the raised platform at one end and talk to Disgruntled Boawb.  This quest will send you back into the council chamber again to deliver to Reakash.  Go ahead, and take her quest in turn.  This completes the Boawb achievement - rewards being a belt and mask, plus a choice of weapons and a shield: the weapon and shield are all required level 5, and you are probably still level 1.
+Once you have taken all these, go to the raised platform at one end and talk to Disgruntled Boawb.  This quest will send you back into the council chamber again to deliver to Reakash.  Go ahead, and take her quest in turn.  This completes the Boawb achievement - rewards being a belt and mask, plus a choice of weapons and a shield: the weapon and shield are all required level 5, and you could easily still be level 1.
 
 Use find to take you to Guard Captain Minka (still all on the middle level).  There's a fair amount of running around to do, with a necklace reward, and you also complete an achievement (but no additional reward for that).  Now find Champion Utenka for the next stage - combat; training dummies are in the next room, and just use auto-attack (or spells) to destroy ten of them; they will probably respawn faster than you can destroy them.
 
@@ -71,7 +71,7 @@ If you haven't been in the tutorial, you should be level 4.  The next achievemen
 
 **Sidetrack: Trade Skills**
 
-If at any point you get bored while in or near Crescent Reach, and aren't convinced that you want to avoid all trade skills with a passions (and maybe even then), Crescent Reach offers some very simple quests that can take any trade skill to 54 for no cost.  So go talk to the trade skill quest NPCs around the upper floor banker.  Remember that some of the epic quests (all of the 1.5 epics, I believe) require over 100 in more than one trade skill, so go do it.
+If at any point you get bored while in or near Crescent Reach, and aren't convinced that you want to avoid all trade skills with a passion (and maybe even then), Crescent Reach offers some very simple quests that can take any trade skill to 54 for no cost.  So go talk to the trade skill quest NPCs around the upper floor banker.  Remember that some of the epic quests (all of the 1.5 epics, I believe) require over 100 in more than one trade skill, so go do it.
 
 **Important Errands (6-10)**
 
@@ -91,7 +91,7 @@ I was still only level 8 after completing these, so a spot of grinding on young 
 
 Remember that you will need to travel back and forth to Plane of Knowledge to collect spells past level 10.  The fastest way, if you are level ten or lower, or a caster still bound in Gloomingdeep, is to return to the Tutorial, then say to Arias "ready to leave".  Alternatively, you can run through the Hollows to Blightfire Moors, then turn sharp right and avoid the rats running to the nearby book; click it to enter the Plane of Knowledge.  There is one other route, involving the Priest of Destiny in the inn...
 
-These quest come from Council Aide Shay, in the council chamber on the upper floor, Skinner Bezuth on the same level, and Vunder the Dark, on the top floor.
+These quests come from Council Aide Shay, in the council chamber on the upper floor, Skinner Bezuth on the same level, and Vunder the Dark, on the top floor.
 
 - [Web of Fears](http://everquest.allakhazam.com/db/quest.html?quest=4439)
 - [No Skin Off Your Back](http://everquest.allakhazam.com/db/quest.html?quest=3865) 
@@ -128,4 +128,4 @@ So far that took me from level 15 to 20 in just under 10 hours played.  And we a
 
 **Bonus points: Lost Dungeons of Norrath charm**
 
-As soon as you hit level 20, you're going to be bugged my yellow messages about how you need to talk to someone.  You can get this out of the way while still in Crescent Reach.  The NPC you need is near the upstairs banker.  To finish the quest, both the Butcherblock and Everfrost LDoN camps are in the same zone as a Plane of Knowledge book.
+As soon as you hit level 20, you're going to be bugged by yellow messages about how you need to talk to someone.  You can get this out of the way while still in Crescent Reach.  The NPC you need is near the upstairs banker.  To finish the quest, both the Butcherblock and Everfrost LDoN camps are in the same zone as a Plane of Knowledge book.

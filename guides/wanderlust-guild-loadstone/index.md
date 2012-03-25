@@ -13,3 +13,21 @@ First of all, I want to express my disgust that SOE chose to spell lodestone as 
 
 **Wanderlust Guild: On Guard**
 
+Wanderlust Guild: The Crossroads
+Wanderlust Guild: Far Afield
+Wanderlust Guild: Into the Reeds
+Wanderlust Guild: All Abuzz
+Wanderlust Guild: Northbound Trails
+Wanderlust Guild: Pie-Eyed Pipers
+Wanderlust Guild: West of the Mesa
+Wanderlust Guild: Spring in Your Step
+Wanderlust Guild: Into the Mines
+Wanderlust Guild: Into the Spine
+Wanderlust Guild: Meet Your Map Maker
+Wanderlust Guild: Looking for Landmarks
+Wanderlust Guild: Go with the Floe
+Wanderlust Guild: Giant Steps
+Wanderlust Guild: The Journey Beyond
+Wanderlust Guild: Crypt Delving
+Wanderlust Guild: Into the Reliquary
+

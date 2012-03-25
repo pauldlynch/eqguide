@@ -22,6 +22,11 @@ Everquest Anniversary
 - [Fabled Mobs](guides/fabled-mobs)
 - [Fabled Pet Weapons](guides/fabled-pet-weapons)
 
+General Information
+-------------------
+
+- [Hot Zones](guides/hot-zones)
+
 The Hero's Journey
 ------------------
 
@@ -32,7 +37,6 @@ The Hero's Journey
 <h2>Forthcoming</h2>
 
 - Blightfire Moors
-- Hot Zones
 - Frostfell Quests
 - Halloween Quests
 - The Kunark Express
