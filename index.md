@@ -7,21 +7,30 @@ tagline: mainly for Returnees and Newbies
 
 Welcome to Everquest Guides.  I will be adding new guides over time, aiming to cover the low and mid level experience for new and returning players.  The look of the site is also subject to change!
 
-<h2>New Players</h2>
+New Players
+-----------
 
 - [The Mines of Gloomingdeep](guides/mines-of-gloomingdeep)
 - [Plane of Knowledge Quests](guides/plane-of-knowledge-quests)
+- [Crescent Reach](guides/crescent-reach)
 
-<h2>Everquest Anniversary</h2> 
+Everquest Anniversary
+---------------------
 (16 March - 16 April every year)
 
 - [Anniversary Quests](guides/anniversary-quests)
 - [Fabled Mobs](guides/fabled-mobs)
 - [Fabled Pet Weapons](guides/fabled-pet-weapons)
 
+The Hero's Journey
+------------------
+
+- [The Hero's Journey](guides/heros-journey)
+- [Serpent Seeker's Charm of Lore](guides/charm-of-lore)
+- [Wanderlust Guild Loadstone](guides/wanderlust-guild-loadstone)
+
 <h2>Forthcoming</h2>
 
-- Crescent Reach
 - Blightfire Moors
 - Hot Zones
 - Frostfell Quests
@@ -29,7 +38,6 @@ Welcome to Everquest Guides.  I will be adding new guides over time, aiming to c
 - The Kunark Express
 - The Luclin Express
 - The Serpent's Spine Express
-- The Hero's Journey
 
 
 <h2>News:</h2>

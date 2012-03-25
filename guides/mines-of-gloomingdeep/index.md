@@ -168,7 +168,7 @@ Carry on into the spider cave – directly south from where you were before. Kil
 - Find the Anti-Venom Violet
 - Deliver the violet to Vyrinn
 
-Gloomingdeep Violet drops from Spider Tamer Gugan, who is level 6. Approx 20% exp at level 7.
+Gloomingdeep Violet drops from Spider Tamer Gugan, who is level 6. Approx 20% exp at level 7.  Reward is some potions.
 
 *Arachnophobia* (Vyrinn)
 

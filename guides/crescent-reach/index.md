@@ -1,0 +1,183 @@
+---
+layout: page
+title: "Crescent Reach Quests"
+group: guide
+---
+{% include JB/setup %}
+
+Crescent Reach Quests
+=====================
+
+I am taking this from the perspective of a new, non-Drakkin character being played in Crescent Reach from level 1 (i.e. no tutorial, to start with, although it will be worthwhile visiting for some useful gear).  So no breath weapon quests, which Drakkin can get; if you have done the tutorial, a lot of these can be skipped.  However, I am including all the Hero's Journey quests, which I will note as we come across them.
+
+Cautions:
+
+1. I assume that you read the text for quests and can understand them;
+2. Sometimes you may need to resize the quest window to see all parts of it;
+3. I compiled this guide while Crescent Reach was a hot zone, and during a 30% experience bonus, so if you are getting behind at any point, just grind by killing mobs that are between dark blue and yellow, of which there will be plenty.
+
+The quest rewards are weak compared the Defiant gear, with a few exceptions (the weapon from Vunder the Dark can be very useful); but completing the quests advances you on the Hero's Journey, and the rewards from completing an achievement are very good.  The Gloomingdeep rewards are of a similar standard (same level as Defiant).
+
+Crescent Reach has two banks: one on the ground floor, and a banker on the raised platform upstairs.  Guildmasters are in the building in the Dragon's Grove, but the merchants here only carry spells up to level ten.  You will need to buy later spells in Plane of Knowledge.
+
+You will find yourself running short of inventory space.  If so, go to the tinker merchant behind the bank and buy Deluxe Toolboxes for 1p1g2c, which are 10 slot, giant capacity boxes.  You can also get two bags from the Bazaar quest in Plane of Knowledge.
+
+**First Stage: Welcome and Ready for Combat**
+
+You appear in the Dragon's Grove, with a Tome of the Hero's Journey on your cursor, as well as getting a special AA to summon it if destroyed.  If you click it in your inventory, you will be pointed to Emissary Tinnvin and the Serpent Seeker's Charm of Lore quest.  In your inventory is a guild summons, which you should read.
+
+Pick up the quest from Tinnvin, then head down the path to the guildmasters.  Hand in your guild note for a newbie tunic, then continue into the city.  Initiate Dakkan is more or less straight ahead, but the exit to The Hollow.  Pick up three quests from him, then head over to Innkeeper Falthus.  You can use the Find window (ctrl-f) if you wish.  Take one quest from him, which sends you to Council Aide Mystrana.  She is upstairs, so find the lift - clicking the button next to it will call the lift.  It's probably best to use find for her, but it won't work until you are on the right level.  Hand her the note, and take her quest, which sends you back downstairs again.  Again, take the quest from Librarian Hemfar, and explore upstairs in the library to complete it.  You should now receive a message telling you to head back to Mystrana, and take a new quest from her.
+
+Find the bank while you are there, and take out your extra backpack.
+
+Now find the other lift platform; the book you have been sent to find is on top of a box to your left in the rats and bats room.  The reward from this is enough experience to hit level 2, plus a cloak.  This also complete the first achievement in the Hero's Journey.
+
+You can do the next quests in several ways; but go back down to the council level.  Start with Mystrana again, who sends you to speak to all the council members.  The first one you speak to will give you "[Prove Your Worth](http://everquest.allakhazam.com/db/quest.html?quest=3675)", which you must complete before you can take the others.  I would normally prefer to skip these, as there is a lot of running around involved, but they are part of the Hero's Journey.
+
+- [Heshyrr's Wisdom](http://everquest.allakhazam.com/db/quest.html?quest=3673)
+- [Ithakis' Challenge](http://everquest.allakhazam.com/db/quest.html?quest=3925) 
+- [Lizzrel's Path](http://everquest.allakhazam.com/db/quest.html?quest=3748)
+- [Myjinn's Enlightenment](http://everquest.allakhazam.com/db/quest.html?quest=3890)
+- [Reakash's Serenity](http://everquest.allakhazam.com/db/quest.html?quest=4203)
+- [Vakk'dra's Shadow](http://everquest.allakhazam.com/db/quest.html?quest=3677)
+
+Rune stones SW of Grove, back to city entrance, then top floor and click staff for see invisible.
+Quartermaster Thatun (next to Champion Utenka), kill a training dummy, Smithy Drawlyn.
+Poisonous nettle from bushes in sporali cave in Hollows; broadleaf hard to see on grass in Dragon's Grove; Drakkin scale in room in top floor of inn.
+Books: Librarian Assistant Geejulin, Dragons' Grove near water, and on shelf in Library.
+Water sample in Dragon's Grove, buy wind chime and jar of the wind spirit from Merchant Wyn'las, fill jar in waterfall Hollows.
+Kill undead fishermen in the Hollow, dusty skeleton bone from top floor, Butcher Katorr.
+
+Council level: Quartermaster Thatun, kill a training dummy, Smithy Drawlyn.
+Inn: top floor back right room drakkin scale.
+Library: Assistant Geejulin for book, book on shelves.
+Merchant Wyn'las: wind chimes and jar of the wind spirit.
+Dragon's Grove: rune stone in SW, find book by NE water, water sample (either water area), broadleaf ground spawn by trees, rune stones by entrance to city.
+Hollows: fill jar in waterfall, kill undead fishermen, poisonous nettle from bush in sporali cave.  Also gather mushrooms for Ways of Nature.
+Top floor: target yourself and click staff, invisible drakkin in right corner, dusty skeleton bone (ground spawn).
+Back to council for hand-ins.
+
+Myjinn: answers are Nokk, Plane of Earth, human.
+
+Vakk'dra: hen Butcher Katorr (on raised platform behind banker), and back to Vakk'dra.
+
+Total exp is about one level (bringing you to almost 4), plus the Council of Six achivement.
+
+Once you have taken all these, go to the raised platform at one end and talk to Disgruntled Boawb.  This quest will send you back into the council chamber again to deliver to Reakash.  Go ahead, and take her quest in turn.  This completes the Boawb achievement - rewards being a belt and mask, plus a choice of weapons and a shield: the weapon and shield are all required level 5, and you are probably still level 1.
+
+Use find to take you to Guard Captain Minka (still all on the middle level).  There's a fair amount of running around to do, with a necklace reward, and you also complete an achievement (but no additional reward for that).  Now find Champion Utenka for the next stage - combat; training dummies are in the next room, and just use auto-attack (or spells) to destroy ten of them; they will probably respawn faster than you can destroy them.
+
+It might be an idea to make a quick [visit to the tutorial](../mines-of-gloomingdeep) to collect the Kobold Skull Charm, Worn Totem and Sharpened weapon, as these are quick upgrades - and the first few Gloomingdeep armor items and stitched burlap might help, too.  Don't forget to have Rytan bless you, and collect your free spell or melee discipline from him, and see Elegist for a mercenary.  You can do this with just the rats and bats then spiders areas.  You should end up with arms, chest and leg armor.
+
+Time to kill in the Hollows.  Collect and hand-in mushrooms to Initiate Dakkan, if you haven't already - use /open to open the mushrooms.  Kill snakes and diseased spiderlings (level 3), making sure the guards don't kill them first.  You may have to kill normal spiders to get the diseased ones to spawn.  Don't forget to loot the corpses, as some items sell to merchants for reasonable sums.
+
+Rewards from Dakkan are three sets of potions (healing, and two buffs).  You will also have completed the Ready for Combat Achievement.
+
+If you haven't been in the tutorial, you should be level 4.  The next achievements won't open up until you are high enough level, which is level 5 for Important Errands.  So kill more snakes and spiders (and pumas and bear cubs and leaf drakes) in the Hollows, or try the Mines of Gloomingdeep.
+
+**Sidetrack: Trade Skills**
+
+If at any point you get bored while in or near Crescent Reach, and aren't convinced that you want to avoid all trade skills with a passions (and maybe even then), Crescent Reach offers some very simple quests that can take any trade skill to 54 for no cost.  So go talk to the tradeskill quest NPCs around the upper floor banker.  Remember that some of the epic quests (all of the epic 1.5s, I believe) requires over 100 in more than one trade skill, so go do it.
+
+**Important Errands (6-10)**
+
+Jinkin, upstairs in the city, and Baker Shivra.
+
+- [Cap of Color](http://everquest.allakhazam.com/db/quest.html?quest=3627)
+- [Here Kitty, Kitty!](http://everquest.allakhazam.com/db/quest.html?quest=3625)
+- [Thrills and Quills](http://everquest.allakhazam.com/db/quest.html?quest=3698)
+- [Slightly Less Than One-Half of a Baker's Dozen](http://everquest.allakhazam.com/db/quest.html?quest=3626)
+- [Party Preparation](http://everquest.allakhazam.com/db/quest.html?quest=3699)
+
+Reward is a bracer.  Start with sporelings in the first cave across the bridge in the Hollows, and pumas in the second, as is the lemonade. The sporali are slightly lower level, and pumas 7 - 9  (and possibly higher).  Back in the city on the top floor, kill rats and bats (level 5 - 8).  Rewards include: a bracer, potions, and some stat drink and food.  The achievement reward is both a range item and a belt (the belt for melees has 14% haste).
+
+I was still only level 8 after completing these, so a spot of grinding on pumas and bear cubs is one option; or just go back to complete the quests in Gloomingdeep.
+
+**Making a Name for Yourself (11-15)**
+
+Remember that you will need to travel back and forth to Plane of Knowledge to collect spells past level 10.  The fastest way, if you are level ten or lower, or a caster still bound in Gloomingdeep, is to return to the Tutorial, then say to Arias "ready to leave".  Alternatively, you can run through the Hollows to Blightfire Moors, then turn sharp right and avoid the rats running to the nearby book; click it to enter the Plane of Knowledge.  There is one other route, involving the Priest of Destiny in the inn...
+
+These quest come from Council Aide Shay, in the council chamber on the upper floor, Skinner Bezuth on the same level, and Vunder the Dark, on the top floor.
+
+- [Web of Fears](http://everquest.allakhazam.com/db/quest.html?quest=4439)
+- [No Skin Off Your Back](http://everquest.allakhazam.com/db/quest.html?quest=3865) 
+- [What a Croc!](http://everquest.allakhazam.com/db/quest.html?quest=3864) 
+- [Rings and Things](http://everquest.allakhazam.com/db/quest.html?quest=3866)
+- [A Dark Heart](http://everquest.allakhazam.com/db/quest.html?quest=3653) 
+
+The spiderlings for Shaye are almost certainly grey cons, so do this part fast - as is the Canyon Queen.  Spiderlin silks may be of value in the Bazaar (as a trader or selling to buyers, depending on your account status).
+
+You will need to kill alligators (no, not crocodiles) in the pond in the Hollow, and bears in the bear cave; these are all level 12+.  The cave is semi-hidden: climb out of the pond on the right at the mill wheel, and the cave entrance is behind some bushes.  Collect any high quality bear skins you find, as they have good value both in the Bazaar, and to make ten slot backpacks with a relatively low tailoring skill.  Gnolls are higher level out in the open part of the Hollows.  They won't aggro or assist each other.
+
+The apothecary is a seated barbarian just outside the alchemy vendor room.  A warder paths back and forth to him, and will kill you if you mis-time this.  So wait until the warder has just left, then kill fast.  Use a snare spell if you have one, as he will run when low, and there are other nearby mobs that can aggro.
+
+These took me from 11 to 15.  The achievement reward is a set of jewelry: 2 rings and 2 earrings.  The quests give you a ring, either a 1HB or 2HB depending on class, and some potions.  Under eight hours played so far.
+
+**Becoming a Hero(16-20)**
+
+Farmer Lize, Farmer Joen, both in a room downstairs in the inn; and Akins, upstairs in the tavern.  If you haven't already, in the inn on the top floor, second room on the right, is the first item needed for the Charm of Lore quest (hand in to Librarian Hemfar).  At this stage you are also directed to the Wanderlust Guild Loadstone; the latter is offered in (many) stages by Master Vanguard Regan, on the upper floor in the city of Crescent Reach.
+
+- [Food for Thought](http://everquest.allakhazam.com/db/quest.html?quest=3963) 
+- [Soul Patrol](http://everquest.allakhazam.com/db/quest.html?quest=4171) 
+- [Reclaim the Farm!](http://everquest.allakhazam.com/db/quest.html?quest=3917) 
+- [Locked Up Locket](http://everquest.allakhazam.com/db/quest.html?quest=3916)
+- [Things Go Bump in the Night: The Catacombs](http://everquest.allakhazam.com/db/quest.html?quest=3658) 
+- [Things Go Bump in the Night: The Ogre's Spirit](http://everquest.allakhazam.com/db/quest.html?quest=3659)
+
+Now you need to go to the farm, north of the gnolls in the Hollow.  Open chests for the trinkets and kill skeletons.  The chests respawn rapidly, so complete this and go back to the farmers; you should then be able to pick up the "Reclaim the Farm!" quest.  Go back, finish the kill quest if you haven't already, and click the bag of seeds on the field area.  Rewards are: some drink, food, and a range slot item.
+
+Inside the farm house, on the upper floor there is an undead farmer (or a skeletal scavenger), probable level 20, which drops the locket.  He may also wander around outside around the field; if so, that is a recent change.  Reward is an earring.
+
+Across the stream from the farmhouse is a field of undead Nokk (17+); kill these; reward is yet more potions, and collect the next quest in this series.  Inside the cave, at the back of the left hand fork, is a container with the second item to hand in to Hemfar. Finally, on the top floor of the city is an undead room, behind the rats and bats.  Click the throne to spawn the level 20 Gekkdar.  Behind his throne is a container with the last Librarian hand in item.  The final reward is another ring, this achievement (for the last six quests) gives some leggings, but the achievement for finishing Crescent Reach quest series gives you a tunic, necklace, cloak and shoulderpads.
+
+So far that took me from level 15 to 20 in just under 10 hours played.  And we are done with Crescent Reach.
+
+**Bonus points: Lost Dungeons of Norrath charm**
+
+As soon as you hit level 20, you're going to be bugged my yellow messages about how you need to talk to someone.  You can get this out of the way while still in Crescent Reach.  The NPC you need is near the upstairs banker.  To finish the quest, both the Butcherblock and Everfrost LDoN camps are in the same zone as a Plane of Knowledge book.
+
+**Serpent Seeker's Charm of Lore**
+
+[Allakhazam link](http://everquest.allakhazam.com/db/quest.html?quest=3666)
+
+This is one of the two long series quests for The Serpent's Spine expansion; it is also part of the Hero's Journey achievements.  The reward is a charm, which is twinned with the loadstone, which in turn is a charm augment.  This won't be complete until level 75-80, although many parts can be collected for the quest at a much earlier level - starting at level 1.
+
+You just collect items, most of which are ground spawns, or in simple containers, and hand them in to Librarian Hemfar in Crescent Reach. 
+
+*Crescent Reach*
+
+There are three items in Crescent Reach itself, two of which are guarded by mobs:
+
+- Linguist's Note - top floor of the inn, second room on the right
+- Ancient Jewelry Box (/open the pile of bones behind the throne on third floor: -1225, -200) 
+- Broken Nokk Insignia (/open discarded bones: +460, -2920) 
+
+
+** Wanderlust Guild Loadstone**
+
+[Allakazam link](http://everquest.allakhazam.com/db/item.html?item=52451)
+
+First of all, I want to express my disgust that SOE chose to spell lodestone as *loadstone*; it is (apparently) a valid spelling according to the dictionaries, although it is one that is never used.
+
+- Wanderlust Guild: On Guard
+
+**Hero's Journey**
+
+See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for the first part of this.
+
+- Welcome to Crescent Reach (1+)
+	- Welcome to Crescent Reach (Emissary Tinnvin)
+	- Getting to Know You: The Council's Aid (Innkeeper Falthus)
+	- Getting to Know You: The City Charter (Council Aide Mystrana)
+	- Getting to Know You: For Those Gone Before (Council Aide Mystrana)
+- Ready for Combat (1-5)
+	- Ways of Combat (Champion Utenka)
+	- Ways of Nature (Initiate Dakkan)
+	- Snake Sacs (Initiate Dakkan)
+	- Diseased Spiders (Initiate Dakkan)
+- The Council of Six (1+)
+- Love in the Air (1+)
+- Boawb's Jealousy (1+)
+
+- Graduate of Crescent Reach (1-20)
+- Serpent Seeker's Charm of Lore (1+)
