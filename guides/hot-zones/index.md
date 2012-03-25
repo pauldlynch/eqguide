@@ -44,7 +44,7 @@ Officially hot zones were supposed to change every three months, but only rarely
 
 Three quests:
 
-- [Skal's Waking Nightmare](http://everquest.allakhazam.com/db/quest.html?quest=5542) - [The Sum of Skal`s Nightmares](http://everquest.allakhazam.com/db/item.html?item=102444)
+- [Skal's Waking Nightmare](http://everquest.allakhazam.com/db/quest.html?quest=5542) - [The Sum of Skal's Nightmares](http://everquest.allakhazam.com/db/item.html?item=102444)
 - [The Dungeon Rot Infected](http://everquest.allakhazam.com/db/quest.html?quest=5275) - [Purified Dungeon Rot](http://everquest.allakhazam.com/db/item.html?item=96135)
 - [The Escaped Voidsouls](http://everquest.allakhazam.com/db/quest.html?quest=5082) - [Gem of Bound Voidsouls](http://everquest.allakhazam.com/db/item.html?item=89268)
 
@@ -103,7 +103,7 @@ My personal opinion on gathering these augments is that low level augments make 
 - Level 40: 
 	- Dranik's Scar: [Kyv Arrowhead](http://everquest.allakhazam.com/db/item.html?item=102492)
 	- Lower Guk: [Froglok Egg Capsule](http://everquest.allakhazam.com/db/item.html?item=96141)
-	- Goru`kar Mesa: [Mesa Hardstone](http://everquest.allakhazam.com/db/item.html?item=89279)
+	- Goru'kar Mesa: [Mesa Hardstone](http://everquest.allakhazam.com/db/item.html?item=89279)
 	- City of Mist: [Seal of Torsis](http://everquest.allakhazam.com/db/item.html?item=85599)
 	- Great Divide: [Shard of Power](http://everquest.allakhazam.com/db/item.html?item=81564)
 	- Lower Guk: [Decayed Froglok Eye](http://everquest.allakhazam.com/db/item.html?item=76325)
