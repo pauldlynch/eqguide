@@ -5,8 +5,6 @@ group: guide
 ---
 {% include JB/setup %}
 
-**Plane of Knowledge Quests**
-
 The Plane of Knowledge has had some new quests added with the launch of Free To Play.
 
 Secalna Galnor - near CR stone and loyalty vendor.  15 quests:

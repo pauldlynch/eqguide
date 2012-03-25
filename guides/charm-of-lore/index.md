@@ -5,9 +5,6 @@ group: guide
 ---
 {% include JB/setup %}
 
-Serpent Seeker's Charm of Lore
-==============================
-
 [Allakhazam link](http://everquest.allakhazam.com/db/quest.html?quest=3666)
 
 This is one of the two long series quests for The Serpent's Spine expansion; it is also part of the Hero's Journey achievements.  The reward is a charm, which is twinned with the loadstone, which in turn is a charm augment.  This won't be complete until level 75-80, although many parts can be collected for the quest at a much earlier level - starting at level 1.  However, be warned: some of the later items are dropped from raid bosses, which only drop one of the item per raid; and this is required to be fully complete before your Hero's Journey is completed.

@@ -5,8 +5,6 @@ group : guide
 ---
 {% include JB/setup %}
 
-**The Mines of Gloomingdeep – the Everquest Players Guide**
-
 New players to Everquest should play the Tutorial, at least once.  The tutorial consists of the zone called "Mines of Gloomingdeep", which is actually two zones.  The first is a private instanced zone, containing Arias and the Kobold Jailor, and is where your character first enters the world of Norrath.  The second zone is part of the open world, and has a quest arc that will guide you from level 2 (you ding 2 just as you complete the initial familiarisation quest in the private instance) to levels 10 to 15.
 
 At 15 you will be forcibly expelled to the Plane of Knowledge, and you can't reenter this zone after level 10.  But there's no real reason to stay any longer, as Crescent Reach has better facilities for growing your character from level ten upwards, and some would prefer it from level 2-4 onwards as well.
