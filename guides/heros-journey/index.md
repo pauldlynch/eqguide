@@ -13,7 +13,7 @@ The second is by using the Tome of the Hero's Journey; click it, and a window wi
  
 **Crescent Reach**
 
-See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for the first part of this.
+See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for full details.
 
 - Welcome to Crescent Reach (1+)
 	- Welcome to Crescent Reach (Emissary Tinnvin)
@@ -35,13 +35,39 @@ See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for the first pa
 
 **Blightfire Moors**
 
+See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*work in progress*).
+
 - Welcome to the Moors (21-25)
+	- The Golden Pick (Ordunn the Miner)
+	- The Darkwater Pools (Ozzana the Trapper)
+	- The Slashclaw Cliffs (Ozzana the Trapper)
+	- The Ghostpack Fens (Ozzana the Trapper)
+	- The Ticking Crocodile (Hammerstock)
+	- Witchlamps (Alchemist Ella)
 - Battling Blightfire (26-30)
+	-
 - Champion of the Moors (31-35)
+	-
 - Job Offers (20+)
+	- Lost Memento (Moors Sign Post)
+	- Experienced Hunters Needed (Moors Sign Post)
+	- Wanted, Intrepid Explorer (Moors Sign Post)
+	- Wanted, Supply Runner (Moors Sign Post)
 - Two Gnolls With One Stone (20+)
+	- Ore for Smelting (Smithy Bronson)
+	- Gnollish Tools (Smithy Bronson)
+	- The Mucktail Quarry (Scout Zerak)
+	- The Mucktail Mines (Scout Zerak)
 - Stemming the Threat (20+)
+	- Rotwood, the Infected Treants (Roanoak)
+	- Rotwood, The Spore Farms (Roanoak)
+	- Hardy Seeds (Farmer D'Resh)
+	- Kindling for the Fires (Smithy Bronson)
+	- Green Ooze Buds (Fletcher Orshawn)
+- Wayfarers Brotherhood Adventurer's Stone (Various 20+)
 - Conqueror of Blightfire (21-35)
+	- Battling the Bixies
+	- Makesn's Plight
 - Wayfarers Brotherhood Emblem (20+)
 
 **Stone Hive**
