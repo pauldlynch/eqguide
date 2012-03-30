@@ -38,7 +38,7 @@ Green ooze buds - green ooze 33-35
 
 Intrepid Explorer - run around, NE, druid circle, NW sporali, E ghostpack, outpost (see also Wanderlust)
 Supply Runner - crossroads, then Cook Idriak (in E)
-Wanderlust quest...
+Wanderlust quest... crossroads, slashclaw cliffs, dark tower
 
 Spooky (Akins)
 The Everburning (Akins)

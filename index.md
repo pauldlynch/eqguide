@@ -31,10 +31,21 @@ The Hero's Journey
 ------------------
 
 - [The Hero's Journey](guides/heros-journey)
+
+The Long Quests
+---------------
+
 - [Serpent Seeker's Charm of Lore](guides/charm-of-lore)
 - [Wanderlust Guild Loadstone](guides/wanderlust-guild-loadstone)
+- [Jonas Dagmire's Skeletal Hand](guides/jonas-dagmires-skeletal-hand)
 
-<h2>Forthcoming</h2>
+Sidetracks
+----------
+
+- [Alchemy for Beginners](guides/alchemy)
+
+Forthcoming
+-----------
 
 - Blightfire Moors
 - Frostfell Quests
@@ -44,7 +55,8 @@ The Hero's Journey
 - The Serpent's Spine Express
 
 
-<h2>News:</h2>
+News:
+-----
 
 <ul class="posts">
   {% for post in site.posts %}

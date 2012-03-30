@@ -107,7 +107,7 @@ The apothecary is a seated barbarian just outside the alchemy vendor room.  A wa
 
 These took me from 11 to 15.  The achievement reward is a set of jewelry: 2 rings and 2 earrings.  The quests give you a ring, either a 1HB or 2HB depending on class, and some potions.  Under eight hours played so far.
 
-**Becoming a Hero(16-20)**
+**Becoming a Hero (16-20)**
 
 Farmer Lize, Farmer Joen, both in a room downstairs in the inn; and Akins, upstairs in the tavern.  If you haven't already, in the inn on the top floor, second room on the right, is the first item needed for the Charm of Lore quest (hand in to Librarian Hemfar).  At this stage you are also directed to the Wanderlust Guild Loadstone; the latter is offered in (many) stages by Master Vanguard Regan, on the upper floor in the city of Crescent Reach.
 
@@ -118,14 +118,14 @@ Farmer Lize, Farmer Joen, both in a room downstairs in the inn; and Akins, upsta
 - [Things Go Bump in the Night: The Catacombs](http://everquest.allakhazam.com/db/quest.html?quest=3658) 
 - [Things Go Bump in the Night: The Ogre's Spirit](http://everquest.allakhazam.com/db/quest.html?quest=3659)
 
-Now you need to go to the farm, north of the gnolls in the Hollow.  Open chests for the trinkets and kill skeletons.  The chests respawn rapidly, so complete this and go back to the farmers; you should then be able to pick up the "Reclaim the Farm!" quest.  Go back, finish the kill quest if you haven't already, and click the bag of seeds on the field area.  Rewards are: some drink, food, and a range slot item.
+Now you need to go to the farm, north of the gnolls in the Hollow.  Open chests for the trinkets and kill skeletons.  The chests respawn rapidly, so complete this and go back to the farmers; you should then be able to pick up the "Reclaim the Farm!" quest (this may require a slightly higher level than the rest).  Go back, finish the kill quest if you haven't already, and click the bag of seeds on the field area.  Rewards are: some drink, food, and a range slot item.
 
-Inside the farm house, on the upper floor there is an undead farmer (or a skeletal scavenger), probable level 20, which drops the locket.  He may also wander around outside around the field; if so, that is a recent change.  Reward is an earring.
+Inside the farm house, on the upper floor there is an undead farmer (or a skeletal scavenger), probably level 20, which drops the locket.  He may also wander around outside around the field; if so, that is a recent change.  Reward is an earring.
 
 Across the stream from the farmhouse is a field of undead Nokk (17+); kill these; reward is yet more potions, and collect the next quest in this series.  Inside the cave, at the back of the left hand fork, is a container with the second item to hand in to Hemfar. Finally, on the top floor of the city is an undead room, behind the rats and bats.  Click the throne to spawn the level 20 Gekkdar.  Behind his throne is a container with the last Librarian hand in item.  The final reward is another ring, this achievement (for the last six quests) gives some leggings, but the achievement for finishing Crescent Reach quest series gives you a tunic, necklace, cloak and shoulderpads.
 
-So far that took me from level 15 to 20 in just under 10 hours played.  And we are done with Crescent Reach.
+So far that took me from level 15 to 20 in just under 10 hours played in total (from level 1 - and I've repeated it in under 5 hours more recently).  And we are done with Crescent Reach.
 
 **Bonus points: Lost Dungeons of Norrath charm**
 
-As soon as you hit level 20, you're going to be bugged by yellow messages about how you need to talk to someone.  You can get this out of the way while still in Crescent Reach.  The NPC you need is near the upstairs banker.  To finish the quest, both the Butcherblock and Everfrost LDoN camps are in the same zone as a Plane of Knowledge book.  The Butcherblock camp is the safest to reach, especially if you are an evil race or class; just avoid the dwarfs.  Speak to Vual Stoutest there: he wants to hear from you "adventures", "favor journal", "Morden Rasp", "farstone" in answer to his questions.  You now have the Adventurer's Stone (charm augmentation), which gains power as you complete adventures at the Wayfarer's camps (LDoN).  It also means that you can use the Magus at each camp (and in the Guild Lobby) to port between them.  You can't port to the Guild Lobby, only from it, unfortunately.
+As soon as you hit level 15, you're going to be bugged by yellow messages about how you need to talk to someone every time you zone into Crescent Reach.  You can get this out of the way while still in Crescent Reach.  The NPC you need is near the upstairs banker.  To finish the quest, both the Butcherblock and Everfrost LDoN camps are in the same zone as a Plane of Knowledge book.  The Butcherblock camp is the safest to reach, especially if you are an evil race or class; just avoid the dwarfs.  Speak to Vual Stoutest there: he wants to hear from you "adventures", "favor journal", "Morden Rasp", "farstone" in answer to his questions.  You now have the Adventurer's Stone (charm augmentation), which gains power as you complete adventures at the Wayfarer's camps (LDoN).  It also means that you can use the Magus at each camp (and in the Guild Lobby) to port between them.  You can't port to the Guild Lobby, only from it, unfortunately.
