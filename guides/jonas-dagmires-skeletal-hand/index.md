@@ -119,10 +119,10 @@ Quest NPCs are at the succor point, next to the ones for Maiden’s Grave. Locat
 
 Chest: one on the Northern side of the island; two on the Southern side of the island; one in the water between the southern small island and the main island; and one west of the northern small island in the water.
 
-`P -2794.9167, 2858.2087, 253.4266, 0, 0, 0, 2, Ancient_Sextant
-P -2618.3167, 4088.9497, 277.1005, 0, 0, 0, 2, Silver_Belt_Buckles
-P -1755.0483, 3136.9338, 304.3309, 0, 0, 0, 2, Merchant_Vessel_Trade_Routes
-P -1048.0577, 4166.1558, 308.1913, 0, 0, 0, 2, Sister_Island_Skivvies
+`P -2794.9167, 2858.2087, 253.4266, 0, 0, 0, 2, Ancient_Sextant  
+P -2618.3167, 4088.9497, 277.1005, 0, 0, 0, 2, Silver_Belt_Buckles  
+P -1755.0483, 3136.9338, 304.3309, 0, 0, 0, 2, Merchant_Vessel_Trade_Routes  
+P -1048.0577, 4166.1558, 308.1913, 0, 0, 0, 2, Sister_Island_Skivvies  
 P -1752.1949, 4214.7144, 304.5287, 0, 0, 0, 2, Stack_of_Navigation_Charts`
 
 Northern Raindrop Isle: n3100, p2800  
@@ -168,8 +168,8 @@ Loc for Rumors (cave entrance):
 
 Ships (rough):
 
-`P 3173.0000, -3830.0000, 0.0000, 0, 0, 0, 3, Shipwreck
-P 4019.0000, -3303.0000, 0.0000, 0, 0, 0, 3, Shipwreck
+`P 3173.0000, -3830.0000, 0.0000, 0, 0, 0, 3, Shipwreck  
+P 4019.0000, -3303.0000, 0.0000, 0, 0, 0, 3, Shipwreck  
 P 3366.0000, -3200.0000, 0.0000, 0, 0, 0, 3, Shipwreck`
 
 *Deadbone Meats* – on shore in bay; and Small Matters – humans inland. No see invis, but beware random undead on island. Humans start at glowers, so are not KoS. Lizards have bigger aggro range, but no animals assist.
@@ -197,10 +197,10 @@ Keep getting the Bella kill tasks while doing the pirate kills (“kill a few”
 
 All quest drops are random drops from any pirate; some posters on Allakhazam claim they may drop more on higher level ones. For Rum, you need the most drops (10) and this appears to be the rarest – although I suspect rum has the same drop rate as IOUs and cutlasses. It may drop more often from the higher level mobs, like mates.
 
-*Fire in Hold*: might not get aggro if you stand against wall. Use lev/SoE, just in case! The trigger point is at the bottom of the either set of steps – not, as someone says on Allakhazam, in the jaws of the shark. This was the only one that I needed help for (as a 76 mage), to safely pull the dockworkers. I was able to pull the single dockworker by the left hand set of steps without aggro from the others, although a small knockback would cause problems.
+*Fire in Hold*: might not get aggro if you stand against wall. Use lev/SoE, just in case! The trigger point is at the bottom of either set of steps – not, as someone says on Allakhazam, in the jaws of the shark. This was the only one that I needed help for (as a 76 mage), to safely pull the dockworkers. I was able to pull the single dockworker by the left hand set of steps without aggro from the others, although a small knockback would cause problems.
 
 [Snake Milk](http://everquest.allakhazam.com/db/quest.html?quest=4075) (Sid Hacke) 69-73
 
-This task is connected to the other JH tasks, as one of the central bones is given, but is given by the DBR quest giver, and is done entirely off-shore. Drops from seas snakes and ringed sea snakes, which are in the water. Ringed sea snakes spawn after the low level sea turtles in the bay of Jardel’s Hook are killed (uncommon). Sea snakes are found at sea, and I have only ever seen them in the north and north east of the map. Drop rate is high – maybe 90%.  A tracker really helps here.
+This task is connected to the other JH tasks, as one of the central bones is given, but is given by the DBR quest giver, and is done entirely off-shore. Drops from sea snakes and ringed sea snakes, which are in the water. Ringed sea snakes spawn after the low level sea turtles in the bay of Jardel’s Hook are killed (uncommon). Sea snakes are found at sea, and I have only ever seen them in the north and north east of the map. Drop rate is high – maybe 90%.  A tracker really helps here.
 
 *Salmagundi Stew*: This gives one of the standard set of rewards for JH, however, it doesn’t seem to open up a new bone; I suspect that it is paired with the Slop task, also from Bilgewater Bill, and both give the same bone. I was asked for shark cartilage and sea turtle guts – make sure you have this before doing the Snake Milk task. Guts drop from grey turtles in the bay of JH, but also from any other sea turtles. Claims on Allakhazam that other people have been given different items to collect. Shark cartilage is a very common drop from great white sharks, which are in all the open sea areas.

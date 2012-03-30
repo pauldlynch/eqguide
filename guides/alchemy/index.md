@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Sidetracks: Alchemy"
+tagline: "For Beginners"
 group: guide
 ---
 {% include JB/setup %}
@@ -12,7 +13,7 @@ Alchemy is one of the few trade skills that is genuinely useful in several diffe
 
 Objective: Skinspikes (level 25) and Prismatic Dye.  Needs a level 25 shaman to start, which takes about ten hours, including Crescent Reach trade skill quests to hit skill 54.  The target is to exceed skill 178, which is the trivial for Skinspikes VI, which is the highest rank that can be made using storebought ingredients.
 
-Skill up to 79 on Skinspikes III, as the by product is useful, even though there are more efficient/cheaper ways to get that skill.
+Skill up to 79 on Skinspikes III, as the byproduct is useful, even though there are more efficient/cheaper ways to get that skill.
 
 Prismatic Dye uses a mix of pottery and alchemy, so do the basic skill up quest for pottery as well.  You can also use brewing in place of alchemy, which you can skill up using very cheap fishing grubs to over 100, but we're going to be skilling up alchemy anyhow, so that's the way I'm going to show it.
 
