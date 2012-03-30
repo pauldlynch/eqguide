@@ -265,7 +265,7 @@ Ratasaurus - up to level 7; PH is diseased rats.
 **Bugs**
 
 No fire beetle eyes (for druid Flame Lick, etc).  
-No snake scales doe shaman/beastlord Scale Skin.
+No snake scales for shaman/beastlord Scale Skin.
 Gloomingdeep counts as indoors, so Camouflage and Harmony don’t work; but Spirit of Wolf does.
 
 **Useful Customisations**
