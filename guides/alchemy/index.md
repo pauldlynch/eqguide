@@ -32,7 +32,7 @@ Vial of Prismatic Dye (alchemy, 68):
 - Prismatic Dye
 - Dye Vial
 
-Assuming 10% failures, one vial costs 32p 7g to make (at higher skill levels 5% is the best failure rate you can get).
+Assuming 10% failures, one vial costs 32p 7g to make (at higher skill levels 5% is the best failure rate you can get).  Although with Alchemy at 77, from one stack of 20 combines, costing 589pp, I got 9 vials - 65p 3g 8s per vial for that run.  Most of the fails were on the Alchemy combines, which is therefore worth getting much higher before starting.
 
 It is also a good idea to make a Beginner Alchemy Trophy, from the Beginner Alchemy Test - see Baublie Diggs in the newbie yard of West Freeport.  Ingredients required are:
 
@@ -72,7 +72,7 @@ Crude Friable Potion Vial requires:
 - Small Block of Clay (3)
 - Firing Sheet (1)
 
-To make Skinspikes III, trivial 79:
+To make **Skinspikes III**, trivial 79:
 
 Alchemist Mensah:
 
@@ -86,3 +86,36 @@ Alchemist Zahra:
 - Violet Tri-Tube Sap (1)
 
 So far, 3 stacks of ingredients (20) to skill 68 (from 54), then 2 more stacks to 77.  Cost under 60pp, and made 48 potions.
+
+**Skinspikes IV, trivial 106:**
+
+Alchemist Pili:
+
+- Makeshift Potion Vial (1)
+- Sprig of Acaana (1)
+- Sprig of Comfrey (1)
+- Sprig of Flamewort (2)
+
+Alchemist Zahra:
+
+- Blue Vervain Bulb (1)
+
+73pp for 2 stacks.  4.5 stacks to 106; just over 150pp.  60 potions made.
+
+**Skinspikes V**, trivial 142:
+
+Betherium Bark (1)
+
+Alchemist Pili:
+
+- Simple Potion Vial (1)
+- Sprig of Acaana (1)
+- Sprig of Comfrey (1)
+- Sprig of Flamewort (2)
+
+Alchemist Zahra:
+
+- Betherium Bark (1)
+
+2 stacks 94pp.  And only 2 skill ups, to 108. 25 potions made.
+

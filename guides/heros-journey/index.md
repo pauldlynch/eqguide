@@ -45,9 +45,22 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*
 	- The Ticking Crocodile (Hammerstock)
 	- Witchlamps (Alchemist Ella)
 - Battling Blightfire (26-30)
-	-
+	- Dead Wood, the Shambling Mounds (Akins)
+	- Dead Wood, Treants (Akins)
+	- Spooky! (Akins)
+	- The Everburning (Akins)
+	- Summon the Spirits (Gubjak the Lost)
+	- Lay Them to Rest (Gubjak the Lost)
 - Champion of the Moors (31-35)
-	-
+	- Pieces of the Past (Historian Pewdri)
+	- Historian Pewdri's Task (Historian Pewdri)
+	- Feather for your Cap (Tailor Ulen)
+	- The Dark Tower, Flickering Torches (Shaytherrein the Exorcist)
+	- The Dark Tower, Fallen Guard (Shaytherrein the Exorcist)
+	- The Dark Tower, Lord of the Tower (Shaytherrein the Exorcist)
+	- The Blightfire Witches (Zan the Witch Hunter)
+	- Return of the Moorwalkers (Arch Druid Springthorn)
+
 - Job Offers (20+)
 	- Lost Memento (Moors Sign Post)
 	- Experienced Hunters Needed (Moors Sign Post)
@@ -64,6 +77,7 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*
 	- Hardy Seeds (Farmer D'Resh)
 	- Kindling for the Fires (Smithy Bronson)
 	- Green Ooze Buds (Fletcher Orshawn)
+
 - Wayfarers Brotherhood Adventurer's Stone (Various 20+)
 - Conqueror of Blightfire (21-35)
 	- Battling the Bixies
