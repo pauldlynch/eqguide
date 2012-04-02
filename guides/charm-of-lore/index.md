@@ -28,9 +28,13 @@ The Note is a book on the table in the second room on the right, on the top floo
 - Petrified Leather Boot Sole
 - Preserved Hairy Halfling Foot
 
+The bark is in a pile of stones between the central hole in the crater and the SE lake.  The beads are in another pile of stones north of the Ogre Stomp (by Gubjak; near Selay).  The boot sole is behind the dragon carcass north of the crossroads, and the foot is in a red flower in the middle of the jumjum field.
+
 **Stone Hive**
 
 - Preserved Kithicor Baneleaf
+
+Head east into the hedge maze, and the baneleaf is in a flower at the very end of the maze, near the enchanter spell merchant.
 
 **Goru'kar Mesa**
 
@@ -74,7 +78,6 @@ The Note is a book on the table in the second room on the right, on the top floo
 **Vergalid Mines**
 
 - Vergalid Scale
-
 
 **Ashengate**
 

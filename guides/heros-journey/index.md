@@ -35,7 +35,7 @@ See the [Crescent Reach guide](/eqguide/guides/crescent-reach/) for full details
 
 **Blightfire Moors**
 
-See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*work in progress*).
+See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 
 - Welcome to the Moors (21-25)
 	- The Golden Pick (Ordunn the Miner)
@@ -44,23 +44,8 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*
 	- The Ghostpack Fens (Ozzana the Trapper)
 	- The Ticking Crocodile (Hammerstock)
 	- Witchlamps (Alchemist Ella)
-- Battling Blightfire (26-30)
-	- Dead Wood, the Shambling Mounds (Akins)
-	- Dead Wood, Treants (Akins)
-	- Spooky! (Akins)
-	- The Everburning (Akins)
-	- Summon the Spirits (Gubjak the Lost)
-	- Lay Them to Rest (Gubjak the Lost)
 - Champion of the Moors (31-35)
-	- Pieces of the Past (Historian Pewdri)
-	- Historian Pewdri's Task (Historian Pewdri)
-	- Feather for your Cap (Tailor Ulen)
-	- The Dark Tower, Flickering Torches (Shaytherrein the Exorcist)
-	- The Dark Tower, Fallen Guard (Shaytherrein the Exorcist)
-	- The Dark Tower, Lord of the Tower (Shaytherrein the Exorcist)
-	- The Blightfire Witches (Zan the Witch Hunter)
-	- Return of the Moorwalkers (Arch Druid Springthorn)
-
+	-
 - Job Offers (20+)
 	- Lost Memento (Moors Sign Post)
 	- Experienced Hunters Needed (Moors Sign Post)
@@ -77,29 +62,195 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*
 	- Hardy Seeds (Farmer D'Resh)
 	- Kindling for the Fires (Smithy Bronson)
 	- Green Ooze Buds (Fletcher Orshawn)
+	
+- Battling Blightfire (26-30)
+	- Dead Wood, the Shambling Mounds (Akins)
+	- Dead Wood, Treants (Akins)
+	- Spooky! (Akins)
+	- The Everburning (Akins)
+	- Summon the Spirits (Gubjak the Lost)
+	- Lay Them to Rest (Gubjak the Lost)
+	- The Fallen Dragon (Outpost Guard Gorath)
 
-- Wayfarers Brotherhood Adventurer's Stone (Various 20+)
+- Champion of the Moors (31-35)
+	- Pieces of the Past (Historian Pewdri)
+	- Historian Pewdri's Task (Historian Pewdri)
+	- Feather for your Cap (Tailor Ulen)
+	- The Dark Tower, Flickering Torches (Shaytherrin the Exorcist)
+	- The Dark Tower, Fallen Guard (Shaytherrin the Exorcist)
+	- The Dark Tower, Lord of the Tower (Shaytherrin the Exorcist)
+	- The Blightfire Witches (Zan the Witch Hunter)
+	- Return of the Moorwalkers (Arch Druid Springthorn)
+
+- Battling the Bixies
+	- Bixie Menace, Drone Hatchery (Scout Bowen)
+	- Bixie Menace, Jum Jum Fields (Scout Bowen)
+	- Bixie Menace, The Silo (Scout Bowen)
+	- The Bixie Threat? (Scout Ethaniel)
+	- Bixie Jumjum (Scout Ethaniel)
+	- Bixie Plans (Scout Ethaniel)
+	- Bixie Thralls (Scout Ethaniel)
+	- Stonehive Venom Stingers (Flethcer Orshawn)
+	- Buzzazar (Fletcher Orshawn)
+
+- Makesn's Plight
+	- A Widow's Last Memory (Merchant Makesn)
+	- A Taste for Honey (Merchant Makesn)
+	- She Haunts My Dreams (Merchant Makesn)
+
 - Conqueror of Blightfire (21-35)
-	- Battling the Bixies
-	- Makesn's Plight
-- Wayfarers Brotherhood Emblem (20+)
+
+- Wayfarers Brotherhood Adventurer's Stone (Various 20+)	
 
 **Stone Hive**
 
 - Welcome to Stone Hive (36-45)
+	- Sticky Situation (Scout Vreshnar)
+	- The Saving Salve (Scout Vreshnar)
+	- Plans or No Plans (Scout Vreshnar)
+	- Bee Prepared for War (Scout Vreshnar)
+	- The Golden One (Scout Vreshnar)
+
 - Short Sharp Sting (36-45)
+	- Buzz on the Bixies (Assistant Avellone)
+	- The Festering Combs (Assistant Avellone)
+	- Jokes on You (Assistant Avellone)
+	
+- Botanical Busywork (35+)
+	- A'Mazin' Plants (Botanist Brezuu)
+	- Curious Seeds (Botanist Brezuu)
+	- Sappy Request (Botanist Brezuu)
+	
+- Cooking With Honey (35+)
+	- Nothing to Stew About (Cook Idriak)
+	- Touchy Feely Flan (Cook Idriak)
+	- Heads Above the Rest (Cook Idriak)
+	- Jumjum Research (Cook Idriak)
+	
+- Working for Warwing (35+)
+	- Who's Who? (Warwing Wendlez)
+	- Infiltrate the Hive (Warwing Wendlez)
+	- Honey, I'm Home! (Warwing Wendlez)
+	- The Queen Bixie (Warwing Wendlez)
+
 - Slayer of Stone Hive (36-45)
 
 **Goru'kar Mesa**
 
 - Welcome to the Mesa (41-45)
+	- Minohten Mushrooms 
+	- No Place Like Home 
+	- Reduce the Scouts 
+	- Tuffein Mushrooms 
+	- To Dull the Edge 
+	- These Buscuits are Awfully Hard 
+	- We Need Supplies 
+	- Protect the Tuffein 
+	- More Supplies for Devan 
+	- Nymphs Are a Menace! 
+	- Minohten Are a Menace!
+	
 - Pranks and Research (46-50)
+	- Smoke Them Out 
+	- Pluck Their Wings 
+	- Make Gravel 
+	- Pull Their Hair 
+	- Research the Dromrek 
+	- Parlay with the Dromrek 
+	- Soothe the Savage Beast? 
+	- Parlay with the Dromrek, Again 
+	- Reduce the Dromrek Threat
+	
 - Moving Up the Ranks (51-55)
+	- Pluck It! 
+	- Harpy Horrors 
+	- Tudor's Beer 
+	- Tudor's Ale 
+	- Tudor's Wine 
+	- Tudor's Spirits 
+	- Vermin Elimination 
+	- Birds of a Feather 
+	- Harping on Harpies 
+	- Dromrek Must Die 
+	- Cleanse Serpent's Falls
+	
+- Dorina's Love (40+)
+	- Dorina's Love 
+	- Dorina's Love Letter 
+	- Dorina's Gift 
+	- Dorina's Personalized Gift 
+	- Dorina's Potion 
+	- Dorina's Lament
+	
+- Madu's Armor (40+)
+	- Wolf Skins for Madu 
+	- Bear Pelts for Madu 
+	- Snake Skins for Madu 
+	- Spider Silk for Madu 
+	- Madu Needs More Supplies 
+	- Kill Fantoma 
+	- Kill Ursalua
+	
+- Ciodaru's Love (45+)
+	- Ciodaru's Love 
+	- Ciodaru's First Gift 
+	- Ciodaru's Second Gift 
+	- Protect Kathryn 
+	- Ciodaru's Third Gift 
+	- Ciodaru's Fourth Gift 
+	- Protect Kathryn Again 
+	- Ciodaru's Fifth Gift 
+	- Ciodaru's Sixth Gift 
+	- Protect Kathryn Some More 
+	- Who Wants to Kill Kathryn? 
+	- Ciodaru's Gift Box
+	
+- Bring Friends (45+)
+	- A Bad Dream 
+	- Oh No! 
+	- Stand With Us 
+	- They Are Coming
+	
+- Ekaterina's Lament (50+)
+	 Ekaterina's Lament 
+	- It Can't Be the Queen 
+	- Find the Cure 
+	- Parts for a Cure 
+	- Tunare Save the Queen
+	
+- Centaur's Troubles (50+)
+	- Prove Yourself 
+	- Reduce the Thug Menace 
+	- Research the Centaur Malady 
+	- Cure the Malady
+
 - Magnate of the Mesa (41-55)
 
 **Blackfeather Roost**
 
 - Ascending the Roost (56-60)
+	- The Ledge 
+	- The Grove 
+	- The Cliffs 
+	- The Mesa 
+	- Reach the Royal Throne 
+	- Kill the Queen of the Harpies!
+
+- Lucian's Vengeance (55+)
+	- Kill Harpies and Griffons! (Details?) 
+	- Knock the Nests Down! 
+	- Kill Gayatri!
+	
+- Adrian's Calling (55+)
+	 Find My Son 
+	- Explore the Roost! 
+	- Harass the Harpies!
+	
+- While You're Roosting (55+)
+	- Griffon Feathers 
+	- Help Poor Fenith! 
+	- A Small Wager
+
 - Raider of the Roost (56-60)
 
 **The Steppes**
@@ -127,5 +278,33 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details (*
 - Deadbone Reef (70-80)
 - Suncrest Ridge (70-80)
 - Blacksail Folly (70-80)
+
+- Jonas Dagmire's Skeletal Hand (70+)
+
 - Captain o'er the Buried Sea (70-80)
+
+**Secrets of Faydwer**
+
+- Assisting the Ak'Anon Strike Force V (70-80)
+- Assistant to the Fangbreakers (76-83)
+- Assistant Fangbreaker (76-83)
+- Agent of Ak'Anon Strike Force V (80-85)
+
+- Explorer of Dragonscale Hills (70-80)
+ Champion of the Loping Plains (76-83)
+- Strikeforce Insurgent in Mechanotus (80-85)
+
+**Seeds of Destruction**
+
+- Herald of Oceangreen Hills (75-80)
+- Herald of Oceangreen Village (75-80)
+- Champion of Blackburrow (76-85)
+- The Army of Light (80-85)
+- The Army of Obliteration (80-85)
+- From the Fields to Kaesora (80-85)
+- Storming Kaesora and Kurns (80-85)
+
+- Herald of Old Antonica (75-85)
+- Tactician of Bloody Kithicor (80-85)
+- Hero of the Field of Scale (80-85)
 

@@ -13,10 +13,24 @@ First of all, I want to express my disgust that SOE chose to spell lodestone as 
 
 **Wanderlust Guild: On Guard**
 
-Wanderlust Guild: The Crossroads
-Wanderlust Guild: Far Afield
-Wanderlust Guild: Into the Reeds
-Wanderlust Guild: All Abuzz
+The three checkpoints are all easily found: the crossroads in the middle of the zone, the Dark Tower in the NW (IVU is very handy here), and the Slashclaw Cliffs south of the cross roads.
+
+**Wanderlust Guild: The Crossroads**
+
+Starting at the crossroads with Gimlek.  
+
+**Wanderlust Guild: Far Afield**
+
+The wizard ruins are south of the central crater, the mines should trigger outside the middle mine (in the south), the druid ring is west of the crossroads, and the bog should trigger anywhere inside the crater.
+
+**Wanderlust Guild: Into the Reeds**
+
+Pilgrim Fiskar is in the hidden camp in the fens in the east. 
+
+**Wanderlust Guild: All Abuzz**
+
+The jumjum farm is in the SE, at the same location as the halfling foot for the Charm of Lore, and Scout Verrin for one of the Blightfire quests.  Stone Hive is to the east - and you could enter to collect the leaf for Charm of Lore.  The exact point for the ghostpack is hard to find, but should be north of Fiskar, just west of one of the green-eyed posts.  Selay is in the NE.
+
 Wanderlust Guild: Northbound Trails
 Wanderlust Guild: Pie-Eyed Pipers
 Wanderlust Guild: West of the Mesa
