@@ -10,9 +10,10 @@ Welcome to Everquest Guides.  I will be adding new guides over time, aiming to c
 New Players
 -----------
 
-- [The Mines of Gloomingdeep](guides/mines-of-gloomingdeep)
+- [The Mines of Gloomingdeep](guides/mines-of-gloomingdeep) (1-10/15)
 - [Plane of Knowledge Quests](guides/plane-of-knowledge-quests)
-- [Crescent Reach](guides/crescent-reach)
+- [Crescent Reach](guides/crescent-reach) (1-20/25)
+- [Blightfire Moors](guides/blightfire-moors) (15-45/50)
 
 Everquest Anniversary
 ---------------------
@@ -47,7 +48,8 @@ Sidetracks
 Forthcoming
 -----------
 
-- Blightfire Moors
+- Stone Hive
+- Goru'kar Mesa
 - Frostfell Quests
 - Halloween Quests
 - The Kunark Express
