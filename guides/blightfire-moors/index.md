@@ -60,6 +60,8 @@ Make sure you get the quest from Tailor Ulen while you are in Crescent Reach; gr
 
 You only need do this if you either want to complete the Hero's Journey, either for the sense of achievement or for the rewards, or are getting bored in the earlier areas, as you may be of sufficient level to move on to Stone Hive or Goru'kar Mesa.  These are rated as 25-30 quests, and I was 40 by now.  If so, pick up the quests from Merchant Makesn and Fletcher Orshawn at the crossroad, and Scout Bowen and Scout Ethaniel in the swamp camp, and take the next Regan quest to Pilgrim Fiskar.  Bixes in the SE of Blightfire are level 30 - 35.  Makesn's later quest will send you to the southern lake inside the crater.  If you wait until you have almost finished the Scout Bowen series, he will send you to kill a green ooze, also inside the crater, and you can do both at the same time.  That completes "Makesn's Plight"; the reward is a range item.
 
+At some point you will loot a Honey-Covered Journal from a bixie gardener, and pages of "Bixie Evolution".  The journal is a container, and when opened with give you a quest.  This is required for one of the Stone Hive achievements, and uses page drops from Blightfire and Stone Hive.
+
 Buzzazzar isn't too hard (level 35), and drops three of his handin items.  Scout Verrin is in the middle of the planted field, lying down; nothing will attack him on the walk back.  The jumjum reserves are in the first building you come to (to hand the green ooze bud).  Once you have killed the Farm Alchemist, you will need to return to Crescent Reach.
 
 The reward for the Ethaniel series is a decent weapon.  Level 42, 26 hours played.

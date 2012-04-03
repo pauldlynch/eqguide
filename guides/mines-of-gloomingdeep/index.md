@@ -47,13 +47,13 @@ In the main cave, pay attention also to the optional tasks: hail Poxan to be tol
 
 Remember to re-equip your weapon after handing it to Absor for an upgrade! (part of Basic Training)
 
-If you haven't already, you should speak to Elegist and hire the highest level tank mercenary you can; if you are Gold, this will be a Journeyman tier 1.  If you don't like mercs, that's ok, but still hire one now as it will be free; you can suspend it if you wish.
+If you haven't already, you should speak to Elegist and hire the highest level tank mercenary you can; if you are Gold, this will be a Journeyman tier 1.  If you don't like mercs, that's ok, but still hire one now as it will be free; you can suspend it if you wish.  The price to hire a mercenary is ZERO until level 10 (approximately), and the per 15 minute hire charge is also ZERO until then.
 
 **Rats & bats**
 
 You then want to connect with Rahtiz (hail him) and collect your next tasks: “Clearing the Vermin Nests”, then “Spider Caves”, followed by “Arachnida” (see below).  Make your /open hotkey now, if you haven't already.
 
-*Details*: press ‘q’ to auto-attack. Scribe in your spell book any spell or tome that Rytan gave you, and check the spell vendors for any other spells that you can use; you may also find some on the vendor (Wijdann). You create a hot button by pressing ctrl-o, right clicking on a blank button, giving it a name, then Accepting it; you can put it on your hot keys bar by left-click and hold on the button, then click on a blank space in the bar.
+*Details*: press ‘q’ to auto-attack. Scribe in your spell book any spell or tome that Rytan gave you, and check the spell vendors for any other spells that you can use; you may also find some on the vendor (Wijdann). You create a hot button by pressing ctrl-o, right clicking on a blank button, giving it a name, then Accepting it; you can put it on your hot keys bar by left-click and hold on the button, then click on a blank space in the bar.  There is an alternative way to create a hot button, which is to right click on a spare button space in your hot bar, and follow the menus.
 
 You can add combat abilities (which you learn from tomes) to your hot bar; first right click the tome to learn it, then bring up the Combat Abilities window (either from your EQ menu, or by alt-c) and assign the new ability to a button by pressing the "S" button; drop the new hotkey on a hotbar or the combat abilities window.  This is explained in the Basic Training quest; repeated here in case of information overload.
 

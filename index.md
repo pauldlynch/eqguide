@@ -14,6 +14,7 @@ New Players
 - [Plane of Knowledge Quests](guides/plane-of-knowledge-quests)
 - [Crescent Reach](guides/crescent-reach) (1-20/25)
 - [Blightfire Moors](guides/blightfire-moors) (15-45/50)
+- [Stone Hive](guides/stone-hive) (35-45++)
 
 Everquest Anniversary
 ---------------------
