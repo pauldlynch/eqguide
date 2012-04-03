@@ -143,7 +143,7 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Reduce the Scouts 
 	- Tuffein Mushrooms 
 	- To Dull the Edge 
-	- These Buscuits are Awfully Hard 
+	- These Biscuits are Awfully Hard 
 	- We Need Supplies 
 	- Protect the Tuffein 
 	- More Supplies for Devan 
