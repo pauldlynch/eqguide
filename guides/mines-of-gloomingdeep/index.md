@@ -39,6 +39,14 @@ As you enter the main mines after completing Jail Break!, you will find two task
 
 Your bank has another Backpack – and has 24 slots, plus the two shared slots which are only available if you are Gold. You can equip the backpack straight away.
 
+You should probably check over the Allakhazam spells and abilities list for your class.  Almost all of the spells you get up to level 10 are available from the vendors in the main cavern.
+
+**Digression: Grinding**
+
+OK, so this zone is quest driven, but that will only get you so far.  You may find experience lacking at some points, depending on how you approach the quests, group versus solo, the order you take them in, etc.  And if you want to level past ten, you will have to do some grinding: which means "gaining experience by repetitively killing mobs", by the way.
+
+At a low level, you can easily grind on spiders or kobolds, that much is obvious.  I'd like to point out that diseased rats in the corridors don't give a faction hit, if you happen to be one of the race/class combinations that kobolds don't object to.  Past ten, only the highest kobolds will give experience, so you may be reduced to grinding on Krenshin in the pit.
+
 **What To Do?**
 
 Start by completing “Basic Training” (I give details of all tasks below).
