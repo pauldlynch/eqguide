@@ -83,7 +83,7 @@ If you can invis or are a race (like ogre) that has good kobold faction (just co
 
 You will want to get to level 7 or 8, depending on class and friends, before completing any more tasks. Just kill anything that is dark blue or higher – spiders, lurkers, warriors, grunts, diseased rats, and goblin slaves.
 
-It is probably easiest to finish “Goblin treachery”, then “Spider Tamer Gugan”, then “Arachnophobia”, then “Kobold Leadership” – and if you can do that, you will have finished “Sabotage” and “Scouting Gloomingdeep” as well.
+It is probably easiest to finish “Goblin treachery”, then “Spider Tamer Gugan”, then “Arachnophobia”, then “Kobold Leadership” – and if you can do that, you will have finished “Sabotage” and “Scouting Gloomingdeep” as well.  Rookfynn, along with most of the goblins, is in a chamber at the end of a tunnel at the first level down in the pit.
 
 Grind some more by killing until you are level 9 or 10. At this point you should be able to complete solo “Freedom’s Stand”, “Flutterwing’s Dilemma”, and “Pit Fiend”.  I completed all quests by 50% into level 10, with no unnecessary kills, and under 3 hours played.
 
@@ -236,7 +236,7 @@ The key is in a chest in Slavemaster Ruga’s room, and drops from the Gloomingd
 - Kill Rookfynn, the Goblin Shaman
 - Hail Scout Kaikachi with news of your success
 
-Level 5 goblins and the named is level 7. Killing slaves reduces your faction with the kobolds. Reward is a Potion of Invisibility, some exp (20% at level 9), and a Gloomingdeep wristband.
+Level 5 goblins and the named is level 7. Killing goblins reduces your faction with the kobolds. Rookfynn is at the end of a tunnel at the first level down in the pit. Reward is a Potion of Invisibility, some exp (20% at level 9), and a Gloomingdeep wristband.
 
 *Flutterwing’s Dilemma* (Rashere)
 
