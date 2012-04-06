@@ -138,17 +138,17 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 **Goru'kar Mesa**
 
 - Welcome to the Mesa (41-45)
-	- Minohten Mushrooms 
-	- No Place Like Home 
-	- Reduce the Scouts 
-	- Tuffein Mushrooms 
-	- To Dull the Edge 
-	- These Buscuits are Awfully Hard 
-	- We Need Supplies 
-	- Protect the Tuffein 
-	- More Supplies for Devan 
-	- Nymphs Are a Menace! 
-	- Minohten Are a Menace!
+	- Minohten Mushrooms (Costica)
+	- No Place Like Home (Costica)
+	- Reduce the Scouts (Costica)
+	- Tuffein Mushrooms (Sorin)
+	- To Dull the Edge (Sorin)
+	- These Biscuits are Awfully Hard (Sorin)
+	- We Need Supplies (Devan)
+	- Protect the Tuffein (Devan)
+	- More Supplies for Devan (Devan)
+	- Nymphs Are a Menace! (Devan)
+	- Minohten Are a Menace! (Devan)
 	
 - Pranks and Research (46-50)
 	- Smoke Them Out 
@@ -175,21 +175,21 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Cleanse Serpent's Falls
 	
 - Dorina's Love (40+)
-	- Dorina's Love 
-	- Dorina's Love Letter 
-	- Dorina's Gift 
-	- Dorina's Personalized Gift 
-	- Dorina's Potion 
-	- Dorina's Lament
+	- Dorina's Love (Dorina)
+	- Dorina's Love Letter (Dorina)
+	- Dorina's Gift (Dorina)
+	- Dorina's Personalized Gift (Dorina)
+	- Dorina's Potion (Dorina)
+	- Dorina's Lament (Dorina)
 	
 - Madu's Armor (40+)
-	- Wolf Skins for Madu 
-	- Bear Pelts for Madu 
-	- Snake Skins for Madu 
-	- Spider Silk for Madu 
-	- Madu Needs More Supplies 
-	- Kill Fantoma 
-	- Kill Ursalua
+	- Wolf Skins for Madu (Scout Madu)
+	- Bear Pelts for Madu (Scout Madu)
+	- Snake Skins for Madu (Scout Madu)
+	- Spider Silk for Madu (Scout Madu)
+	- Madu Needs More Supplies (Scout Madu)
+	- Kill Fantoma (Scout Madu)
+	- Kill Ursalua (Scout Madu)
 	
 - Ciodaru's Love (45+)
 	- Ciodaru's Love 

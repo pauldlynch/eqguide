@@ -11,6 +11,8 @@ Alchemy for beginners
 
 Alchemy is one of the few trade skills that is genuinely useful in several different ways.  It has a personal benefit, in making Skinspikes potions to improve your personal dps; and Vials of Prismatic Dye can be sold in the Bazaar, as well as used to prevent the horrible mix of Defiant armor colors.  Use Allakhazam to track down the correct color for old school Hate or PoP Ornate armor for your class.  Hint: use 254 when you want to get 0; it's funny that way.
 
+For all tradeskills, always refer to the master guide on [EQTraders](http://mboards.eqtraders.com/eq/showthread.php?33385-Complete-Tradeskill-Guide-6-1-(Serverwide-Drop-Edition)-Rev-Apr-2009).
+
 Objective: Skinspikes (level 25) and Prismatic Dye.  Needs a level 25 shaman to start, which takes about ten hours, including Crescent Reach trade skill quests to hit skill 54.  The target is to exceed skill 178, which is the trivial for Skinspikes VI, which is the highest rank that can be made using storebought ingredients.
 
 Skill up to 79 on Skinspikes III, as the byproduct is useful, even though there are more efficient/cheaper ways to get that skill.
@@ -119,3 +121,18 @@ Alchemist Zahra:
 
 2 stacks 94pp.  And only 2 skill ups, to 108. 25 potions made.
 
+Antidote V is the recommended way to 148 (148pp for 2 stacks), then it may be worth switching back to Skinspikes.
+
+Recipe for Distillate of Antidote V:
+
+Alchemist Zahra:
+
+- Arnworth (1)
+
+Alchemist Pili:
+
+- Simple Potion Vial (1)
+- Sprig of Night Shade (3)
+- Sprig of Sage Leaves (1)
+
+Which gave me 7 skill ups for 148pp.

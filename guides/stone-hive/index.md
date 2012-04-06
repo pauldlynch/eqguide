@@ -35,6 +35,10 @@ Warwing's quest involves higher level mobs (45) with many possible adds.  You ma
 
 Warwing's quests (-520, -265) are also a series. Neezzee (-151, -16, 408), for the first, is level 45; she is on the top floor, with several higher level mobs around her.  Take the elevator next to the bookcase room up from Krizzia.  #2 is a ground spawn (182, -12, 410).  #3 is a kill/drops quest, mobs level 36-42.  #4 is the big raid - level 51 with adds (+71, -131, +413).
 
+**Equipment**
+
+To add to the couple of drops with clickie effects from Blightfire, you are given "Honeycomb Blaster" from the "Jumjum Research" quest from Cook Idriak.  This casts a bixie only snare.
+
 
 
 - Welcome to Stone Hive (36-45)
