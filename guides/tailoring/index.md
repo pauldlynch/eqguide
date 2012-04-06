@@ -82,10 +82,14 @@ All ingredients listed below are given the quantity required per combine.  I giv
 
 Because of the way that combines work, you stand a much better chance of success if your skill level is well above the trivial for a combine, and even so (without AAs) there is always a 5% chance of failure.  So I would strongly suggest using the Fetid Essence (fishing grubs plus a water flask) combine in Plane of Knowledge (Caden Zharik) or Crescent Reach (Innkeeper Seltu, Merchant Kaphiri, Merchant Wyn'las) to get your brewing skill to 122 before making your fish oil, although I'm going to skip the trophy for this.
 
-- Beginner Tailor Trophy
+- Beginner Tailor Trophy 
+
 	- Silk Bandage
+	
 		- Silk Thread (2)
+		
 			- Spiderling Silk (2)
+			
 	-  Large Patchwork Pants
 		- Pant Pattern (1) - Tailor Panya
 		- Ruined Bear Pelt (1)
@@ -98,31 +102,49 @@ Because of the way that combines work, you stand a much better chance of success
 	-  Leather Padding
 		- Low Quality Cat Pelt/Low Quality Wolf Skin/Low Quality Bear Skin (1)
 		- Silk Thread (1)
+		
 			- Spiderling Silk (2)
+			
 	-  Raw Silk Robe
+	
 		- Silk Swatch (2)
+		
 			- Spider Silk (2)
+			
 		- Tunic Pattern (1) - Tailor Panya
+		
 	-  Shade Silk Mantle
+	
 		- Shade Silk Swatch (1)
+		
 			- Shade Silk (2) - drops from shak dratha and lesser shades in Shadeweavers Thicket
 		- Shoulderpad Pattern (1) - Tailor Panya
+		
 	-  Leather Gorget
+	
 		- Fish Oil (1) - brewing combine, skill 68
+		
 			- Fish Eggs (1) - fishing combine, 135 trivial, or foraged in Reef of Coirnav
+			
 				- Tackle Box - do the combine in one, sold in Plane of Knowledge by Daeld Atan or Ramos Jerwan
 				- Skinning Knife (1) - smithing combine, trivial 41, returned
+				
 					- Dagger Blade Mold (1) - Smith Azibo
 					- Hilt Mold (1) - Smith Azibo
 					- Small Brick of Ore (1) - Smith Yahya
 					- Water Flask (1)
+					
 				- Evergreen/Thunder/Greengill Salmon (1) - fished in Warslik Woods, any Karanas, Toxxulia, Jaggedpine, Nektulos
+				
 			- Water Flask (1)
+			
 		- Raw-hide Gorget (1) - drops, e.g. from gnolls in Blightfire Moors
 	-  Tailored Large Bag
 		- Low Quality Bear Skin (1)
 		- Silk Cord (1)
+		
 			- Silk Thread (3)
+			
 				- Spiderling Silk (2)
 	-  Studded Boots
 		- Boot Pattern (1)
