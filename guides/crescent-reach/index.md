@@ -129,3 +129,7 @@ So far that took me from level 15 to 20 in just under 10 hours played in total (
 **Bonus points: Wayfarer's Brotherhood charm augmentation**
 
 As soon as you hit level 15, you're going to be bugged by yellow messages about how you need to talk to someone every time you zone into Crescent Reach.  You can get this out of the way while still in Crescent Reach.  The NPC you need is near the upstairs banker.  To finish the quest, both the Butcherblock and Everfrost LDoN camps are in the same zone as a Plane of Knowledge book.  The Butcherblock camp is the safest to reach, especially if you are an evil race or class; just avoid the dwarfs.  Speak to Vual Stoutest there: he wants to hear from you "adventures", "favor journal", "Morden Rasp", "farstone" in answer to his questions.  You now have the Adventurer's Stone (charm augmentation), which gains power as you complete adventures at the Wayfarer's camps (LDoN).  It also means that you can use the Magus at each camp (and in the Guild Lobby) to port between them.  You can't port to the Guild Lobby, only from it, unfortunately.
+
+**Digression: Grinding**
+
+If you get stuck at any point, there are some very good opportunities to grind exp in this zone.  The first part of the Hollows is good for 1-4, then across the bridge around 5; I often see people grinding shrouds there.  Then the cat and bear caves, the latter around ten.  The undead cover 15-25, from the farm area, the back room on the top floor, to the Nokk area and caves.
