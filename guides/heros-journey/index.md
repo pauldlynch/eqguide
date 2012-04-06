@@ -137,6 +137,15 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 
 **Goru'kar Mesa**
 
+- Madu's Armor (40+)
+	- Wolf Skins for Madu (Scout Madu)
+	- Bear Pelts for Madu (Scout Madu)
+	- Snake Skins for Madu (Scout Madu)
+	- Spider Silk for Madu (Scout Madu)
+	- Madu Needs More Supplies (Scout Madu)
+	- Kill Fantoma (Scout Madu)
+	- Kill Ursalua (Scout Madu)
+	
 - Welcome to the Mesa (41-45)
 	- Minohten Mushrooms (Costica)
 	- No Place Like Home (Costica)
@@ -150,6 +159,14 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Nymphs Are a Menace! (Devan)
 	- Minohten Are a Menace! (Devan)
 	
+- Dorina's Love (40+)
+	- Dorina's Love (Dorina)
+	- Dorina's Love Letter (Dorina)
+	- Dorina's Gift (Dorina)
+	- Dorina's Personalized Gift (Dorina)
+	- Dorina's Potion (Dorina)
+	- Dorina's Lament (Dorina)
+
 - Pranks and Research (46-50)
 	- Smoke Them Out 
 	- Pluck Their Wings 
@@ -160,36 +177,6 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Soothe the Savage Beast? 
 	- Parlay with the Dromrek, Again 
 	- Reduce the Dromrek Threat
-	
-- Moving Up the Ranks (51-55)
-	- Pluck It! 
-	- Harpy Horrors 
-	- Tudor's Beer 
-	- Tudor's Ale 
-	- Tudor's Wine 
-	- Tudor's Spirits 
-	- Vermin Elimination 
-	- Birds of a Feather 
-	- Harping on Harpies 
-	- Dromrek Must Die 
-	- Cleanse Serpent's Falls
-	
-- Dorina's Love (40+)
-	- Dorina's Love (Dorina)
-	- Dorina's Love Letter (Dorina)
-	- Dorina's Gift (Dorina)
-	- Dorina's Personalized Gift (Dorina)
-	- Dorina's Potion (Dorina)
-	- Dorina's Lament (Dorina)
-	
-- Madu's Armor (40+)
-	- Wolf Skins for Madu (Scout Madu)
-	- Bear Pelts for Madu (Scout Madu)
-	- Snake Skins for Madu (Scout Madu)
-	- Spider Silk for Madu (Scout Madu)
-	- Madu Needs More Supplies (Scout Madu)
-	- Kill Fantoma (Scout Madu)
-	- Kill Ursalua (Scout Madu)
 	
 - Ciodaru's Love (45+)
 	- Ciodaru's Love 
@@ -211,6 +198,19 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Stand With Us 
 	- They Are Coming
 	
+- Moving Up the Ranks (51-55)
+	- Pluck It! 
+	- Harpy Horrors 
+	- Tudor's Beer 
+	- Tudor's Ale 
+	- Tudor's Wine 
+	- Tudor's Spirits 
+	- Vermin Elimination 
+	- Birds of a Feather 
+	- Harping on Harpies 
+	- Dromrek Must Die 
+	- Cleanse Serpent's Falls
+
 - Ekaterina's Lament (50+)
 	 Ekaterina's Lament 
 	- It Can't Be the Queen 

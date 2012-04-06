@@ -64,17 +64,12 @@ Next: go to Scout Ethaniel in the fens in SE Blightfire.  Loot items that drop f
 	- Dorina's Personalized Gift (Dorina)
 	- Dorina's Potion (Dorina)
 	- Dorina's Lament (Dorina)
-
-- Pranks and Research (46-50)
-	- Smoke Them Out 
-	- Pluck Their Wings 
-	- Make Gravel 
-	- Pull Their Hair 
-	- Research the Dromrek 
-	- Parlay with the Dromrek 
-	- Soothe the Savage Beast? 
-	- Parlay with the Dromrek, Again 
-	- Reduce the Dromrek Threat
+	
+- Bring Friends (45+)
+	- A Bad Dream 
+	- Oh No! 
+	- Stand With Us 
+	- They Are Coming
 
 - Ciodaru's Love (45+)
 	- Ciodaru's Love 
@@ -89,12 +84,6 @@ Next: go to Scout Ethaniel in the fens in SE Blightfire.  Loot items that drop f
 	- Protect Kathryn Some More 
 	- Who Wants to Kill Kathryn? 
 	- Ciodaru's Gift Box
-	
-- Bring Friends (45+)
-	- A Bad Dream 
-	- Oh No! 
-	- Stand With Us 
-	- They Are Coming
 	
 - Moving Up the Ranks (51-55)
 	- Pluck It! 

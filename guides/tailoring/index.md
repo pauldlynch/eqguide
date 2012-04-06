@@ -80,6 +80,8 @@ If you are going to make a relatively high level combine, and 170 counts in my o
 
 All ingredients listed below are given the quantity required per combine.  I give a shopping list for dropped ingredients only below, which assumes all successful combines.  This requires a low level of smithing skill, and some effort with fishing.
 
+Because of the way that combine work, you stand a much better chance of success if your skill level is well above the trivial for a combine, and even so (without AAs) there is always a 20% chance of failure.  So I would strongly suggest using the Fetid Essence (fishing grubs plus a water flask) combine in Plane of Knowledge to get your brewing skill to 122 before making your fish oil.
+
 - Beginner Tailor Trophy
 	- Silk Bandage
 		- Silk Thread (2)
