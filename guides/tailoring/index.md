@@ -9,7 +9,7 @@ group: guide
 Tailoring for Beginners
 -----------------------
 
-I have added this because I have been trying to work my way through the Goru'kar Mesa quests, which require several trade skills, mostly notably tailoring.  The master reference is, as usual,  [EQTraders](http://mboards.eqtraders.com/eq/showthread.php?33385-Complete-Tradeskill-Guide-6-1-(Serverwide-Drop-Edition)-Rev-Apr-2009).  This suggest the Abysmal Sea starter quests, but the Crescent Reach equivalent is very much faster.  Just go to the tailoring area near the upstairs bank, and you will soon have skill 54.
+I have added this because I have been trying to work my way through the Goru'kar Mesa quests, which require several trade skills, mostly notably tailoring.  The master reference is, as usual,  <a href="http://mboards.eqtraders.com/eq/showthread.php?33385-Complete-Tradeskill-Guide-6-1-(Serverwide-Drop-Edition)-Rev-Apr-2009">EQTraders</a>.  This suggest the Abysmal Sea starter quests, but the Crescent Reach equivalent is very much faster.  Just go to the tailoring area near the upstairs bank, and you will soon have skill 54.
 
 As the Mesa quests will require you to make combines with a high trivial of just under 200 (170 - and possibly higher, I thought Ciodaru's quest requires some combines?), and starting with subcombines of around 50 trivial, it's a good idea to raise your skill significantly first.
 

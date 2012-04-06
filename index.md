@@ -45,11 +45,11 @@ Sidetracks
 ----------
 
 - [Alchemy for Beginners](guides/alchemy)
+- [Tailoring for Beginners](guides/tailoring)
 
 Forthcoming
 -----------
 
-- Stone Hive
 - Goru'kar Mesa
 - Frostfell Quests
 - Halloween Quests
