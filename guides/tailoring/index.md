@@ -80,7 +80,7 @@ If you are going to make a relatively high level combine, and 170 counts in my o
 
 All ingredients listed below are given the quantity required per combine.  I give a shopping list for dropped ingredients only below, which assumes all successful combines.  This requires a low level of smithing skill, and some effort with fishing.
 
-Because of the way that combine work, you stand a much better chance of success if your skill level is well above the trivial for a combine, and even so (without AAs) there is always a 20% chance of failure.  So I would strongly suggest using the Fetid Essence (fishing grubs plus a water flask) combine in Plane of Knowledge to get your brewing skill to 122 before making your fish oil.
+Because of the way that combines work, you stand a much better chance of success if your skill level is well above the trivial for a combine, and even so (without AAs) there is always a 5% chance of failure.  So I would strongly suggest using the Fetid Essence (fishing grubs plus a water flask) combine in Plane of Knowledge (Caden Zharik) or Crescent Reach (Innkeeper Seltu, Merchant Kaphiri, Merchant Wyn'las) to get your brewing skill to 122 before making your fish oil, although I'm going to skip the trophy for this.
 
 - Beginner Tailor Trophy
 	- Silk Bandage
@@ -96,7 +96,7 @@ Because of the way that combine work, you stand a much better chance of success 
 		- Glove Pattern (1) - Tailor Panya
 		- Ruined Wolf Pelt (1)
 	-  Leather Padding
-		- Low Quality Cat Pelt/Low Quality Wolf Skin (1)
+		- Low Quality Cat Pelt/Low Quality Wolf Skin/Low Quality Bear Skin (1)
 		- Silk Thread (1)
 			- Spiderling Silk (2)
 	-  Raw Silk Robe
@@ -127,9 +127,9 @@ Because of the way that combine work, you stand a much better chance of success 
 	-  Studded Boots
 		- Boot Pattern (1)
 		- Medium Quality Cat Pelt (1)
-		- Studs (4) - Smithing, 35 trivial
+		- Studs (4) - Smithing, 35 trivial, yield 2
 			- File (1)
-			- Metal Bits (3)
+			- Metal Bits (3) - yield 2
 				- Small Piece of Ore (2) - Smith Yahya
 				- Water Flask (1)
 			- Water Flask (1)
@@ -137,9 +137,10 @@ Because of the way that combine work, you stand a much better chance of success 
 - Shopping List for drops
 	- Spidering Silk (12)
 	- Ruined Bear Pelt
-	- Low Quality Bear Pelt
+	- Low Quality Bear Skin
 	- Ruined Cat Pelt
-	- Low Quality Cat Pelt (or wolf)
+	- Ruined Wolf Pelt
+	- Low Quality Cat Pelt (or wolf, or bear)
 	- Medium Quality Cat Pelt
 	- Low Quality Wolf Pelt
 	- Spider Silk (4)
@@ -147,13 +148,13 @@ Because of the way that combine work, you stand a much better chance of success 
 	- Raw-hide Gorget
 	- Salmon
 
-You can get most of these in Crescent Reach, or by vendor diving there.  Also a trip to Blightfire will be required, then probably one of the Karanas.  There are two good sources for spider silk: East Karana, or Upper Guk.  These spiders seem to drop more silk than most others, although you can continue to kill spiders in Goru'kar Mesa for silk and experience.  You will need a lot of spider silk to allow for failures in the higher level combines for the silkfang pack.
+Assuming no failures.  You can get most of these in Crescent Reach, or by vendor diving there.  Also a trip to Blightfire will be required, then probably one of the Karanas.  There are two good sources for spider silk: East Karana, or Upper Guk.  These spiders seem to drop more silk than most others, although you can continue to kill spiders in Goru'kar Mesa for silk and experience.  You will need a lot of spider silk to allow for failures in the higher level combines for the silkfang pack.  The wolf skin will require a diversion, possibly to Everfrost, and shade silk comes from Shak Dratha in Shadeweaver's Thicket.
 
 ###Back to Tailoring
 
 Then what?
 
-If you have a lot of High Quality Bear Pelts, then consider making Tailored Backpacks as a usable intermediate skill up step.
+If you have a lot of High Quality Bear Pelts, then consider making Hand Made Backpacks (trivial 88, High Quality Bear Pelt, Backpack pattern) as a usable intermediate skill up step.  Tailored Quiver has a trivial of 115 (High Quality Cat Pelt, Quiver Pattern).
 
 Start making subcombines to move quest stages forward, and the quest requires that you make them in a certain order: threads, spool, wolf beads, snake beads, string of teeth: and finally the pack.  So it is best to make them in that order, in the unlikely event that you succeed on the first try, as you would be required to repeat some of the combines just to complete the quest if you hadn't make the components in the right order.
 
@@ -184,3 +185,5 @@ The final recipe is:
 	- Spool of Spider Silk Thread (1)
 	- String of Teeth (1)
 	- Supple Wolf Pelt (1)
+
+Note that you could treat this as a free skill up route, as all the items are dropped, with just the sewing needle as a reusable tool.
