@@ -11,21 +11,21 @@ This is a large zone, catering for a wide range of levels, as much as Blightfire
 
 This collects together all the 40-45 rated quests in the Mesa.  You will have to visit Crescent Reach at least twice, and Blightfire Moors also twice; and kill and loot wolves, bears, snakes and spiders multiple times.  Some of the quest series (Dorina and Ciodaru) require relatively high tailoring skill.
 
-First, check in with Pioneer Vulu (the Wanderlust guild quest).  Pick up as many as you can of Scout Madu's armor quests while you are right there, too.  Start with the bears and wolves, as they are the lowest level.  Gather the three quests from Sorin, in the minhoten camp next.  Mesa snakes are east of the plateau, near the tuffein camp.  The best way to destroy weapons is to send a pet against the weapon racks, while you are well out of aggro range; if you don't have a pet, you'll need to clear around the racks.
+First, check in with Pioneer Vulu (the Wanderlust guild quest).  Pick up as many as you can of Scout Madu's armor quests while you are right there, too.  Start with the bears and wolves, as they are the lowest level.  Gather the three quests from Sorin, in the minohten camp next.  Mesa snakes are east of the plateau, near the tuffein camp.  The best way to destroy weapons is to send a pet against the weapon racks, while you are well out of aggro range; if you don't have a pet, you'll need to clear around the racks.
 
 Scout Madu, at the entrance to the Mesa, will give you armor quests.  You first need to kill wolves and bears from the near area (levels 35-38), then mesa snakes across the river (40-45), mesa recluse spiders (40-45/47).  Then a named bear (Ursalua, level 45) and named wolf (Fantoma, level 45); the nameds are tough for their levels; in particular Fantoma has a high damage proc and snare.  There is a more supplies quest that should be taken after the three basic quests are done, for the same items.  Completing the series gives you the "Madu's Armor" achievement and a shoulder item.
 
-Minhoten quests from Sorin, in the big tent.  You can get aggro destroying the weapon racks.  The Biscuits quest sends you back to run around the mines in Blightfire.  There is a Charm of Lore item in rocks in the minhoten caves.
+minohten quests from Sorin, in the big tent.  You can get aggro destroying the weapon racks.  The Biscuits quest sends you back to run around the mines in Blightfire.  There is a Charm of Lore item in rocks in the minohten caves.
 
-Tuffein quests from Costica and Devan; Devan's must be followed in order.  You have to kill the two guards next to them to get the quests, so assume that this isn't a 35+ quest set, more like a 45+.  Run around the Minhoten camp, destroying tents in the same way as you destroyed weapons in the tuffein camp, then kill four scouts (level 40-45).  Next kill snakes, treants and spiders (Mesa recluse); snakes and spiders are 40-45, the treant protectors 36-40.  Return to Devan.
+Tuffein quests from Costica and Devan; Devan's must be followed in order.  You have to kill the two guards next to them to get the quests, so assume that this isn't a 35+ quest set, more like a 45+.  Run around the minohten camp, destroying tents in the same way as you destroyed weapons in the tuffein camp, then kill four scouts (level 40-45).  Next kill snakes, treants and spiders (Mesa recluse); snakes and spiders are 40-45, the treant protectors 36-40.  Return to Devan.
 
 Next comes wolves and bears (35-38).  Return to Devan.
 
 Then 12 of different types of nymph (oread, potameid and napaea -  4 each, levels 40-44).  Return to Devan.
 
-Kill four more minhoten scouts (level 40-45), then fight Devan/Costica?  Now that you have totally destroyed your tuffein faction (which isn't a problem, really), you need to get another Charm of Lore item from the lockbox in the middle of the tuffein camp.  You will need to clear around it, or get clever with box opening tricks, before you can loot the box.
+Kill four more minohten scouts (level 40-45), then wait in a jail cell in the middle of the camp until you are let out.  Completing this quest gives you a bracer, and the achievement gives you an updated helm.  Now that you have totally destroyed your tuffein faction (which isn't a problem, really), you need to get another Charm of Lore item from the lockbox in the middle of the tuffein camp.  You will need to clear around it, or get clever with box opening tricks, before you can loot the box.
 
-Dorina, on the plateau with the dryads, gives a series of quests, which have to be followed in order.  Follow Simu (Minhoten camp) for 15 minutes; alternatively run through the spots he would visit, and a circuit of all the tents will get you most of them, then the guard point on the ridge between the camp and the cave spiders, another point on the ridge, then back to his tent, which is the westernmost one nearest the cave.  Next you FedEx a letter to Simu; you need to go to the campfire before hailing Simu after giving him the letter.  Note that there is a Charm of Lore item in a red flower near the dryads.
+Dorina, on the plateau with the dryads, gives a series of quests, which have to be followed in order.  Follow Simu (minohten camp) for 15 minutes; alternatively run through the spots he would visit, and a circuit of all the tents will get you most of them, then the guard point on the ridge between the camp and the cave spiders, another point on the ridge, then back to his tent, which is the westernmost one nearest the cave.  Next you FedEx a letter to Simu; you need to go to the campfire before hailing Simu after giving him the letter.  Note that there is a Charm of Lore item in a red flower near the dryads.
 
 Next stage is to kill and loot recluse spiders, wolves and snakes (35-45, as before), hand in to Dorina, run and find Simu.
 
@@ -64,15 +64,18 @@ Next: go to Scout Ethaniel in the fens in SE Blightfire.  Loot items that drop f
 	- Dorina's Personalized Gift (Dorina)
 	- Dorina's Potion (Dorina)
 	- Dorina's Lament (Dorina)
-	
+
+End of part one?
+
+
 - Bring Friends (45+)
-	- A Bad Dream 
-	- Oh No! 
-	- Stand With Us 
-	- They Are Coming
+	- A Bad Dream (Hanook)
+	- Oh No! (Hanook)
+	- Stand With Us (Hanook)
+	- They Are Coming (Peretaenu)
 
 - Ciodaru's Love (45+)
-	- Ciodaru's Love 
+	- Ciodaru's Love (Ciodaru)
 	- Ciodaru's First Gift 
 	- Ciodaru's Second Gift 
 	- Protect Kathryn 
