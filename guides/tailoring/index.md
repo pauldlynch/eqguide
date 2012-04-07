@@ -176,7 +176,7 @@ Assuming no failures.  You can get most of these in Crescent Reach, or by vendor
 
 Then what?
 
-If you have a lot of High Quality Bear Pelts, then consider making Hand Made Backpacks (trivial 88, High Quality Bear Pelt, Backpack pattern) as a usable intermediate skill up step.  Tailored Quiver has a trivial of 115 (High Quality Cat Pelt, Quiver Pattern).
+If you have a lot of High Quality Bear Pelts, then consider making Hand Made Backpacks (trivial 88, High Quality Bear Pelt, Backpack pattern) as a usable intermediate skill up step.  Tailored Quiver has a trivial of 115 (High Quality Cat Pelt, Quiver Pattern).  However, there's a big problem with this skill up path if you are doing the Hero's Journey: the last cats you will have seen were under level 10, in Crescent Reach.
 
 Start making subcombines to move quest stages forward, and the quest requires that you make them in a certain order: threads, spool, wolf beads, snake beads, string of teeth: and finally the pack.  So it is best to make them in that order, in the unlikely event that you succeed on the first try, as you would be required to repeat some of the combines just to complete the quest if you hadn't make the components in the right order.
 

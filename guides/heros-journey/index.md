@@ -168,35 +168,35 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Dorina's Lament (Dorina)
 
 - Pranks and Research (46-50)
-	- Smoke Them Out 
-	- Pluck Their Wings 
-	- Make Gravel 
-	- Pull Their Hair 
-	- Research the Dromrek 
-	- Parlay with the Dromrek 
-	- Soothe the Savage Beast? 
-	- Parlay with the Dromrek, Again 
-	- Reduce the Dromrek Threat
-	
-- Ciodaru's Love (45+)
-	- Ciodaru's Love 
-	- Ciodaru's First Gift 
-	- Ciodaru's Second Gift 
-	- Protect Kathryn 
-	- Ciodaru's Third Gift 
-	- Ciodaru's Fourth Gift 
-	- Protect Kathryn Again 
-	- Ciodaru's Fifth Gift 
-	- Ciodaru's Sixth Gift 
-	- Protect Kathryn Some More 
-	- Who Wants to Kill Kathryn? 
-	- Ciodaru's Gift Box
+	- Smoke Them Out (Iulia)
+	- Pluck Their Wings (Iulia)
+	- Make Gravel (Nedelcu)
+	- Pull Their Hair (Nedelcu)
+	- Research the Dromrek (Scout Madu)
+	- Parlay with the Dromrek (Scout Madu)
+	- Soothe the Savage Beast? (Scout Madu)
+	- Parlay with the Dromrek, Again (Scout Madu)
+	- Reduce the Dromrek Threat (Scout Madu)
 	
 - Bring Friends (45+)
-	- A Bad Dream 
-	- Oh No! 
-	- Stand With Us 
-	- They Are Coming
+	- A Bad Dream (Hanook)
+	- Oh No! (Hanook)
+	- Stand With Us (Hanook)
+	- They Are Coming (Peretaenu)
+
+- Ciodaru's Love (45+)
+	- Ciodaru's Love (Ciodaru)
+	- Ciodaru's First Gift (Ciodaru)
+	- Ciodaru's Second Gift (Ciodaru)
+	- Protect Kathryn (Ciodaru)
+	- Ciodaru's Third Gift (Ciodaru)
+	- Ciodaru's Fourth Gift (Ciodaru)
+	- Protect Kathryn Again (Ciodaru)
+	- Ciodaru's Fifth Gift (Ciodaru)
+	- Ciodaru's Sixth Gift (Ciodaru)
+	- Protect Kathryn Some More (Ciodaru)
+	- Who Wants to Kill Kathryn? (Ciodaru)
+	- Ciodaru's Gift Box (Ciodaru)
 	
 - Moving Up the Ranks (51-55)
 	- Pluck It! 

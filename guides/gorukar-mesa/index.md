@@ -7,7 +7,7 @@ group: guide
 
 This is a large zone, catering for a wide range of levels, as much as Blightfire Moors.  It has probably more quests to complete, some of which require trade skills.  Important: watch out for the griffon that wanders the area (if it still does after Hero's Journey was introduced).
 
-** Welcome to the Mesa** (41-45)
+##Animals and Satyrs (41-45)
 
 This collects together all the 40-45 rated quests in the Mesa.  You will have to visit Crescent Reach at least twice, and Blightfire Moors also twice; and kill and loot wolves, bears, snakes and spiders multiple times.  Some of the quest series (Dorina and Ciodaru) require relatively high tailoring skill.
 
@@ -17,23 +17,31 @@ Scout Madu, at the entrance to the Mesa, will give you armor quests.  You first 
 
 minohten quests from Sorin, in the big tent.  You can get aggro destroying the weapon racks.  The Biscuits quest sends you back to run around the mines in Blightfire.  There is a Charm of Lore item in rocks in the minohten caves.
 
-Tuffein quests from Costica and Devan; Devan's must be followed in order.  You have to kill the two guards next to them to get the quests, so assume that this isn't a 35+ quest set, more like a 45+.  Run around the minohten camp, destroying tents in the same way as you destroyed weapons in the tuffein camp, then kill four scouts (level 40-45).  Next kill snakes, treants and spiders (Mesa recluse); snakes and spiders are 40-45, the treant protectors 36-40.  Return to Devan.
+Tuffein quests from Costica and Devan; Devan's must be followed in order.  You have to kill the two guards next to them every single time you want to get the quests, so assume that this isn't a 35+ quest set, more like a 45+.  Run around the minohten camp, destroying tents in the same way as you destroyed weapons in the tuffein camp, then kill four scouts (level 40-45).  Next kill snakes, treants and spiders (Mesa recluse); snakes and spiders are 40-45, the treant protectors 36-40.  Return to Devan.
 
-Next comes wolves and bears (35-38).  Return to Devan.
+Next comes wolves and bears (35-38).  Return to Devan.  We will return to him later.
 
-Then 12 of different types of nymph (oread, potameid and napaea -  4 each, levels 40-44).  Return to Devan.
-
-Kill four more minohten scouts (level 40-45), then wait in a jail cell in the middle of the camp until you are let out.  Completing this quest gives you a bracer, and the achievement gives you an updated helm.  Now that you have totally destroyed your tuffein faction (which isn't a problem, really), you need to get another Charm of Lore item from the lockbox in the middle of the tuffein camp.  You will need to clear around it, or get clever with box opening tricks, before you can loot the box.
-
-Dorina, on the plateau with the dryads, gives a series of quests, which have to be followed in order.  Follow Simu (minohten camp) for 15 minutes; alternatively run through the spots he would visit, and a circuit of all the tents will get you most of them, then the guard point on the ridge between the camp and the cave spiders, another point on the ridge, then back to his tent, which is the westernmost one nearest the cave.  Next you FedEx a letter to Simu; you need to go to the campfire before hailing Simu after giving him the letter.  Note that there is a Charm of Lore item in a red flower near the dryads.
+Dorina, on the plateau with the dryads, gives a series of quests, which have to be followed in order.  Follow Simu (minohten camp) for 15 minutes; alternatively run through the spots he would visit, and a circuit of all the tents will get you most of them, then the guard point on the ridge between the camp and the cave spiders, another point on the ridge, then back to his tent, which is the westernmost one nearest the cave.  Next you FedEx a letter to Simu; you need to go to the campfire before hailing Simu after giving him the letter.  Note that there is a Charm of Lore item in a red flower near the dryads on the plateau.
 
 Next stage is to kill and loot recluse spiders, wolves and snakes (35-45, as before), hand in to Dorina, run and find Simu.
 
-Next step is a doozy.  You need to make an item with a trivial of 170 tailoring, with subcomponents at 50 and 92, requiring items from killing spiders, wolves and snakes.  You also need to use a sewing needle, blacksmithing trivial 30, which requires two small bricks of steel, which can only be purchased in Surefall Glade. This gives you, in effect, an 8 slot giant capacity 50% weight reduction backpack as a side effect of the quest.
+Next step is a doozy.  You need to make an item with a trivial of 170 tailoring, with subcomponents at 50 and 92, requiring items from killing spiders, wolves and snakes.  You also need to use a sewing needle, blacksmithing trivial 30, which requires two small bricks of steel, which can only be purchased in Surefall Glade. This gives you, in effect, an 8 slot giant capacity 50% weight reduction backpack as a side effect of the quest.  If you want to skip this entirely or return later, I can understand - so go to the next section.
 
 Then you need to visit Alchemist Naeema in Crescent Reach.  Kill bears, wolves, diamondback snakes and spiders and return to Naeema.
 
 Next: go to Scout Ethaniel in the fens in SE Blightfire.  Loot items that drop from inside the hive in Stone Hive.   Kill a tuffein raider (50-52) while escorting Simu to Dorina.
+
+##Nymphs and Dromrek (46-50)
+
+Now you should collect the remaining quest series from Scout Madu (ask him about "difficult tasks", then "Dromrek"), for the giants, and find Iulia and Nedelcu to pick up all of their quests; they are dryads on and around the "Serpent's Eye" island.  Watch out for the dark cloud on the south bank, which will cause the dryads to attack you.  The polished stone is in the water surrounding the island, and can be quite hard to see; you have to equip it as a weapon and click on the stones, which will respawn immediately. The burning stick comes from the centaur fire.
+
+The first two tasks can b done without aggro, if you are careful; the next two tasks are kill tasks.  Combine these with the next Devan task.
+
+The later quests from Devan are a little tougher. Next you should kill 10 in total of different types of nymph (oread, potameid and napaea -  3 or 4 each, levels 40-44).  Return to Devan.
+
+Kill four more minohten scouts (level 40-45), then wait in a jail cell in the middle of the camp until you are let out; you are likely to get aggro from tuffein in the camp while waiting.  Completing this quest gives you a bracer, and the achievement gives you an updated helm.  Now that you have totally destroyed your tuffein faction (which isn't a problem, really), you need to get another Charm of Lore item from the lockbox in the middle of the tuffein camp.  You will need to clear around it, or get clever with box opening tricks, before you can loot the box.  As they have a large aggro radius, don't be surprised if you get five or more on the first pull.
+
+**Part One**
 
 - Madu's Armor (40+)
 	- Wolf Skins for Madu (Scout Madu)
@@ -67,6 +75,18 @@ Next: go to Scout Ethaniel in the fens in SE Blightfire.  Loot items that drop f
 
 End of part one?
 
+**Part Two**
+
+- Pranks and Research (46-50)
+	- Smoke Them Out (Iulia)
+	- Pluck Their Wings (Iulia)
+	- Make Gravel (Nedelcu)
+	- Pull Their Hair (Nedelcu)
+	- Research the Dromrek (Scout Madu)
+	- Parlay with the Dromrek (Scout Madu)
+	- Soothe the Savage Beast? (Scout Madu)
+	- Parlay with the Dromrek, Again (Scout Madu)
+	- Reduce the Dromrek Threat (Scout Madu)
 
 - Bring Friends (45+)
 	- A Bad Dream (Hanook)
@@ -76,17 +96,19 @@ End of part one?
 
 - Ciodaru's Love (45+)
 	- Ciodaru's Love (Ciodaru)
-	- Ciodaru's First Gift 
-	- Ciodaru's Second Gift 
-	- Protect Kathryn 
-	- Ciodaru's Third Gift 
-	- Ciodaru's Fourth Gift 
-	- Protect Kathryn Again 
-	- Ciodaru's Fifth Gift 
-	- Ciodaru's Sixth Gift 
-	- Protect Kathryn Some More 
-	- Who Wants to Kill Kathryn? 
-	- Ciodaru's Gift Box
+	- Ciodaru's First Gift (Ciodaru)
+	- Ciodaru's Second Gift (Ciodaru)
+	- Protect Kathryn (Ciodaru)
+	- Ciodaru's Third Gift (Ciodaru)
+	- Ciodaru's Fourth Gift (Ciodaru)
+	- Protect Kathryn Again (Ciodaru)
+	- Ciodaru's Fifth Gift (Ciodaru)
+	- Ciodaru's Sixth Gift (Ciodaru)
+	- Protect Kathryn Some More (Ciodaru)
+	- Who Wants to Kill Kathryn? (Ciodaru)
+	- Ciodaru's Gift Box (Ciodaru)
+	
+end of part two?
 	
 - Moving Up the Ranks (51-55)
 	- Pluck It! 
