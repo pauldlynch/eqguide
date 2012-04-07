@@ -6,7 +6,7 @@ group : guide
 {% include JB/setup %} 
 
 Started at the fifth anniversary, these are all activated every year (so far). Before then there were various special events that
-haven't been repeated. The ones worth doing are: Sixth (experience potion), Ninth (Plane of Knowledge gate) - for tanks/melees/hybrids, Tenth (title, experience potions, mount), and possibly the 11th/12th, for factions and augmentations, depending on the quality of gear.
+haven't been repeated. The ones worth doing are: Sixth (experience potion), Ninth (Plane of Knowledge gate) - for tanks/melees/hybrids, Tenth (title, experience potions, mount), and possibly the 11th/12th, for factions and augmentations, depending on the quality of gear.  The 12th solo augmentation is ok.
 
 - [Fifth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=2850) (Classic) Staff of Endless
 Adventure, firework clickie 
