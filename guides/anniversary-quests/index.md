@@ -48,8 +48,7 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
 	- [Stealing My Life Back (Group)](http://everquest.allakhazam.com/db/quest.html?quest=5052) faction and items 
 	- [Steel Behemoths (Raid)](http://everquest.allakhazam.com/db/quest.html?quest=5305) augs, faction, chest 
 - Twelfth Anniversary: (solo/group/raid tasks) 
-	- [Hunt of the Shards (Solo)](http://everquest.allakhazam.com/db/quest.html?quest=5303)
-	- [Glowing Lena Fete Rune (aug)](http://everquest.allakhazam.com/db/item.html?item=97004) (AC 30, HME 135) 
+	- [Hunt of the Shards (Solo)](http://everquest.allakhazam.com/db/quest.html?quest=5303) [Glowing Lena Fete Rune (aug)](http://everquest.allakhazam.com/db/item.html?item=97004) (AC 30, HME 135) 
 	- [Parts is Parts (Solo)](http://everquest.allakhazam.com/db/quest.html?quest=5307)
 	- [Maximum Capacity (Solo)](http://everquest.allakhazam.com/db/quest.html?quest=5308)
 	- [Short Circuit (solo)](http://everquest.allakhazam.com/db/quest.html?quest=5306)
