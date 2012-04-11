@@ -199,17 +199,17 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Ciodaru's Gift Box (Ciodaru)
 	
 - Moving Up the Ranks (51-55)
-	- Pluck It! 
-	- Harpy Horrors 
-	- Tudor's Beer 
-	- Tudor's Ale 
-	- Tudor's Wine 
-	- Tudor's Spirits 
-	- Vermin Elimination 
-	- Birds of a Feather 
-	- Harping on Harpies 
-	- Dromrek Must Die 
-	- Cleanse Serpent's Falls
+	- Pluck It! (Marilena)
+	- Harpy Horrors (Marilena)
+	- Tudor's Beer (Tudor) - FedEx
+	- Tudor's Ale (Tudor) - dryads
+	- Tudor's Wine (Tudor) - giants, griffins
+	- Tudor's Spirits (Tudor)
+	- Vermin Elimination (Laurentiu)
+	- Birds of a Feather (Laurentiu)
+	- Harping on Harpies (Laurentiu)
+	- Dromrek Must Die (Laurentiu)
+	- Cleanse Serpent's Falls (Laurentiu)
 
 - Ekaterina's Lament (50+)
 	 Ekaterina's Lament 

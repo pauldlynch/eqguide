@@ -41,6 +41,12 @@ Your bank has another Backpack – and has 24 slots, plus the two shared slots w
 
 You should probably check over the Allakhazam spells and abilities list for your class.  Almost all of the spells you get up to level 10 are available from the vendors in the main cavern.
 
+**Way Out**
+
+There are several ways to exit Gloomingdeep, and you may want to leave more than once during your stay there.  The simplest way out is from the main cavern: run to the black tunnel entrance, and you will be prompted if you want to leave; this exit takes you to Crescent Reach.  One alternative exit is to say to Arias, "ready to leave", which will port you to the Plane of Knowledge.  You might want to do this to buy a mercenary of a different race, or to buy a dps mercenary, or to do some of the Secalna Galdor quests in the Plane of Knowledge (to get a free bag, for example).
+
+Getting back in easy: camp out, then click the Tutorial button at the character select screen.  This will only work if you are under level 10.  If you are over level ten and want to return for any reason, talk to Secalna Galdor in the Plane of Knowledge, and she can send you.  Casters can gate back in if they are still bound in Gloomingdeep until they are level 15.
+
 **Digression: Grinding**
 
 OK, so this zone is quest driven, but that will only get you so far.  You may find experience lacking at some points, depending on how you approach the quests, group versus solo, the order you take them in, etc.  And if you want to level past ten, you will have to do some grinding: which means "gaining experience by repetitively killing mobs", by the way.
@@ -57,7 +63,7 @@ Remember to re-equip your weapon after handing it to Absor for an upgrade! (part
 
 If you haven't already, you should speak to Elegist and hire the highest level tank mercenary you can; if you are Gold, this will be a Journeyman tier 1.  If you don't like mercs, that's ok, but still hire one now as it will be free; you can suspend it if you wish.  The price to hire a mercenary is ZERO until level 10 (approximately), and the per 15 minute hire charge is also ZERO until then.
 
-**Rats & bats**
+**Rats & Bats**
 
 You then want to connect with Rahtiz (hail him) and collect your next tasks: “Clearing the Vermin Nests”, then “Spider Caves”, followed by “Arachnida” (see below).  Make your /open hotkey now, if you haven't already.
 
@@ -117,7 +123,7 @@ There’s not much you might want to buy – spells, potions, and just possibly 
 - Hail Prathun and Learn About Communication
 - Hail Arias to let him know you have completed your training
 
-This is pretty much self-explanatory – but remember to “/say others” to Vahlara, people seem to misread this step; she gives you some Gloomingdeep Sleeves appropriate to your class (and same stats as the basic Defiant sleeves). Remember that saying “bless” to Rytan will rebuff you at any time (every 26+ minutes). On completion, ding level 2 and get the Kobold Skull Charm.  You will end up with a Kobold Skull Charm from Arias, which is the best charm you can use for some time.
+This is pretty much self-explanatory – but remember to “/say others” to Vahlara, people seem to misread this step; she gives you some Gloomingdeep Sleeves appropriate to your class (and same stats as the basic Defiant sleeves). Remember that saying “bless” to Rytan will rebuff you at any time (every 27+ minutes). On completion, ding level 2 and get the Kobold Skull Charm.  You will end up with a Kobold Skull Charm from Arias, which is the best charm you can use for some time.
 
 *Hot Bars*
 

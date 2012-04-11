@@ -10,7 +10,7 @@ haven't been repeated. The ones worth doing are: Sixth (experience potion), Nint
 
 ##[Fifth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=2850) (Classic) 
 
-The reward is a Staff of Endless Adventure, which is a firework clickie.
+The reward is a [Staff of Endless Adventure](http://everquest.allakhazam.com/search.html?q=staff+of+endless+adventure), which is a firework clickie.
 
 There is a quest NPC in each of the old starting towns (not sure about Crescent Reach), plus one in the Plane of Knowledge: Skrasa Ka'rok, a sarnak in an anniversary booth on the evil side.  When you accept the quest, you are given a Collection Bag and a Collector's Cheat Sheet; you have to collect ten items, each called a "Collector's XXX".  Answers given in the order I collected them:
 
@@ -33,10 +33,31 @@ In the Ocean of Tears, old sharks can be found around the ancient cyclops island
 
 Once you have them all, combine the bag and hand in.
 
+##[Sixth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=3068) (Kunark)
+
+Reward is a [Ceremonial Elixir of Scholarship](http://everquest.allakhazam.com/db/item.html?item=35074), a one time only experience potion with ten charges (meaning, you can't repeat the quest to get more).  You can't repeat this quest, it's just once per character.  There are two starter NPCs for this quest; one outside the elven outpost in Firiona Vie, and the other by the port in location in the Dreadlands.  Because of it's location, the Dreadlands quest giver, Sarvil Amberstone, is the easiest to start with, and you can move from there to Burning Woods, Frontier Mountains and back to the Dreadlands, then on to Firiona Vie and the Lake of Ill Omen, if you want to do them all in one quick sequence.
+
+This quest is very similar to the Fifth Anniversary, in that you are given a Collection Bag and a set of clues.  Most of the zones required are a single step away from the Cabilis stone, although the Firiona Vie stone gives better access to several others: the Dreadlands mob area, through to Burning Woods, Frontier Mountains and to the Firiona Vie zone itself; and the Overthere stone to the Overthere.  The Dreadlands quest giver is best reached from the Guild Hall port.
+
+There's a trick to this quest: the items mainly drop from wanderers, not from static camps; see my notes below.
+
+- A Collector's Fire Hornet Wing, hornets in Burning Woods
+- A Collector's Tump Stump, mountain giants in Frontier Mountains
+- A Collector's Drachnid Web Sack, drachnids in the Dreadlands
+- A Collector's Canine, drolvargs in Firiona Vie
+- A Collector's Bloodgill Scale, bloodgills in Lake of Ill Omen
+- A Collector's Sarnak War Braid, sarnaks in The Overthere
+- A Collector's Nohope Moss, frogloks in Swamp of No Hope
+- A Collector's Brittle Iksar Skull, (greater) skeletons in Field of Bone
+- A Collector's Excavator Claws, Burynai Excavator in Kurn's Tower
+- A Collector's Iksar Witch Doll, caster goblins in Warsliks Woods
+
+I spent over two levels at 49 in Burning Woods, around the crater; then I got one from a roamer in the SW.  The Warsliks Woods drop came from a spirit caller somewhere in the woods, after clearing the fort around a dozen times.  The Firiona Vie drop came at the drolvarg building, SW of the elven camp in the far east.  The tump stump came from a wandering giant, after clearing the fort several times.
+
+Bloodgills, drachnids and hornets are probably the highest levels, around 35-40 (wasps more like 40-46).
+
 ##The Rest
 
-- [Sixth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=3068)
-(Kunark), [Ceremonial Elixir of Scholarship](http://everquest.allakhazam.com/db/item.html?item=35074) one time only [experience potion](http://everquest.allakhazam.com/db/quest.html?quest=3068) 
 - [Seventh Anniversary Scavenger Hunt (Dragons)](http://everquest.allakhazam.com/db/quest.html?quest=4161) (Velious) [Draconic Cane of the Everlasting](http://everquest.allakhazam.com/db/item.html?item=66213) yet another firework clickie (etc for Coldain and Giants) 
 - [Eighth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=4156) (Luclin) [Lunar Fungus](http://everquest.allakhazam.com/db/item.html?item=67302) familiar with water breathing effect 
 - [Ninth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=4541) (Planes of Power) [Brick of Knowledge](href="http://everquest.allakhazam.com/db/item.html?item=74202) Knowledge Gate, need to be level 46+ to enter many of the ones, and 60+ to enter Tactics 
