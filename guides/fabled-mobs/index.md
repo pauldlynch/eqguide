@@ -444,7 +444,7 @@ Lair (Solusek B)
 Wakening Land
 
 [The Fabled Skeletal Captain](http://eqbeastiary.allakhazam.com/search.shtml?id=17871)
-65 [Fabled Tolan's Darwood Gauntlets](http://everquest.allakhazam.com/db/item.html?item=35093)
+65 [Fabled Tolan's Darkwood Gauntlets](http://everquest.allakhazam.com/db/item.html?item=35093)
 Karnor's Castle
 
 [The Fabled Solusek Kobold King](http://eqbeastiary.allakhazam.com/search.shtml?id=14840) 65 [Fabled Runed Mithril Bracer](http://everquest.allakhazam.com/db/item.html?item=27272)
