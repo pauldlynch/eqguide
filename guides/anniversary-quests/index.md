@@ -93,3 +93,16 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
 	- [A Different Perspective (Group)](http://everquest.allakhazam.com/db/quest.html?quest=5701)
 	- [Summoning the Master (Group)](http://everquest.allakhazam.com/db/quest.html?quest=5704)
 	- [Tower of Frozen Shadow (Raid)](http://everquest.allakhazam.com/db/quest.html?quest=5702)
+
+
+##Easter Quest
+
+This was live for Easter in April 2011, so I'm going to call it an Anniversary quest; I will separate it out if it seems appropriate, like if any more quests are added.
+
+- [The Origin of the Cuniculus](http://everquest.allakhazam.com/db/quest.html?quest=5311)
+
+The quest is given by Grundle Cogwelder, near the soulbinder in the Plane of Knowledge.  Collect eight ground spawn eggs from fixed points in the Plane of Knowledge, Qeynos Hills, West Karana and South Karana.  Each zone has four of the egg types that you need.
+
+The reward is:
+
+- [Madness of Stomple](http://everquest.allakhazam.com/db/item.html?item=97153)

@@ -105,7 +105,7 @@ Maze (Gorge of King Xorbb)](http://eqbeastiary.allakhazam.com/search.shtml?zone=
 [The Fabled Grizzleknot](http://eqbeastiary.allakhazam.com/search.shtml?id=14852) 40 [Fabled Treant Staff](http://everquest.allakhazam.com/db/item.html?item=27290)
 [South Karana](http://eqbeastiary.allakhazam.com/search.shtml?zone=44)
 
-[The Fabled King Thex`Ka IV](http://eqbeastiary.allakhazam.com/search.shtml?id=14821) 40 [Fabled White Wolf-hide Cloak](http://everquest.allakhazam.com/db/item.html?item=27292)
+[The Fabled King Thex'Ka IV](http://eqbeastiary.allakhazam.com/search.shtml?id=14821) 40 [Fabled White Wolf-hide Cloak](http://everquest.allakhazam.com/db/item.html?item=27292)
 [Permafrost Keep](http://eqbeastiary.allakhazam.com/search.shtml?zone=47)
 
 [The Fabled Goblin Preacher](http://eqbeastiary.allakhazam.com/search.shtml?id=14967) 40 [Fabled Runed Circlet](http://everquest.allakhazam.com/db/item.html?item=27271)
@@ -116,7 +116,7 @@ Maze (Gorge of King Xorbb)](http://eqbeastiary.allakhazam.com/search.shtml?zone=
 [The Fabled Soothsayer Dregzak](http://eqbeastiary.allakhazam.com/search.shtml?id=17904) 40 [Fabled Earring of Essence](http://everquest.allakhazam.com/db/item.html?item=35124)
 [Frontier Mountains](http://eqbeastiary.allakhazam.com/search.shtml?zone=83)
 
-[The Fabled Ry`Gorr Herbalist](http://eqbeastiary.allakhazam.com/search.shtml?id=20975) 40 [Fabled
+[The Fabled Ry'Gorr Herbalist](http://eqbeastiary.allakhazam.com/search.shtml?id=20975) 40 [Fabled
 Blackened Crystalline Robe](http://everquest.allakhazam.com/db/item.html?item=47821) [Crystal Caverns](http://eqbeastiary.allakhazam.com/search.shtml?zone=101)
 
 [The Fabled Swarm Leader](http://eqbeastiary.allakhazam.com/search.shtml?id=25263) 40 [Fabled Netherbian Chitin](http://everquest.allakhazam.com/db/item.html?item=67309)
@@ -187,7 +187,7 @@ Pegasus Feather Cloak](http://everquest.allakhazam.com/db/item.html?item=27244) 
 [The Fabled Cloaked Dhampyre](http://eqbeastiary.allakhazam.com/search.shtml?id=14820) 50 [Fabled Hooded Black Cloak](http://everquest.allakhazam.com/db/item.html?item=27235)
 [Castle Mistmoore](http://eqbeastiary.allakhazam.com/search.shtml?zone=63)
 
-[The Fabled Chancellor of Di`Zok](http://eqbeastiary.allakhazam.com/search.shtml?id=17834) 50 [Fabled Jade Chokidai Prod](http://everquest.allakhazam.com/db/item.html?item=35053)
+[The Fabled Chancellor of Di'Zok](http://eqbeastiary.allakhazam.com/search.shtml?id=17834) 50 [Fabled Jade Chokidai Prod](http://everquest.allakhazam.com/db/item.html?item=35053)
 [Lake of Ill Omen](http://eqbeastiary.allakhazam.com/search.shtml?zone=73)
 
 [The Fabled Lord Gorelik](http://eqbeastiary.allakhazam.com/search.shtml?id=17858) 50 [Fabled Mithril Staff](http://everquest.allakhazam.com/db/item.html?item=35084) [Lake of Ill Omen](http://eqbeastiary.allakhazam.com/search.shtml?zone=73)
@@ -279,7 +279,7 @@ Arbitor's Combine Greatsword](http://everquest.allakhazam.com/db/item.html?item=
 [The Fabled Queen Dracnia](http://eqbeastiary.allakhazam.com/search.shtml?id=20939) 55 [Fabled Crystalline Robes](http://everquest.allakhazam.com/db/item.html?item=47752)
 [Crystal Caverns](http://eqbeastiary.allakhazam.com/search.shtml?zone=101)
 
-[The Fabled Chief Ry`Gorr](http://eqbeastiary.allakhazam.com/search.shtml?id=20955) 55 - 59
+[The Fabled Chief Ry'Gorr](http://eqbeastiary.allakhazam.com/search.shtml?id=20955) 55 - 59
 [Fabled Ry'Gorr Battle Mail](http://everquest.allakhazam.com/db/item.html?item=47770) [Eastern Wastes](http://eqbeastiary.allakhazam.com/search.shtml?zone=110)
 
 [The Fabled Gorul Longshanks](http://eqbeastiary.allakhazam.com/search.shtml?id=20946) 55 [Fabled Runebranded Stone Buckler](http://everquest.allakhazam.com/db/item.html?item=47811) [Great Divide](http://eqbeastiary.allakhazam.com/search.shtml?zone=113)
@@ -335,7 +335,7 @@ Black Chitin Leggings](http://everquest.allakhazam.com/db/item.html?item=27203) 
 
 [The Fabled Ghoul Assassin](http://eqbeastiary.allakhazam.com/search.shtml?id=14778) 60 [Fabled Serrated Bone Dirk](http://everquest.allakhazam.com/db/item.html?item=27280) Lower Guk
 
-[The Fabled Grand Vizier Poolakacha`tei](http://eqbeastiary.allakhazam.com/search.shtml?id=20947) 60 [Fabled Holgresh Grand Vizier Beads](http://everquest.allakhazam.com/db/item.html?item=47758) Wakening Lands
+[The Fabled Grand Vizier Poolakacha'tei](http://eqbeastiary.allakhazam.com/search.shtml?id=20947) 60 [Fabled Holgresh Grand Vizier Beads](http://everquest.allakhazam.com/db/item.html?item=47758) Wakening Lands
 
 [The Fabled Gullerback](http://eqbeastiary.allakhazam.com/search.shtml?id=17852) 60 [Fabled Tattered Mantle](http://everquest.allakhazam.com/db/item.html?item=35080) Burning Woods
 
@@ -431,7 +431,7 @@ Band of Eternal Flame](http://everquest.allakhazam.com/db/item.html?item=35115) 
 
 [The Fabled Lady Gelistial](http://eqbeastiary.allakhazam.com/search.shtml?id=20924) 65 [Fabled Gelistials Horn](http://everquest.allakhazam.com/db/item.html?item=47738) The Wakening Land
 
-[The Fabled Lord Rak`Ashiir](http://eqbeastiary.allakhazam.com/search.shtml?id=17923) 65
+[The Fabled Lord Rak'Ashiir](http://eqbeastiary.allakhazam.com/search.shtml?id=17923) 65
 [Fabled Rigid Steel Breastplate](http://everquest.allakhazam.com/db/item.html?item=35175) City of Mist
 
 [The Fabled Magus Rokyl](http://eqbeastiary.allakhazam.com/search.shtml?id=14923) 65 [Fabled Rokyls Channelling Crystal](http://everquest.allakhazam.com/db/item.html?item=27270) Nagafen's
