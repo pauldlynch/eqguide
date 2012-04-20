@@ -6,7 +6,7 @@ group : guide
 {% include JB/setup %} 
 
 Started at the fifth anniversary, these are all activated every year (so far). Before then there were various special events that
-haven't been repeated. The ones worth doing are: Sixth (experience potion), Ninth (Plane of Knowledge gate) - for tanks/melees/hybrids, Tenth (title, experience potions, mount), and possibly the 11th/12th, for factions and augmentations, depending on the quality of gear.  The 12th solo augmentation is ok.
+haven't been repeated. The ones worth doing are: Sixth (experience potion), Ninth (Plane of Knowledge gate) - for tanks/melees/hybrids, Tenth (title, 10 x experience potions, mount), and possibly the 11th/12th, for factions and augmentations, depending on the quality of gear.  The 12th solo augmentation is ok.
 
 ##[Fifth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=2850) (Classic) 
 
@@ -97,11 +97,11 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
 
 ##Easter Quest
 
-This was live for Easter in April 2011, so I'm going to call it an Anniversary quest; I will separate it out if it seems appropriate, like if any more quests are added.
+This was live for Easter in April 2011, and came at the end of Fabled month in 2012, so I'm going to call it an Anniversary quest; I will separate it out if it seems appropriate, like if any more quests are added.
 
 - [The Origin of the Cuniculus](http://everquest.allakhazam.com/db/quest.html?quest=5311)
 
-The quest is given by Grundle Cogwelder, near the soulbinder in the Plane of Knowledge.  Collect eight ground spawn eggs from fixed points in the Plane of Knowledge, Qeynos Hills, West Karana and South Karana.  Each zone has four of the egg types that you need.
+The quest is given by Grundle Cogwelder, behind the soulbinder in the Plane of Knowledge.  Collect eight ground spawn eggs from fixed points in the Plane of Knowledge, Qeynos Hills, West Karana and South Karana.  Each zone has four of the egg types that you need, but the types may overlap between zones.  There are many spawn points in the Plane of Knowledge, but fewer in the others.  In Qeynos Hills, around the Sayers house, at the entrance to Blackburrow, and in the undead ruins.  In West Karana, look in the guard towers and in and around the barbarian fishing village.
 
 The reward is:
 

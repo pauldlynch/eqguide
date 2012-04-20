@@ -5,13 +5,13 @@ group: guide
 ---
 {% include JB/setup %}
 
-This is a large zone, catering for a wide range of levels, as much as Blightfire Moors.  It has probably more quests to complete, some of which require trade skills.  Important: watch out for the griffon that wanders the area (if it still does after Hero's Journey was introduced).
+This is a large zone, catering for a wide range of levels, as much as Blightfire Moors.  It has probably more quests to complete, some of which require trade skills.  Important: watch out for the griffon that wanders the area (if it still does after Hero's Journey was introduced).  There is a lot of running around back to Crescent Reach called for in some quests, and quests from different sections of the Hero's Journey all overlap, which will require some going back and forth between different camps if your approach is not planned very carefully.  I have made all these mistakes so that you don't have to!
 
 ##Animals and Satyrs (41-45)
 
 This collects together all the 40-45 rated quests in the Mesa.  You will have to visit Crescent Reach at least twice, and Blightfire Moors also twice; and kill and loot wolves, bears, snakes and spiders multiple times.  Some of the quest series (Dorina and Ciodaru) require relatively high tailoring skill.
 
-First, check in with Pioneer Vulu (the Wanderlust guild quest).  Pick up as many as you can of Scout Madu's armor quests while you are right there, too.  Start with the bears and wolves, as they are the lowest level.  Gather the three quests from Sorin, in the minohten camp next, the beer task from Tudor and the Vermin task from Laurentiu.  Mesa snakes are east of the plateau, near the tuffein camp.  The best way to destroy weapons is to send a pet against the weapon racks, while you are well out of aggro range; if you don't have a pet, you'll need to clear around the racks.
+First, check in with Pioneer Vulu (the Wanderlust guild quest).  Pick up as many as you can of Scout Madu's armor quests while you are right there, too.  Start with the bears and wolves, as they are the lowest level.  Gather the three quests from Sorin, in the minohten camp next, the beer task from Tudor and the Vermin task from Laurentiu.  Mesa snakes are east of the plateau, near the tuffein camp; diamondback snakes are west of the river.  The best way to destroy weapons is to send a pet against the weapon racks, while you are well out of aggro range; if you don't have a pet, you'll need to clear around the racks.  You will automatically get two of Tudor's supplies by crossing the bridge and swimming in the water under it; the rest of the items are sold by Liviu (next to Tudor).
 
 Scout Madu, at the entrance to the Mesa, will give you armor quests.  You first need to kill wolves and bears from the near area (levels 35-38), then mesa snakes across the river (40-45), mesa recluse spiders (40-45/47).  Then a named bear (Ursalua, level 45) and named wolf (Fantoma, level 45); the nameds are tough for their levels; in particular Fantoma has a high damage proc and snare.  There is a more supplies quest that should be taken after the three basic quests are done, for the same items.  Completing the series gives you the "Madu's Armor" achievement and a shoulder item.
 
@@ -51,13 +51,17 @@ After this you get another protect task: two tuffein will spawn, and you need to
 
 Now you should collect the remaining quest series from Scout Madu (ask him about "difficult tasks", then "Dromrek"), for the giants, and find Iulia and Nedelcu to pick up all of their quests; they are dryads on and around the "Serpent's Eye" island.  Watch out for the dark cloud on the south bank, which will cause the dryads to attack you.  Madu's first Dromrek quest just involves running around the giant area.  For the nymph quests, the polished stone is in the water surrounding the island, and can be quite hard to see; you have to equip it as a weapon and click on the stones, which will respawn immediately. The burning stick comes from the centaur fire.
 
-The first two tasks can be done without aggro, if you are careful; the next two tasks are kill tasks.  Combine these with the next Devan task.  Note that all oread's apart from maidens heal themselves.
+The first two tasks can be done without aggro, if you are careful; the next two tasks are kill tasks.  Combine these with the next Devan task and the ale task from Tudor (his drops can all come from potameids).  Note that all oread's apart from maidens heal themselves.
 
 The later quests from Devan are a little tougher. Next you should kill 10 in total of different types of nymph (oread, potameid and napaea -  3 or 4 each, levels 40-44).  Return to Devan.
 
 Kill four more minohten scouts (level 40-45), then wait in a jail cell in the middle of the camp until you are let out; you are likely to get aggro from tuffein in the camp while waiting.  Completing this quest gives you a bracer, and the achievement gives you an updated helm.  Now that you have totally destroyed your tuffein faction (which isn't a problem, really), you need to get another Charm of Lore item from the lockbox in the middle of the tuffein camp.  You will need to clear around it, or get clever with box opening tricks, before you can loot the box.  As they have a large aggro radius, don't be surprised if you get five or more on the first pull.
 
-The next Madu quests involve talking to, and fighting, giants, level 52 and above.  If you aren't that level yet, then oozes, nymphs and spiders are all light blue, and ordinary giants all dark blue.  Or you can find a faster place to gain experience.  Make sue that you combine this series with Laurentiu's "Dromrek Must Die!" task.
+The next Madu quests involve "talking to", and fighting, giants, level 52 and above.  If you aren't that level yet, then oozes, nymphs and spiders are all light blue, and ordinary giants all dark blue.  Or you can find a faster place to gain experience.  Make sure that you combine this series with Laurentiu's "Dromrek Must Die!" task, and part of Tudor's wine quest.  Completing the sequence of killing named giants will send you on a tour of Crescent Reach, Blightfire Moors, Stone Hive - to kill on the upper floors, then run back to Crescent Reach and finally back to Scout Madu again.  And then to kill all the named giants over again: although you may be able to invis yourself quickly after clicking the wand without needing to kill.  Finally, you will be asked to kill Bigone (level 55 and summons).  The reward of the quest is a good one (for tanks, mainly): a choice of augments, which includes an AC +10 aug that can go into a shield.  The reward for the achievement for this series is your choice of a shield and a weapon.
+
+##West of the Mesa
+
+By this point you should have finished the first Pioneer Vulu mapping quest on the east side of the zone, and returned to Regan in Crescent Reach for an update.  Now you need to take the quests from Marilena (one of the dryads), and more of Laurentiu's quests (Birds of a Feather and Harping on Harpies).  These mobs all have a normal aggro range, and will usually come as two or three; level ranges are mid 40s to low 50s.  You can complete the Wanderlust quest quickly with a diversion into Blackfeather Roost, and collect the Charm of Lore item from the red flower behind the griffin at the end of the all pumas and snakes; then head south in the Mesa to the final waypoint - where you are likely to get aggro from the undead lingering dryads there.  Just zone it off by going back into Blackfeather Roost, or head further back to Madu, where you should eventually lose aggro.
 
 
 **Part One**
@@ -91,10 +95,6 @@ The next Madu quests involve talking to, and fighting, giants, level 52 and abov
 	- Dorina's Personalized Gift (Dorina)
 	- Dorina's Potion (Dorina)
 	- Dorina's Lament (Dorina)
-
-End of part one?
-
-**Part Two**
 
 - Pranks and Research (46-50)
 	- Smoke Them Out (Iulia)
