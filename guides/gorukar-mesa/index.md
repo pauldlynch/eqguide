@@ -61,7 +61,13 @@ The next Madu quests involve "talking to", and fighting, giants, level 52 and ab
 
 ##West of the Mesa
 
-By this point you should have finished the first Pioneer Vulu mapping quest on the east side of the zone, and returned to Regan in Crescent Reach for an update.  Now you need to take the quests from Marilena (one of the dryads), and more of Laurentiu's quests (Birds of a Feather and Harping on Harpies).  These mobs all have a normal aggro range, and will usually come as two or three; level ranges are mid 40s to low 50s.  You can complete the Wanderlust quest quickly with a diversion into Blackfeather Roost, and collect the Charm of Lore item from the red flower behind the griffin at the end of the all pumas and snakes; then head south in the Mesa to the final waypoint - where you are likely to get aggro from the undead lingering dryads there.  Just zone it off by going back into Blackfeather Roost, or head further back to Madu, where you should eventually lose aggro.
+By this point you should have finished the first Pioneer Vulu mapping quest on the east side of the zone, and returned to Regan in Crescent Reach for an update.  Now you need to take the quests from Marilena (one of the dryads), more of Laurentiu's quests (Birds of a Feather and Harping on Harpies), and Tudor's Spirits.  These mobs all have a normal aggro range, and will usually come as two or three; level ranges are mid 40s to low 50s.  You can complete the Wanderlust quest quickly with a diversion into Blackfeather Roost, and collect the Charm of Lore item from the red flower behind the griffin at the end of the all pumas and snakes; then head south in the Mesa to the final waypoint - where you are likely to get aggro from the undead lingering dryads there (needed for Tudor).  Just zone it off by going back into Blackfeather Roost, or head further back to Madu, where you should eventually lose aggro.
+
+You won't be able to finish off this achievement (Moving Up The Ranks) until you can clear the potameid spring at the north of the zone, with the level 60 queen.  In addition, Tudor's Spirits still has to be finished; to complete, you must kill a lingering dryad and a tanglewood, swim around the oread lake, and search the buildings in the centaur village (in the latter two cases, the items will appear on your cursor).
+
+##Centaurs and 'Bad' Potameids
+
+By now you should have good enough faction to approach Ekaterina (I was at amiable), south of the Serpent's Eye lake.  Her first two quests are just run arounds; the "desert passage" is the zone to Sunderock Springs.  The first of these quests took me to kindly.  The next quest is to kill: murkwater oozes, which are in the river to the north; ring snakes, around the river; and dark widows, near the path to Blackfeather Roost.
 
 
 **Part One**
@@ -95,6 +101,8 @@ By this point you should have finished the first Pioneer Vulu mapping quest on t
 	- Dorina's Personalized Gift (Dorina)
 	- Dorina's Potion (Dorina)
 	- Dorina's Lament (Dorina)
+	
+**Part Two**
 
 - Pranks and Research (46-50)
 	- Smoke Them Out (Iulia)
@@ -143,14 +151,14 @@ end of part two?
 	- Cleanse Serpent's Falls (Laurentiu)
 
 - Ekaterina's Lament (50+)
-	 Ekaterina's Lament 
-	- It Can't Be the Queen 
-	- Find the Cure 
-	- Parts for a Cure 
-	- Tunare Save the Queen
+	 Ekaterina's Lament (Ekaterina)
+	- It Can't Be the Queen (Ekaterina)
+	- Find the Cure (Ekaterina)
+	- Parts for a Cure (Ekaterina)
+	- Tunare Save the Queen (Ekaterina)
 	
 - Centaur's Troubles (50+)
-	- Prove Yourself 
+	- Prove Yourself (Klassr)
 	- Reduce the Thug Menace 
 	- Research the Centaur Malady 
 	- Cure the Malady

@@ -15,6 +15,7 @@ New Players
 - [Crescent Reach](guides/crescent-reach) (1-20/25)
 - [Blightfire Moors](guides/blightfire-moors) (15-45/50)
 - [Stone Hive](guides/stone-hive) (35-45++)
+- [Goru'kar Mesa](guides/gorukar-mesa) (35-55++)
 
 Everquest Anniversary
 ---------------------
@@ -50,7 +51,6 @@ Sidetracks
 Forthcoming
 -----------
 
-- Goru'kar Mesa
 - Frostfell Quests
 - Halloween Quests
 - The Kunark Express
@@ -63,6 +63,6 @@ News:
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="http://www.paullynch.org/eqguide{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
