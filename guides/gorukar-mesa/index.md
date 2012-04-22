@@ -59,15 +59,23 @@ Kill four more minohten scouts (level 40-45), then wait in a jail cell in the mi
 
 The next Madu quests involve "talking to", and fighting, giants, level 52 and above.  If you aren't that level yet, then oozes, nymphs and spiders are all light blue, and ordinary giants all dark blue.  Or you can find a faster place to gain experience.  Make sure that you combine this series with Laurentiu's "Dromrek Must Die!" task, and part of Tudor's wine quest.  Completing the sequence of killing named giants will send you on a tour of Crescent Reach, Blightfire Moors, Stone Hive - to kill on the upper floors, then run back to Crescent Reach and finally back to Scout Madu again.  And then to kill all the named giants over again: although you may be able to invis yourself quickly after clicking the wand without needing to kill.  Finally, you will be asked to kill Bigone (level 55 and summons).  The reward of the quest is a good one (for tanks, mainly): a choice of augments, which includes an AC +10 aug that can go into a shield.  The reward for the achievement for this series is your choice of a shield and a weapon.
 
+While killing giants, watch out for a "Drakkin Youngling's Sword", and loot it if you find it, as it is needed for one of the Charm of Lore quests coming up next; there _may_ be a higher drop rate inside the caves.
+
 ##West of the Mesa
 
-By this point you should have finished the first Pioneer Vulu mapping quest on the east side of the zone, and returned to Regan in Crescent Reach for an update.  Now you need to take the quests from Marilena (one of the dryads), more of Laurentiu's quests (Birds of a Feather and Harping on Harpies), and Tudor's Spirits.  These mobs all have a normal aggro range, and will usually come as two or three; level ranges are mid 40s to low 50s.  You can complete the Wanderlust quest quickly with a diversion into Blackfeather Roost, and collect the Charm of Lore item from the red flower behind the griffin at the end of the all pumas and snakes; then head south in the Mesa to the final waypoint - where you are likely to get aggro from the undead lingering dryads there (needed for Tudor).  Just zone it off by going back into Blackfeather Roost, or head further back to Madu, where you should eventually lose aggro.
+By this point you should have finished the first Pioneer Vulu mapping quest on the east side of the zone, and returned to Regan in Crescent Reach for an update.  Now you need to take the quests from Marilena (one of the dryads), more of Laurentiu's quests (Birds of a Feather and Harping on Harpies), Tudor's Spirits, and as you will be in the area, you should take the timed task from Scout Madu, "Centaur Troubles, Prove Yourself" (kill mesa widows, highland snakes and harpies).  These mobs all have a normal aggro range, and will usually come as two or three; level ranges are mid 40s to low 50s.  You can complete the Wanderlust quest quickly with a diversion into Blackfeather Roost, and collect the Charm of Lore item from the red flower behind the griffin at the end of the all pumas and snakes; then head south in the Mesa to the final waypoint - where you are likely to get aggro from the undead lingering dryads there (needed for Tudor).  Just zone it off by going back into Blackfeather Roost, or head further back to Madu, where you should eventually lose aggro.
+
+While killing harpies, look for Shrynn in the NW.  If you kill the harpies around him, he will give you a quest, the reward for which is another Charm of Lore item.  He wants you to kill giants, and that's where you will find the highland snakes for the centaur quest.
 
 You won't be able to finish off this achievement (Moving Up The Ranks) until you can clear the potameid spring at the north of the zone, with the level 60 queen.  In addition, Tudor's Spirits still has to be finished; to complete, you must kill a lingering dryad and a tanglewood, swim around the oread lake, and search the buildings in the centaur village (in the latter two cases, the items will appear on your cursor).
 
 ##Centaurs and 'Bad' Potameids
 
 By now you should have good enough faction to approach Ekaterina (I was at amiable), south of the Serpent's Eye lake.  Her first two quests are just run arounds; the "desert passage" is the zone to Sunderock Springs.  The first of these quests took me to kindly.  The next quest is to kill: murkwater oozes, which are in the river to the north; ring snakes, around the river; and dark widows, near the path to Blackfeather Roost.
+
+The next quest from Klassr involves killing centaurs (at last!).  If you are up to it, Legate Cletus at the north of the centaur village guards a box with another Charm of Lore item; unfortunately, he doesn't count for the kill quest.  Then you have to wander around the centaur village; watch out for AEs from the spirit of corruption, which will break your invis.  You will have to kill the spirit for the final part - level 55, does relatively high dps on you, and watch out for centaur adds.  If you can manage it, you will complete the "Centaur's Troubles" achievement (reward is a ring).
+
+Now is the time for Laurentiu's last quest (Cleanse Serpent Falls).
 
 
 **Part One**
@@ -158,9 +166,9 @@ end of part two?
 	- Tunare Save the Queen (Ekaterina)
 	
 - Centaur's Troubles (50+)
-	- Prove Yourself (Klassr)
-	- Reduce the Thug Menace 
-	- Research the Centaur Malady 
-	- Cure the Malady
+	- Prove Yourself (Scout Madu)
+	- Reduce the Thug Menace (Klassr)
+	- Research the Centaur Malady (Klassr)
+	- Cure the Malady (Klassr)
 
 - Magnate of the Mesa (41-55)
