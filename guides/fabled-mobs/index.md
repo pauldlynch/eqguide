@@ -379,7 +379,7 @@ Band of Eternal Flame](http://everquest.allakhazam.com/db/item.html?item=35115) 
 [The Fabled Ancient Rockhopper](http://eqbeastiary.allakhazam.com/search.shtml?id=25267) 65
 [Fabled Rockhopper Spirit Fetish](http://everquest.allakhazam.com/db/item.html?item=67265) (aug) Mons Letalis
 
-[The Fabled Arch Duke Iatol](http://eqbeastiary.allakhazam.com/search.shtml?id=17876) 65 [Fabled Jaundiced Bone Bracer](http://everquest.allakhazam.com/db/item.html?item=35099) Old Sebilis
+[The Fabled Arch Duke Latol](http://eqbeastiary.allakhazam.com/search.shtml?id=17876) 65 [Fabled Jaundiced Bone Bracer](http://everquest.allakhazam.com/db/item.html?item=35099) Old Sebilis
 
 [The Fabled Azureake](http://eqbeastiary.allakhazam.com/search.shtml?id=20942) 65 [Fabled Chrysolite](http://everquest.allakhazam.com/db/item.html?item=47717) (aug) Cobalt Scar
 
