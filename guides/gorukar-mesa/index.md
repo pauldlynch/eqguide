@@ -159,7 +159,7 @@ end of part two?
 	- Cleanse Serpent's Falls (Laurentiu)
 
 - Ekaterina's Lament (50+)
-	 Ekaterina's Lament (Ekaterina)
+	- Ekaterina's Lament (Ekaterina)
 	- It Can't Be the Queen (Ekaterina)
 	- Find the Cure (Ekaterina)
 	- Parts for a Cure (Ekaterina)

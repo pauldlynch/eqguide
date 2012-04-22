@@ -212,17 +212,17 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 	- Cleanse Serpent's Falls (Laurentiu)
 
 - Ekaterina's Lament (50+)
-	 Ekaterina's Lament 
-	- It Can't Be the Queen 
-	- Find the Cure 
-	- Parts for a Cure 
-	- Tunare Save the Queen
-	
+	- Ekaterina's Lament (Ekaterina)
+	- It Can't Be the Queen (Ekaterina)
+	- Find the Cure (Ekaterina)
+	- Parts for a Cure (Ekaterina)
+	- Tunare Save the Queen (Ekaterina)
+
 - Centaur's Troubles (50+)
-	- Prove Yourself 
-	- Reduce the Thug Menace 
-	- Research the Centaur Malady 
-	- Cure the Malady
+	- Prove Yourself (Scout Madu)
+	- Reduce the Thug Menace (Klassr)
+	- Research the Centaur Malady (Klassr)
+	- Cure the Malady (Klassr)
 
 - Magnate of the Mesa (41-55)
 
