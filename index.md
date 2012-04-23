@@ -15,7 +15,7 @@ New Players
 - [Crescent Reach](guides/crescent-reach) (1-20/25)
 - [Blightfire Moors](guides/blightfire-moors) (15-45/50)
 - [Stone Hive](guides/stone-hive) (35-45++)
-- [Goru'kar Mesa](guides/gorukar-mesa) (35-55++)
+- [Goru'kar Mesa](guides/gorukar-mesa) (35-55+)
 
 Everquest Anniversary
 ---------------------
@@ -47,6 +47,7 @@ Sidetracks
 
 - [Alchemy for Beginners](guides/alchemy)
 - [Tailoring for Beginners](guides/tailoring)
+- [The Hollowshade War](guides/hollowshade-war)
 
 Forthcoming
 -----------
