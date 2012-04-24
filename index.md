@@ -38,6 +38,8 @@ The Hero's Journey
 The Long Quests
 ---------------
 
+- [All the Good Quests!](guides/quests)
+
 - [Serpent Seeker's Charm of Lore](guides/charm-of-lore)
 - [Wanderlust Guild Loadstone](guides/wanderlust-guild-loadstone)
 - [Jonas Dagmire's Skeletal Hand](guides/jonas-dagmires-skeletal-hand)
