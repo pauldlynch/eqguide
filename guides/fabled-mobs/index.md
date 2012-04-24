@@ -300,36 +300,36 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[Velketor the Fabled Sorcerer](http://eqbeastiary.allakhazam.com/search.shtml?id=21014) |70| [Fabled Vermilion Robe of Torrefaction](http://everquest.allakhazam.com/db/item.html?item=47908) | Velketor's Labyrinth|
 |[The Fabled Warlord Skarlon](http://eqbeastiary.allakhazam.com/search.shtml?id=14835) |70| [Fabled Razing Sword of Skarlon](http://everquest.allakhazam.com/db/item.html?item=27248) | Nagafen's Lair (Solusek B)|
 |[The Fabled Bridge Keeper](http://eqbeastiary.allakhazam.com/search.shtml?id=17849) |70| [Fabled Stained Cloth Mask](http://everquest.allakhazam.com/db/item.html?item=35142) | Chardok|
-|[The Fabled Rumbleroot](http://eqbeastiary.allakhazam.com/search.shtml?id=20930) |70| | Plane of Growth|
-|[The Fabled Charayan the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=21137) |70| | Skyshrine|
-|[The Fabled Jortreva the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=20998) |70| | Skyshrine|
-|[The Fabled Lord Doljonijiarnimorinar](http://eqbeastiary.allakhazam.com/search.shtml?id=20966) |70| | Velketor's Labyrinth|
-|[The Fabled Eashen of the Sky](http://eqbeastiary.allakhazam.com/search.shtml?id=20898) |70| | Temple of Veeshan|
-|[The Fabled Boulder](http://eqbeastiary.allakhazam.com/search.shtml?id=25307) |70| | The Grey|
-|[The Fabled Dustbinder Grakina](http://eqbeastiary.allakhazam.com/search.shtml?id=20954) |70| | Dragon Necropolis|
-|[The Fabled Treah Greenroot](http://eqbeastiary.allakhazam.com/search.shtml?id=20933) |70| | Plane of Growth|
-|[The Fabled Ayillish](http://eqbeastiary.allakhazam.com/search.shtml?id=20905) |70| | Western Wastes|
-|[The Fabled Crusader Kezzal](http://eqbeastiary.allakhazam.com/search.shtml?id=25329) |70| | The Grey|
-|[The Fabled Dominator Yisaki](http://eqbeastiary.allakhazam.com/search.shtml?id=20963) |70| | Dragon Necropolis|
-|[The Fabled Seeker Bulava](http://eqbeastiary.allakhazam.com/search.shtml?id=20916) |70| | Dragon Necropolis|
-|[The Fabled Kelorek'Dar](http://eqbeastiary.allakhazam.com/search.shtml?id=20925) |70| | Cobalt Scar|
-|[The Fabled Watch Captain Hir'Roul](http://eqbeastiary.allakhazam.com/search.shtml?id=17900) |70| | Chardok|
-|[The Fabled Stronghorn](http://eqbeastiary.allakhazam.com/search.shtml?id=20909) |70| | Western Wastes|
-|[The Fabled Shadow Overlord](http://eqbeastiary.allakhazam.com/search.shtml?id=25537) |70| | The Maiden's Eye|
-|[The Fabled Zlandicar](http://eqbeastiary.allakhazam.com/search.shtml?id=20912) |70| | Dragon Necropolis|
-|[The Fabled Mistress Latazura](http://eqbeastiary.allakhazam.com/search.shtml?id=20950) |70| | Siren's Grotto|
-|[The Fabled Hierophant Prime Grekal](http://eqbeastiary.allakhazam.com/search.shtml?id=17924) |70| | Old Sebilis|
-|[The Fabled King Tormax](http://eqbeastiary.allakhazam.com/search.shtml?id=21011) |70| | Kael Drakkel|
-|[The Fabled Grizznot](http://eqbeastiary.allakhazam.com/search.shtml?id=20945) |70| | Icewell Keep|
-|[The Fabled Talendor](http://eqbeastiary.allakhazam.com/search.shtml?id=17850) |70| | Skyfire Mountains|
-|[The Fabled Severilous](http://eqbeastiary.allakhazam.com/search.shtml?id=17973) |70| | Emerald Jungle|
-|[The Fabled Susarrak the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=21136) |70| | Skyshrine|
-|[The Fabled Allizewsaur](http://eqbeastiary.allakhazam.com/search.shtml?id=14837) |70| | Ocean of Tears|
-|[The Fabled Vilefang](http://eqbeastiary.allakhazam.com/search.shtml?id=20921) |70| | Dragon Necropolis|
-|[The Fabled Dozekar the Cursed](http://eqbeastiary.allakhazam.com/search.shtml?id=20897) |70| | Temple of Veeshan|
-|[The Fabled General Jared Blaystich](http://eqbeastiary.allakhazam.com/search.shtml?id=25264) |70| | Echo Caverns|
-|[The Fabled Prince Thirneg](http://eqbeastiary.allakhazam.com/search.shtml?id=20928) |70| | Plane of Growth|
-|[The Fabled Brogg](http://eqbeastiary.allakhazam.com/search.shtml?id=17836) |70| | Old Sebilis|
+|[The Fabled Rumbleroot](http://eqbeastiary.allakhazam.com/search.shtml?id=20930) |70| [Fabled Chestplate of Stability](http://everquest.allakhazam.com/db/item.html?item=47747) | Plane of Growth|
+|[The Fabled Charayan the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=21137) |70| Fabled Signet of the Shrine ?? | Skyshrine|
+|[The Fabled Jortreva the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=20998) |70| [Fabled Aegis of the Shrine](http://everquest.allakhazam.com/db/item.html?item=47746) | Skyshrine|
+|[The Fabled Lord Doljonijiarnimorinar](http://eqbeastiary.allakhazam.com/search.shtml?id=20966) |70|  [Fabled Icicle Tunic](http://everquest.allakhazam.com/db/item.html?item=47788) | Velketor's Labyrinth|
+|[The Fabled Eashen of the Sky](http://eqbeastiary.allakhazam.com/search.shtml?id=20898) |70| [Fabled Claw of Lightning](http://everquest.allakhazam.com/db/item.html?item=47762) | Temple of Veeshan|
+|[The Fabled Boulder](http://eqbeastiary.allakhazam.com/search.shtml?id=25307) |70| [Fabled Polished Stone Staff](http://everquest.allakhazam.com/db/item.html?item=67463) | The Grey|
+|[The Fabled Dustbinder Grakina](http://eqbeastiary.allakhazam.com/search.shtml?id=20954) |70| [Fabled Chetari Wardstaff](http://everquest.allakhazam.com/db/item.html?item=47785) | Dragon Necropolis|
+|[The Fabled Treah Greenroot](http://eqbeastiary.allakhazam.com/search.shtml?id=20933) |70| [Fabled Resplendent Robe](http://everquest.allakhazam.com/db/item.html?item=47735) | Plane of Growth|
+|[The Fabled Ayillish](http://eqbeastiary.allakhazam.com/search.shtml?id=20905) |70| [Fabled Ayillish's Talisman](http://everquest.allakhazam.com/db/item.html?item=47739) | Western Wastes|
+|[The Fabled Crusader Kezzal](http://eqbeastiary.allakhazam.com/search.shtml?id=25329) |70| [Fabled Bone Studded Bracelet](http://everquest.allakhazam.com/db/item.html?item=67480) | The Grey|
+|[The Fabled Dominator Yisaki](http://eqbeastiary.allakhazam.com/search.shtml?id=20963) |70| [Fabled Scroll of Knowledge](http://everquest.allakhazam.com/db/item.html?item=47782) | Dragon Necropolis|
+|[The Fabled Seeker Bulava](http://eqbeastiary.allakhazam.com/search.shtml?id=20916) |70| [Fabled Scroll of Enlightenment](http://everquest.allakhazam.com/db/item.html?item=47721) | Dragon Necropolis|
+|[The Fabled Kelorek'Dar](http://eqbeastiary.allakhazam.com/search.shtml?id=20925) |70| [Fabled Cloak of Crystalline Waters](http://everquest.allakhazam.com/db/item.html?item=47741) | Cobalt Scar|
+|[The Fabled Watch Captain Hir'Roul](http://eqbeastiary.allakhazam.com/search.shtml?id=17900) |70| [Fabled Jade Inlaid Spaulders](http://everquest.allakhazam.com/db/item.html?item=35123) | Chardok|
+|[The Fabled Stronghorn](http://eqbeastiary.allakhazam.com/search.shtml?id=20909) |70| [Fabled Stronghorn's Horn](http://everquest.allakhazam.com/db/item.html?item=47781) | Western Wastes|
+|[The Fabled Shadow Overlord](http://eqbeastiary.allakhazam.com/search.shtml?id=25537) |70| [Fabled Centien Visor](http://everquest.allakhazam.com/db/item.html?item=103428) | The Maiden's Eye|
+|[The Fabled Zlandicar](http://eqbeastiary.allakhazam.com/search.shtml?id=20912) |70| [Fabled Cowl of Mortality](http://everquest.allakhazam.com/db/item.html?item=47848) | Dragon Necropolis|
+|[The Fabled Mistress Latazura](http://eqbeastiary.allakhazam.com/search.shtml?id=20950) |70| [Fabled Cloak of the Seacaller](http://everquest.allakhazam.com/db/item.html?item=47744) | Siren's Grotto|
+|[The Fabled Hierophant Prime Grekal](http://eqbeastiary.allakhazam.com/search.shtml?id=17924) |70| [Fabled Hierophant's Cloak](http://everquest.allakhazam.com/db/item.html?item=35177) | Old Sebilis|
+|[The Fabled King Tormax](http://eqbeastiary.allakhazam.com/search.shtml?id=21011) |70| [Fabled Horn of Hsagra](http://everquest.allakhazam.com/db/item.html?item=47736) | Kael Drakkel|
+|[The Fabled Grizznot](http://eqbeastiary.allakhazam.com/search.shtml?id=20945) |70| [Fabled Grizznot's Claws](http://everquest.allakhazam.com/db/item.html?item=47757) | Icewell Keep|
+|[The Fabled Talendor](http://eqbeastiary.allakhazam.com/search.shtml?id=17850) |70| [Fabled Cloak of Flames](http://everquest.allakhazam.com/db/item.html?item=35078) | Skyfire Mountains|
+|[The Fabled Severilous](http://eqbeastiary.allakhazam.com/search.shtml?id=17973) |70| [Fabled Dragon Hero Bracer](http://everquest.allakhazam.com/db/item.html?item=35081) | Emerald Jungle|
+|[The Fabled Susarrak the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=21136) |70| Fabled Rod of the Healers ?? | Skyshrine|
+|[The Fabled Allizewsaur](http://eqbeastiary.allakhazam.com/search.shtml?id=14837) |70| [Fabled Blue Diamond](http://everquest.allakhazam.com/db/item.html?item=27205) | Ocean of Tears|
+|[The Fabled Vilefang](http://eqbeastiary.allakhazam.com/search.shtml?id=20921) |70| [Fabled Infestation](http://everquest.allakhazam.com/db/item.html?item=47729) | Dragon Necropolis|
+|[The Fabled Dozekar the Cursed](http://eqbeastiary.allakhazam.com/search.shtml?id=20897) |70| [Fabled Silver Bracelet of Speed](http://everquest.allakhazam.com/db/item.html?item=47754) | Temple of Veeshan|
+|[The Fabled General Jared Blaystich](http://eqbeastiary.allakhazam.com/search.shtml?id=25264) |70| [Fabled Ornate Sword of the General](http://everquest.allakhazam.com/db/item.html?item=67529) | Echo Caverns|
+|[The Fabled Prince Thirneg](http://eqbeastiary.allakhazam.com/search.shtml?id=20928) |70| [Fabled Flute of the Sacred Glade](http://everquest.allakhazam.com/db/item.html?item=47751) | Plane of Growth|
+|[The Fabled Brogg](http://eqbeastiary.allakhazam.com/search.shtml?id=17836) |70| [Fabled Clay Guardian Shield](http://everquest.allakhazam.com/db/item.html?item=35060) | Old Sebilis|
 
 ##Fabled 71-75
 
@@ -400,7 +400,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Overking Bathezid](http://eqbeastiary.allakhazam.com/search.shtml?id=17837) |75| | Chardok|
 |[The Fabled Lord Koi'Doken](http://eqbeastiary.allakhazam.com/search.shtml?id=20903) |75| | Temple of Veeshan|
 
-##Fabled 80|
+##Fabled 80
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
