@@ -7,12 +7,15 @@ group : guide
 
 Taken from [Fabled Mobs for Newbies](http://forums.station.sony.com/eq/posts/list.m?topic_id=109011), by Rawlden. This almost certainly isn't complete; some mobs may never have been triggered during previous Fabled runs.
 
-The basic principle of Fableds is simple: every year, for just over one month starting at EQ's anniversary (16th March - 26th April), all previous Fableds may spawn, as well as Fableds taken from the next expansion in line. So far (2008) up to Planes of Power has been covered, and that's all that will be. A Fabled is some notorious mob from the expansion, which at the time had highly desired loot; it is bumped up in level, given special powers, and the loot is improved. The original mob may spawn, or the Fabled version. Generally speaking, most fableds are more powerful than their level would suggest. If you are legitimately hunting in a zone, and see a fabled, it will be red, and it will kill you; so don't bother. If you are lucky, someone high level may come along and kill it for bragging rights, leaving you the loot. Or not. Some zones should be entirely avoided for experience if they can spawn Fableds; others you can work around the problem.
+The basic principle of Fableds is simple: every year, for just over one month starting at EQ's anniversary (16th March - 26th April), all previous Fableds may spawn, as well as Fableds taken from the next expansion in line. So far (2008) up to Planes of Power has been covered, and that's all that will be. A Fabled is some notorious mob from the expansion, which at the time had highly desired loot; it is bumped up in level, given special powers, and the loot is improved. The original mob may spawn, or the Fabled version. Generally speaking, most fableds are more powerful than their level would suggest. If you are legitimately hunting in a zone, and see a fabled, it will be red, and it will kill you; so don't bother. If you are lucky, someone high level may come along and kill it for bragging rights, leaving you the loot. Or not. Some zones should be entirely avoided for experience if they can spawn Fableds; in others you can work around the problem.
 
 The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everquest.allakhazam.com/db/item.html?item=27236) from Fabled Drelzna in Najena, although [Grachnist's Earring](http://everquest.allakhazam.com/db/item.html?item=35054) is nice (insta-clickie), and the few augments are nice as well, although most are slot 7 only (this isn't likely to be a problem for a newbie). For a low level melee, the [Fabled Frozen Long Sword](http://everquest.allakhazam.com/db/item.html?item=47753) is the best accessible weapon; and the [Fabled Gore Covered Horn](http://everquest.allakhazam.com/db/item.html?item=67477) is probably the best piercer. I'm going to post the available Fabled mobs, and their drop, in level ranges up to 65 (I have now extended this to cover all known Fableds). If you have the support required to get higher level Fableds, then take a look at things like the Fabled Ring of the Shissar (groupable at 70-75), and the drops from the BoT wing bosses, which should all be groupable (at 80).
 
-- Table of Contents
+#Table of Contents
+* toc list 
 {:toc}
+
+##Fabled 1-39 {#newbie}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -64,7 +67,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Warpaw Dankpelt](http://eqbeastiary.allakhazam.com/search.shtml?id=25531) |35 |[Fabled Ear of the Blind Wolf](http://everquest.allakhazam.com/db/item.html?item=103427)| Hollowshade Moor|
 |[The Fabled Evil Eye (Beholders Maze)](http://eqbeastiary.allakhazam.com/search.shtml?id=15359) |38| [Fabled Polished Bone Bracelet](http://everquest.allakhazam.com/db/item.html?item=27245) |[Beholders Maze (Gorge of King Xorbb)](http://eqbeastiary.allakhazam.com/search.shtml?zone=37)|
 
-## Fableds 40-49
+## Fabled 40-49 {#forties}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -106,7 +109,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Queen Kvaknak](http://eqbeastiary.allakhazam.com/search.shtml?id=25336) |45| [Fabled Eye of Kvaknak](http://everquest.allakhazam.com/db/item.html?item=67458) |Marus Seru|
 |[The Fabled Hydro](http://eqbeastiary.allakhazam.com/search.shtml?id=25337) |45| [Fabled Belt of Growth](http://everquest.allakhazam.com/db/item.html?item=67476) |Twilight Sea|
 
-## Fableds 50-59
+## Fabled 50-59 {#fifties}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -185,7 +188,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Fiery Thought Leech](http://eqbeastiary.allakhazam.com/search.shtml?id=25290) |55| [Fabled Fire Idol](http://everquest.allakhazam.com/db/item.html?item=67281) (aug) |Mons Letalis|
 |[The Fabled Kraen Flameweaver](http://eqbeastiary.allakhazam.com/search.shtml?id=25499) |55| [Fabled Hooligan's mask](http://everquest.allakhazam.com/db/item.html?item=67481) |Scarlet Desert|
 
-## Fableds 60-64
+## Fabled 60-64 {#sixties}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -214,7 +217,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Yvolcarn](http://eqbeastiary.allakhazam.com/search.shtml?id=20974) |60| [Fabled Crest of the Drixie](http://everquest.allakhazam.com/db/item.html?item=47715) |Cobalt Scar|
 |[The Fabled Heirophant Grazan](http://eqbeastiary.allakhazam.com/search.shtml?id=25315) |60| [Fabled Clattering Bone Necklace](http://everquest.allakhazam.com/db/item.html?item=67455) |The Grey|
 
-## Fableds 65
+## Fabled 65 {#sixty-five}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -254,7 +257,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Tuchako](http://eqbeastiary.allakhazam.com/search.shtml?id=25362) |65| [Fabled Tarmok Hunting Spear](http://everquest.allakhazam.com/db/item.html?item=67485) |Fungus Grove|
 |[The Fabled Undertow](http://eqbeastiary.allakhazam.com/search.shtml?id=14912) |65| [Fabled Squallsurge Shawl](http://everquest.allakhazam.com/db/item.html?item=27284) |Kedge Keep|
 
-##Fabled 66-70
+##Fabled 66-70 {#seventy}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -331,7 +334,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Prince Thirneg](http://eqbeastiary.allakhazam.com/search.shtml?id=20928) |70| [Fabled Flute of the Sacred Glade](http://everquest.allakhazam.com/db/item.html?item=47751) | Plane of Growth|
 |[The Fabled Brogg](http://eqbeastiary.allakhazam.com/search.shtml?id=17836) |70| [Fabled Clay Guardian Shield](http://everquest.allakhazam.com/db/item.html?item=35060) | Old Sebilis|
 
-##Fabled 71-75
+##Fabled 71-75 {#seventy-five}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -400,7 +403,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Overking Bathezid](http://eqbeastiary.allakhazam.com/search.shtml?id=17837) |75| | Chardok|
 |[The Fabled Lord Koi'Doken](http://eqbeastiary.allakhazam.com/search.shtml?id=20903) |75| | Temple of Veeshan|
 
-##Fabled 80
+##Fabled 80 {#eighty}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -445,7 +448,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Warder of Death](http://eqbeastiary.allakhazam.com/search.shtml?id=25317) |80| | Acrylia Caverns|
 |[The Fabled Gaukr Sandstorm](http://eqbeastiary.allakhazam.com/search.shtml?id=29555) |80| | Torden, the Bastion of Thunder|
 
-##Fabled 81-85
+##Fabled 81-85 {#eighty-five}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -543,25 +546,25 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Terris Thule](http://eqbeastiary.allakhazam.com/search.shtml?id=29524) |85| | Lair of Terris Thule|
 |[The Fabled Omni Magus Crato](http://eqbeastiary.allakhazam.com/search.shtml?id=29571) |85| | Doomfire, the Burning Lands|
 
-##Fabled 90
+##Fabled 90 {#ninety}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
-|[The Fabled Quarm](http://eqbeastiary.allakhazam.com/search.shtml?id=29485) |90| | Plane of Time B|
-|[The Fabled Coirnav the Avatar of Water](http://eqbeastiary.allakhazam.com/search.shtml?id=29551) |90| | Reef of Coirnav|
-|[The Fabled Cazic Thule](http://eqbeastiary.allakhazam.com/search.shtml?id=29507) |90| | Plane of Time B|
-|[The Fabled Saryrn](http://eqbeastiary.allakhazam.com/search.shtml?id=29510) |90| | Plane of Time B|
-|[The Fabled Agnarr the Storm Lord](http://eqbeastiary.allakhazam.com/search.shtml?id=29521) |90| | Torden, the Bastion of Thunder|
-|[The Fabled Avatar of Earth](http://eqbeastiary.allakhazam.com/search.shtml?id=29533) |90| | Ragrax, Stronghold of the Twelve|
-|[The Fabled Lord Mithaniel Marr](http://eqbeastiary.allakhazam.com/search.shtml?id=29484) |90| | Temple of Marr|
-|[The Fabled Fennin Ro, the Tyrant of Fire](http://eqbeastiary.allakhazam.com/search.shtml?id=29542) |90| | Doomfire, the Burning Lands|
-|[The Fabled Bertoxxulous](http://eqbeastiary.allakhazam.com/search.shtml?id=29506) |90| | Plane of Time B|
-|[The Fabled Rallos Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29509) |90| | Plane of Time B|
-|[The Fabled Terris Thule](http://eqbeastiary.allakhazam.com/search.shtml?id=29512) |90| | Plane of Time B|
-|[The Fabled Warlord, Rallos Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29526) |90| | Drunder, Fortress of Zek (Plane of Tactics)|
-|[The Fabled Mystical Arbitor of Earth](http://eqbeastiary.allakhazam.com/search.shtml?id=29541) |90| | Vegarlson, the Earthen Badlands|
-|[The Fabled Vallon Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29488) |90| | Drunder, Fortress of Zek (Plane of Tactics)|
-|[The Fabled Innoruuk](http://eqbeastiary.allakhazam.com/search.shtml?id=29508) |90| | Plane of Time B|
-|[The Fabled Tallon Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29511) |90| | Plane of Time B|
-|[The Fabled Xegony the Queen of Air](http://eqbeastiary.allakhazam.com/search.shtml?id=29522) |90| | Eryslai, the Kingdom of Wind|
-|[The Fabled Solusek Ro](http://eqbeastiary.allakhazam.com/search.shtml?id=29539) |90| | Solusek Ro's Tower|
+|[The Fabled Quarm](http://eqbeastiary.allakhazam.com/search.shtml?id=29485) |90| [Fabled Cord of Temporal Weavings](http://everquest.allakhazam.com/db/item.html?item=74247) [Fabled Earthen Bracer of Fortitude](http://everquest.allakhazam.com/db/item.html?item=74239) [Fabled Silver Hoop of Speed](http://everquest.allakhazam.com/db/item.html?item=74272) [Fabled Stone of Flowing Time](http://everquest.allakhazam.com/db/item.html?item=74234) | Plane of Time B|
+|[The Fabled Coirnav the Avatar of Water](http://eqbeastiary.allakhazam.com/search.shtml?id=29551) |90| [Fabled Double Woven Kelp Cord](http://everquest.allakhazam.com/db/item.html?item=74368)   [Fabled Hammer of Crushing Waves](http://everquest.allakhazam.com/db/item.html?item=74364)   [Fabled Mail of Storms](http://everquest.allakhazam.com/db/item.html?item=74363)   [Fabled Sharkbone Plated Shoulderpads](http://everquest.allakhazam.com/db/item.html?item=74383) | Reef of Coirnav|
+|[The Fabled Cazic Thule](http://eqbeastiary.allakhazam.com/search.shtml?id=29507) |90|  [Fabled Belt of Tidal Energy](http://everquest.allakhazam.com/db/item.html?item=74262)   [Fabled Earring of Unseen Horrors](http://everquest.allakhazam.com/db/item.html?item=74236)   [Fabled Mask of Simplicity](http://everquest.allakhazam.com/db/item.html?item=74225)  [Fabled Timestone Adorned Ring](http://everquest.allakhazam.com/db/item.html?item=74211) | Plane of Time B|
+|[The Fabled Saryrn](http://eqbeastiary.allakhazam.com/search.shtml?id=29510) |90| [Fabled Cap of Flowing Time](http://everquest.allakhazam.com/db/item.html?item=74232)   [Fabled Gloves of the Unseen](http://everquest.allakhazam.com/db/item.html?item=74233)   [Fabled Ring of Evasion](http://everquest.allakhazam.com/db/item.html?item=74216)   [Fabled Runewarded Belt](http://everquest.allakhazam.com/db/item.html?item=74219) | Plane of Time B|
+|[The Fabled Agnarr the Storm Lord](http://eqbeastiary.allakhazam.com/search.shtml?id=29521) |90|   [Fabled Amulet of the Rain](http://everquest.allakhazam.com/db/item.html?item=73933)   [Fabled Longbow of the Stormcaller](http://everquest.allakhazam.com/db/item.html?item=73932)   [Fabled Stormriders Signet](http://everquest.allakhazam.com/db/item.html?item=73934) | Torden, the Bastion of Thunder|
+|[The Fabled Avatar of Earth](http://eqbeastiary.allakhazam.com/search.shtml?id=29533) |90|   [Fabled Chestguard of Enchanted Marble](http://everquest.allakhazam.com/db/item.html?item=74214)   [Fabled Earthen Bile](http://everquest.allakhazam.com/db/item.html?item=74215)   [Fabled Hope Stone](http://everquest.allakhazam.com/db/item.html?item=74243)   [Fabled Sword of Primordial Power](http://everquest.allakhazam.com/db/item.html?item=74268) | Ragrax, Stronghold of the Twelve|
+|[The Fabled Lord Mithaniel Marr](http://eqbeastiary.allakhazam.com/search.shtml?id=29484) |90|   [Fabled Blade of the Tempest](http://everquest.allakhazam.com/db/item.html?item=73950)   [Fabled Bow of Contortion](http://everquest.allakhazam.com/db/item.html?item=73968)   [Fabled Cloak of the Wrulons](http://everquest.allakhazam.com/db/item.html?item=73949) | Temple of Marr|
+|[The Fabled Fennin Ro, the Tyrant of Fire](http://eqbeastiary.allakhazam.com/search.shtml?id=29542) |90|   [Fabled Great Mask of Flame](http://everquest.allakhazam.com/db/item.html?item=74244)   [Fabled Hope Stone](http://everquest.allakhazam.com/db/item.html?item=74243)   [Fabled Immaculate Vest of the Fire Tyrant](http://everquest.allakhazam.com/db/item.html?item=74267) | Doomfire, the Burning Lands|
+|[The Fabled Bertoxxulous](http://eqbeastiary.allakhazam.com/search.shtml?id=29506) |90|   [Fabled Belt of Temporal Bindings](http://everquest.allakhazam.com/db/item.html?item=74241)   [Fabled Celestial Cloak](http://everquest.allakhazam.com/db/item.html?item=74227)   [Fabled Pulsing Onyx Ring](http://everquest.allakhazam.com/db/item.html?item=74230)   [Fabled Veil of the Inferno](http://everquest.allakhazam.com/db/item.html?item=74264) | Plane of Time B|
+|[The Fabled Rallos Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29509) |90|   [Fabled Band of Primordial Energy](http://everquest.allakhazam.com/db/item.html?item=74240)   [Fabled Pauldrons of Devastation](http://everquest.allakhazam.com/db/item.html?item=74235)   [Fabled Shield of Strife](http://everquest.allakhazam.com/db/item.html?item=74229)   [Fabled Visor of the Berserker](http://everquest.allakhazam.com/db/item.html?item=74269) | Plane of Time B|
+|[The Fabled Terris Thule](http://eqbeastiary.allakhazam.com/search.shtml?id=29512) |90|   [Fabled Armguards of the Brute](http://everquest.allakhazam.com/db/item.html?item=74209)   [Fabled Coif of Flowing Time](http://everquest.allakhazam.com/db/item.html?item=74217)   [Fabled Earring of Corporeal Essence](http://everquest.allakhazam.com/db/item.html?item=74226)   [Fabled Talisman of Tainted Energy](http://everquest.allakhazam.com/db/item.html?item=74221) | Plane of Time B|
+|[The Fabled Warlord, Rallos Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29526) |90|   [Fabled Blade of War](http://everquest.allakhazam.com/db/item.html?item=74245)   [Fabled Boots of the Warmaster](http://everquest.allakhazam.com/db/item.html?item=74265)   [Fabled Red Eyed Mask of Rage](http://everquest.allakhazam.com/db/item.html?item=74248)   [Fabled War Charm of Crossed Blades](http://everquest.allakhazam.com/db/item.html?item=74246) | Drunder, Fortress of Zek (Plane of Tactics)|
+|[The Fabled Mystical Arbitor of Earth](http://eqbeastiary.allakhazam.com/search.shtml?id=29541) |90|   [Fabled Cloak of Flickering Flame](http://everquest.allakhazam.com/db/item.html?item=74279)   [Fabled Earring of Living Earth](http://everquest.allakhazam.com/db/item.html?item=74257) | Vegarlson, the Earthen Badlands|
+|[The Fabled Vallon Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29488) |90|   [Fabled Girdle of the Tactician](http://everquest.allakhazam.com/db/item.html?item=74205)   [Fabled Obsidian Scimitar of War](http://everquest.allakhazam.com/db/item.html?item=74204)   [Fabled Pendant of the Triumphant Victor](http://everquest.allakhazam.com/db/item.html?item=74203) | Drunder, Fortress of Zek (Plane of Tactics)|
+|[The Fabled Innoruuk](http://eqbeastiary.allakhazam.com/search.shtml?id=29508) |90|   [Fabled Bracer of Timeless Rage](http://everquest.allakhazam.com/db/item.html?item=74237)   [Fabled Earring of Celestial Energy](http://everquest.allakhazam.com/db/item.html?item=74242)   [Fabled Jagged Timeforged Blade](http://everquest.allakhazam.com/db/item.html?item=74270)   [Fabled Mantle of Pure Spirit](http://everquest.allakhazam.com/db/item.html?item=74231) | Plane of Time B|
+|[The Fabled Tallon Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=29511) |90| [Fabled Amulet of Crystal Dreams](http://everquest.allakhazam.com/db/item.html?item=74210)   [Fabled Band of Prismatic Focus](http://everquest.allakhazam.com/db/item.html?item=74222)   [Fabled Cloak of the Falling Skies](http://everquest.allakhazam.com/db/item.html?item=74258) | Plane of Time B|
+|[The Fabled Xegony the Queen of Air](http://eqbeastiary.allakhazam.com/search.shtml?id=29522) |90|   [Fabled Exquisite Phoenix Feather Mantle](http://everquest.allakhazam.com/db/item.html?item=74283)   [Fabled Hope Stone](http://everquest.allakhazam.com/db/item.html?item=74243)   [Fabled Puresteel Mantle](http://everquest.allakhazam.com/db/item.html?item=74255)   [Fabled Vest of Phoenix Feathers](http://everquest.allakhazam.com/db/item.html?item=74256)   [Fabled Xephyrus, Wand of the Flowing Wind](http://everquest.allakhazam.com/db/item.html?item=18679) | Eryslai, the Kingdom of Wind|
+|[The Fabled Solusek Ro](http://eqbeastiary.allakhazam.com/search.shtml?id=29539) |90|   [Fabled Baroque Half Mask of Solusek Ro](http://everquest.allakhazam.com/db/item.html?item=74127)   [Fabled Gauntlets of the Burning Prince](http://everquest.allakhazam.com/db/item.html?item=73947)   [The Fabled Orb of the Sun](http://everquest.allakhazam.com/db/item.html?item=73946) | Solusek Ro's Tower|
