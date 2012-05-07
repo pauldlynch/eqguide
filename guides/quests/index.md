@@ -5,9 +5,9 @@ group : guide
 ---
 {% include JB/setup %} 
 
-##(ALL EXPANSIONS) [List of Links to Various Quests from Most Expansions](http://www.eqclerics.org/forums/showthread.php?t=24035)
+##[List of Links to Various Quests from Most Expansions](http://www.eqclerics.org/forums/showthread.php?t=24035)
 
-This is taken from Crystilla's excellent list of quests that are still worthwhile from all expansions of Everquest.  Some are classic quests from their era, often with worthless rewards, and others are still very current; there is a certain emphasis on trade skill quests.  I have cross referenced this list against the Hero's Journey achievements from the Conquest section.
+This is taken from [Crystilla's excellent list of quests](http://www.eqclerics.org/forums/showthread.php?t=24035) that are still worthwhile from all expansions of Everquest.  Some are classic quests from their era, often with worthless rewards, and others are still very current; there is a certain emphasis on trade skill quests.  I have cross referenced this list against the Hero's Journey achievements from the Conquest section.
 
 I have tidied the html (considerably) to make it easier to understand and fix a couple of minor errors.
 
@@ -293,6 +293,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
   
 ##Luclin
 
+1. [Earring of Veracity](http://everquest.allakhazam.com/db/quest.html?quest=1667) leads to [Arx Key](http://everquest.allakhazam.com/db/item.html?item=36900)
 1. [Scepter of Shadows](http://everquest.allakhazam.com/db/quest.html?quest=2000) Vex Thall key  
 2. [Ring of the Shissar](http://everquest.allakhazam.com/db/quest.html?quest=1999) Emperor's Key  
 3. [Corrupted Shissar Weapons](http://everquest.allakhazam.com/db/quest.html?quest=1998)  
@@ -315,17 +316,12 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 14. [Link to all Temple of Veeshan's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=116)  
 15. [Link to all Thurgadin's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=102)  
 16. [Alternate Access to Tower of Solusek Ro](http://everquest.allakhazam.com/db/quest.html?quest=3018)  
-  
-##Faydwer (also Antonica)
-
-1. [Adventurer's Stone](http://everquest.allakhazam.com/db/quest.html?quest=2641)  
-  
-  
+    
 ##Kunark
 
 1. [New Key to Veeshan's Peak](http://everquest.allakhazam.com/db/quest.html?quest=2904)
 1. [Rune of Scale](http://everquest.allakhazam.com/db/quest.html?quest=87) old key to Veeshan's Peak
-2. Inside VP Dragon quests
+2. Inside Veeshan's Peak Dragon quests
 	- [A Message from Xygoz](http://everquest.allakhazam.com/db/quest.html?quest=2899)
 	- [Assist Hoshkar](http://everquest.allakhazam.com/db/quest.html?quest=2898)
 	- [Assist Nexona](http://everquest.allakhazam.com/db/quest.html?quest=2900)
@@ -333,6 +329,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 	- [Druushk's Dilemma](http://everquest.allakhazam.com/db/quest.html?quest=2901)
 	- [Proof for Phara Dar](http://everquest.allakhazam.com/db/quest.html?quest=2903)
 3. [Key to Charasis (Howling Stones)](http://everquest.allakhazam.com/db/quest.html?quest=682)
+1. [Hand of Glory](http://everquest.allakhazam.com/db/item.html?item=23020) master key for Charasis
 4. [Spirit Wracked Cord](http://everquest.allakhazam.com/db/quest.html?quest=1889)
 5. [Regal Band of Bathezid](http://everquest.allakhazam.com/db/quest.html?quest=1888) (+25 DS right click)
 6. [Free the Drogan Slaves](http://everquest.allakhazam.com/db/quest.html?quest=2635) (broken?)
@@ -350,3 +347,12 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 ##Multi-Continent Quests
 
 1. [Phylactery Will Get You Nowhere](http://everquest.allakhazam.com/db/quest.html?quest=2652)
+
+##Faydwer (also Antonica)
+
+1. [Adventurer's Stone](http://everquest.allakhazam.com/db/quest.html?quest=2641)  
+  
+##Antonica
+
+1. [Qeynos Badge](http://everquest.allakhazam.com/db/quest.html?quest=1271), leading to [Qeynos Badge of Nobility](http://everquest.allakhazam.com/db/item.html?item=13796)
+

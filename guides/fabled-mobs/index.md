@@ -24,7 +24,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[Eastern Wastes](http://eqbeastiary.allakhazam.com/search.shtml?zone=110)|
 |[The Fabled Mooto](http://eqbeastiary.allakhazam.com/search.shtml?id=14818) |11| [Fabled Cloth Cap](http://everquest.allakhazam.com/db/item.html?item=27207)
 |[Misty Thicket](http://eqbeastiary.allakhazam.com/search.shtml?zone=7)|
-|[The Fabled Corflunk](http://eqbeastiary.allakhazam.com/search.shtml?id=17856) |15| [Fabled DarkforgeGauntlets](http://everquest.allakhazam.com/db/item.html?item=27211)
+|[The Fabled Corflunk](http://eqbeastiary.allakhazam.com/search.shtml?id=17856) |15| [Fabled Darkforge Gauntlets](http://everquest.allakhazam.com/db/item.html?item=27211)
 |[Butcherblock Mountains](http://eqbeastiary.allakhazam.com/search.shtml?zone=57)|
 |[The Fabled Rahotep](http://eqbeastiary.allakhazam.com/search.shtml?id=14812) |16| [Fabled Scepter of Rahotep](http://everquest.allakhazam.com/db/item.html?item=27276) |[Northern Desert of Ro](http://eqbeastiary.allakhazam.com/search.shtml?zone=24)|
 |[The Fabled Thaumaturgist](http://eqbeastiary.allakhazam.com/search.shtml?id=14946) |20| [Fabled Dagger of Marnek](http://everquest.allakhazam.com/db/item.html?item=27210)
@@ -338,70 +338,70 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
-|[The Fabled Statue of Rallos Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=21005) |72| | Kael Drakkel|
-|[The Fabled Taskmaster Vezhkah](http://eqbeastiary.allakhazam.com/search.shtml?id=25255) |75| | Ssraeshza Temple|
-|[The Fabled Tjudawos the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20969) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Prince Selrach Di'zok](http://eqbeastiary.allakhazam.com/search.shtml?id=17840) |75| | Chardok|
-|[The Fabled Tunare](http://eqbeastiary.allakhazam.com/search.shtml?id=21002) |75| | Plane of Growth|
-|[The Fabled Lady Mirenilla](http://eqbeastiary.allakhazam.com/search.shtml?id=21012) |75| | Temple of Veeshan|
-|[The Fabled Khemot Agarthizar](http://eqbeastiary.allakhazam.com/search.shtml?id=25259) |75| | Grieg's End|
-|[The Fabled Lodizal](http://eqbeastiary.allakhazam.com/search.shtml?id=20951) |75| | Iceclad Ocean|
-|[The Fabled Queen Velazul Di'Zok](http://eqbeastiary.allakhazam.com/search.shtml?id=17846) |75| | Chardok|
-|[The Fabled Lord Vyemm](http://eqbeastiary.allakhazam.com/search.shtml?id=21027) |75| | Temple of Veeshan|
-|[The Fabled Warden Mekuzh](http://eqbeastiary.allakhazam.com/search.shtml?id=25274) |75| | Ssraeshza Temple|
-|[The Fabled Vaniki](http://eqbeastiary.allakhazam.com/search.shtml?id=20980) |75| | Dragon Necropolis|
-|[The Fabled Lord Yelinak](http://eqbeastiary.allakhazam.com/search.shtml?id=20997) |75| | Skyshrine|
-|[The Fabled Queen Raltaas](http://eqbeastiary.allakhazam.com/search.shtml?id=21034) |75| | Dragon Necropolis|
-|[The Fabled Rhozth Ssrakezh](http://eqbeastiary.allakhazam.com/search.shtml?id=25292) |75| | Ssraeshza Temple|
-|[The Fabled Emperor Chottal](http://eqbeastiary.allakhazam.com/search.shtml?id=17855) |75| | Old Sebilis|
-|[The Fabled Kildrukaun the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20968) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Rhozth Ssravizh](http://eqbeastiary.allakhazam.com/search.shtml?id=25251) |75| | Ssraeshza Temple|
-|[The Fabled Valdanov Zevfeer](http://eqbeastiary.allakhazam.com/search.shtml?id=25364) |75| | The Tenebrous Mountains|
-|[The Fabled Zlexak](http://eqbeastiary.allakhazam.com/search.shtml?id=20967) |75| | Temple of Veeshan|
-|[The Fabled Jorlleag](http://eqbeastiary.allakhazam.com/search.shtml?id=20901) |75| | Temple of Veeshan|
-|[The Fabled Taskmaster Zerumaz](http://eqbeastiary.allakhazam.com/search.shtml?id=25254) |75| | Ssraeshza Temple|
-|[The Fabled Del Sapara](http://eqbeastiary.allakhazam.com/search.shtml?id=20977) |75| | Western Wastes|
-|[The Fabled Drusella Sathir](http://eqbeastiary.allakhazam.com/search.shtml?id=17839) |75| | Howling Stones (Charasis)|
-|[The Fabled Sontalak](http://eqbeastiary.allakhazam.com/search.shtml?id=21001) |75| | Western Wastes|
-|[The Fabled Aaryonar](http://eqbeastiary.allakhazam.com/search.shtml?id=21010) |75| | Temple of Veeshan|
-|[The Fabled Taskmaster Zhe'Vozh](http://eqbeastiary.allakhazam.com/search.shtml?id=25257) |75| | Ssraeshza Temple|
-|[The Fabled Final Arbiter](http://eqbeastiary.allakhazam.com/search.shtml?id=20983) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Sevalak](http://eqbeastiary.allakhazam.com/search.shtml?id=20996) |75| | Temple of Veeshan|
-|[The Fabled Lady Nevederia](http://eqbeastiary.allakhazam.com/search.shtml?id=21026) |75| | Temple of Veeshan|
-|[The Fabled Servitor of Luclin](http://eqbeastiary.allakhazam.com/search.shtml?id=25268) |75| | Grieg's End|
-|[The Fabled Keldor Dek'Torek](http://eqbeastiary.allakhazam.com/search.shtml?id=20999) |75| | Kael Drakkel|
-|[The Fabled Mraaka](http://eqbeastiary.allakhazam.com/search.shtml?id=20984) |75| | Western Wastes|
-|[The Fabled Lord Kreizenn](http://eqbeastiary.allakhazam.com/search.shtml?id=21029) |75| | Temple of Veeshan|
-|[The Fabled Warlord Tk'kik'tthik](http://eqbeastiary.allakhazam.com/search.shtml?id=25285) |75| | Fungus Grove|
-|[The Fabled Master of the Guard](http://eqbeastiary.allakhazam.com/search.shtml?id=20943) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Cekenar](http://eqbeastiary.allakhazam.com/search.shtml?id=20995) |75| | Temple of Veeshan|
-|[The Fabled Lcea Katta](http://eqbeastiary.allakhazam.com/search.shtml?id=25249) |75| | Katta Castellum|
-|[The Fabled Burrower Parasite](http://eqbeastiary.allakhazam.com/search.shtml?id=25308) |75| | The Deep|
-|[The Fabled Froglok Chef](http://eqbeastiary.allakhazam.com/search.shtml?id=17831) |75| | Old Sebilis|
-|[The Fabled Gozzrem](http://eqbeastiary.allakhazam.com/search.shtml?id=20899) |75| | Temple of Veeshan|
-|[The Fabled Taskmaster Revan'Kezh](http://eqbeastiary.allakhazam.com/search.shtml?id=25253) |75| | Ssraeshza Temple|
-|[The Fabled Ionat](http://eqbeastiary.allakhazam.com/search.shtml?id=20953) |75| | Western Wastes|
-|[The Fabled Venril Sathir](http://eqbeastiary.allakhazam.com/search.shtml?id=17838) |75| | Karnor's Castle|
-|[The Fabled Tantor](http://eqbeastiary.allakhazam.com/search.shtml?id=20908) |75| | Western Wastes|
-|[The Fabled Taskmaster Keuzozh](http://eqbeastiary.allakhazam.com/search.shtml?id=25256) |75| | Ssraeshza Temple|
-|[The Fabled Dain Frostreaver IV](http://eqbeastiary.allakhazam.com/search.shtml?id=20935) |75| | Icewell Keep|
-|[The Fabled Tolapumj](http://eqbeastiary.allakhazam.com/search.shtml?id=17841) |75| | Old Sebilis|
-|[The Fabled Telkorenar](http://eqbeastiary.allakhazam.com/search.shtml?id=21013) |75| | Temple of Veeshan|
-|[The Fabled Itraer Vius](http://eqbeastiary.allakhazam.com/search.shtml?id=25265) |75| | Akheva Ruins|
-|[The Fabled Vyskudra the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20970) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Trakanon](http://eqbeastiary.allakhazam.com/search.shtml?id=17848) |75| | Old Sebilis|
-|[The Fabled Lord Feshlak](http://eqbeastiary.allakhazam.com/search.shtml?id=21028) |75| | Temple of Veeshan|
-|[The Fabled Taskmaster Kavamezh](http://eqbeastiary.allakhazam.com/search.shtml?id=25275) |75| | Ssraeshza Temple|
-|[The Fabled Progenitor](http://eqbeastiary.allakhazam.com/search.shtml?id=20952) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Zeixshi'Kar the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20971) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Grendish the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=21138) |75| | Skyshrine|
-|[The Fabled Burrower Beast](http://eqbeastiary.allakhazam.com/search.shtml?id=25295) |75| | The Deep|
-|[The Fabled Myconid Spore King](http://eqbeastiary.allakhazam.com/search.shtml?id=17851) |75| | Old Sebilis|
-|[The Fabled Dagarn the Destroyer](http://eqbeastiary.allakhazam.com/search.shtml?id=20896) |75| | Temple of Veeshan|
-|[The Fabled Taskmaster Mikazha](http://eqbeastiary.allakhazam.com/search.shtml?id=25252) |75| | Ssraeshza Temple|
-|[The Fabled Overseer](http://eqbeastiary.allakhazam.com/search.shtml?id=25547) |75| | Kerafyrm's Lair (Sleeper's Tomb)|
-|[The Fabled Overking Bathezid](http://eqbeastiary.allakhazam.com/search.shtml?id=17837) |75| | Chardok|
-|[The Fabled Lord Koi'Doken](http://eqbeastiary.allakhazam.com/search.shtml?id=20903) |75| | Temple of Veeshan|
+|[The Fabled Statue of Rallos Zek](http://eqbeastiary.allakhazam.com/search.shtml?id=21005) |72| [Fabled Swiftblade of Zek](http://everquest.allakhazam.com/db/item.html?item=47966) | Kael Drakkel|
+|[The Fabled Taskmaster Vezhkah](http://eqbeastiary.allakhazam.com/search.shtml?id=25255) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Tjudawos the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20969) |75| [Fabled Lungi of the Forbidden](http://everquest.allakhazam.com/db/item.html?item=47731) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Prince Selrach Di'zok](http://eqbeastiary.allakhazam.com/search.shtml?id=17840) |75| [Fabled Palladium Axe](http://everquest.allakhazam.com/db/item.html?item=35064) | Chardok|
+|[The Fabled Tunare](http://eqbeastiary.allakhazam.com/search.shtml?id=21002) |75| [Fabled Girdle of Living Thorns](http://everquest.allakhazam.com/db/item.html?item=47858http://everquest.allakhazam.com/db/item.html?item=47858) | Plane of Growth|
+|[The Fabled Lady Mirenilla](http://eqbeastiary.allakhazam.com/search.shtml?id=21012) |75| [Fabled Shawl of Perception](http://everquest.allakhazam.com/db/item.html?item=47889) | Temple of Veeshan|
+|[The Fabled Khemot Agarthizar](http://eqbeastiary.allakhazam.com/search.shtml?id=25259) |75| [Fabled Book of Impracticality](http://everquest.allakhazam.com/db/item.html?item=67296) | Grieg's End|
+|[The Fabled Lodizal](http://eqbeastiary.allakhazam.com/search.shtml?id=20951) |75| [Fabled Lodizal Shell Shield](http://everquest.allakhazam.com/db/item.html?item=47763) | Iceclad Ocean|
+|[The Fabled Queen Velazul Di'Zok](http://eqbeastiary.allakhazam.com/search.shtml?id=17846) |75| [Fabled Insignia Protector](http://everquest.allakhazam.com/db/item.html?item=35073) | Chardok|
+|[The Fabled Lord Vyemm](http://eqbeastiary.allakhazam.com/search.shtml?id=21027) |75| [Fabled Vyemm's Left Eye](http://everquest.allakhazam.com/db/item.html?item=47967) | Temple of Veeshan|
+|[The Fabled Warden Mekuzh](http://eqbeastiary.allakhazam.com/search.shtml?id=25274) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) [Fabled Taskmaster's Pouch](http://everquest.allakhazam.com/db/item.html?item=67292) | Ssraeshza Temple|
+|[The Fabled Vaniki](http://eqbeastiary.allakhazam.com/search.shtml?id=20980) |75| [Fabled Willsapper](http://everquest.allakhazam.com/db/item.html?item=47814) | Dragon Necropolis|
+|[The Fabled Lord Yelinak](http://eqbeastiary.allakhazam.com/search.shtml?id=20997) |75| [Fabled Mask of the Dragon Slayer](http://everquest.allakhazam.com/db/item.html?item=47849) | Skyshrine|
+|[The Fabled Queen Raltaas](http://eqbeastiary.allakhazam.com/search.shtml?id=21034) |75| [Fabled Queen's Carapace](http://everquest.allakhazam.com/db/item.html?item=47992) | Dragon Necropolis|
+|[The Fabled Rhozth Ssrakezh](http://eqbeastiary.allakhazam.com/search.shtml?id=25292) |75| [Fabled Taskmaster's Pouch](http://everquest.allakhazam.com/db/item.html?item=67292) | Ssraeshza Temple|
+|[The Fabled Emperor Chottal](http://eqbeastiary.allakhazam.com/search.shtml?id=17855) |75| [Fabled Rod of Mourning](http://everquest.allakhazam.com/db/item.html?item=35082) | Old Sebilis|
+|[The Fabled Kildrukaun the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20968) |75| [Fabled Boots of the Ancients](http://everquest.allakhazam.com/db/item.html?item=47964)  [Fabled Lungi of the Forbidden](http://everquest.allakhazam.com/db/item.html?item=47731) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Rhozth Ssravizh](http://eqbeastiary.allakhazam.com/search.shtml?id=25251) |75| [Fabled Taskmaster's Pouch](http://everquest.allakhazam.com/db/item.html?item=67292) | Ssraeshza Temple|
+|[The Fabled Valdanov Zevfeer](http://eqbeastiary.allakhazam.com/search.shtml?id=25364) |75| [Fabled Vampyre Volatilis Ashes](http://everquest.allakhazam.com/db/item.html?item=67602) | The Tenebrous Mountains|
+|[The Fabled Zlexak](http://eqbeastiary.allakhazam.com/search.shtml?id=20967) |75| [Fabled Baton of Flame](http://everquest.allakhazam.com/db/item.html?item=47804) | Temple of Veeshan|
+|[The Fabled Jorlleag](http://eqbeastiary.allakhazam.com/search.shtml?id=20901) |75| [Fabled Earring of the Icecaster](http://everquest.allakhazam.com/db/item.html?item=47803) | Temple of Veeshan|
+|[The Fabled Taskmaster Zerumaz](http://eqbeastiary.allakhazam.com/search.shtml?id=25254) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Del Sapara](http://eqbeastiary.allakhazam.com/search.shtml?id=20977) |75| [Fabled Del Sapara's Talisman](http://everquest.allakhazam.com/db/item.html?item=47734) | Western Wastes|
+|[The Fabled Drusella Sathir](http://eqbeastiary.allakhazam.com/search.shtml?id=17839) |75| [Fabled Necklace of Superiority](http://everquest.allakhazam.com/db/item.html?item=35063) | Howling Stones (Charasis)|
+|[The Fabled Sontalak](http://eqbeastiary.allakhazam.com/search.shtml?id=21001) |75| [Fabled Sontalak's Talisman](http://everquest.allakhazam.com/db/item.html?item=47861) | Western Wastes|
+|[The Fabled Aaryonar](http://eqbeastiary.allakhazam.com/search.shtml?id=21010) |75| [Fabled Katana of Pain](http://everquest.allakhazam.com/db/item.html?item=47882) | Temple of Veeshan|
+|[The Fabled Taskmaster Zhe'Vozh](http://eqbeastiary.allakhazam.com/search.shtml?id=25257) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Final Arbiter](http://eqbeastiary.allakhazam.com/search.shtml?id=20983) |75| [Fabled Ancient Prismatic Brawl Stick](http://everquest.allakhazam.com/db/item.html?item=47787) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Sevalak](http://eqbeastiary.allakhazam.com/search.shtml?id=20996) |75| [Fabled Great Spear of Doom](http://everquest.allakhazam.com/db/item.html?item=47845) | Temple of Veeshan|
+|[The Fabled Lady Nevederia](http://eqbeastiary.allakhazam.com/search.shtml?id=21026) |75| [Fabled Cloak of Thorns](http://everquest.allakhazam.com/db/item.html?item=47960) | Temple of Veeshan|
+|[The Fabled Servitor of Luclin](http://eqbeastiary.allakhazam.com/search.shtml?id=25268) |75| [Fabled Lurid Dagger ](http://everquest.allakhazam.com/db/item.html?item=67285) [Fabled Mask of Pulchritude](http://everquest.allakhazam.com/db/item.html?item=67533)   [Fabled Spined Chain Mail](http://everquest.allakhazam.com/db/item.html?item=67294)   [Fabled Wand of Musing](http://everquest.allakhazam.com/db/item.html?item=67456) | Grieg's End|
+|[The Fabled Keldor Dek'Torek](http://eqbeastiary.allakhazam.com/search.shtml?id=20999) |75| [Fabled Orb of the Infinite Void](http://everquest.allakhazam.com/db/item.html?item=47852) | Kael Drakkel|
+|[The Fabled Mraaka](http://eqbeastiary.allakhazam.com/search.shtml?id=20984) |75| [Fabled Exquisite Velium Warsword](http://everquest.allakhazam.com/db/item.html?item=47727) | Western Wastes|
+|[The Fabled Lord Kreizenn](http://eqbeastiary.allakhazam.com/search.shtml?id=21029) |75| [Fabled Silver Disk](http://everquest.allakhazam.com/db/item.html?item=47969) | Temple of Veeshan|
+|[The Fabled Warlord Tk'kik'tthik](http://eqbeastiary.allakhazam.com/search.shtml?id=25285) |75| [Fabled Brown Chitin Sleeves](http://everquest.allakhazam.com/db/item.html?item=67298) | Fungus Grove|
+|[The Fabled Master of the Guard](http://eqbeastiary.allakhazam.com/search.shtml?id=20943) |75| [Fabled Ancient Prismatic Warsword](http://everquest.allakhazam.com/db/item.html?item=47745) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Cekenar](http://eqbeastiary.allakhazam.com/search.shtml?id=20995) |75| [Fabled Blackstar, Mace of Night](http://everquest.allakhazam.com/db/item.html?item=47844) | Temple of Veeshan|
+|[The Fabled Lcea Katta](http://eqbeastiary.allakhazam.com/search.shtml?id=25249) |75| [abled Girdle of Magnificence](http://everquest.allakhazam.com/db/item.html?item=67461) | Katta Castellum|
+|[The Fabled Burrower Parasite](http://eqbeastiary.allakhazam.com/search.shtml?id=25308) |75| [Fabled Ancient Burrower Hide Tunic](http://everquest.allakhazam.com/db/item.html?item=67273)  [Fabled Bile Drenched Flesh Robe](http://everquest.allakhazam.com/db/item.html?item=67272)  [Fabled Ring of the Depths](http://everquest.allakhazam.com/db/item.html?item=67290) [Fabled Shard from Unfathomable Depths](http://everquest.allakhazam.com/db/item.html?item=67549) | The Deep|
+|[The Fabled Froglok Chef](http://eqbeastiary.allakhazam.com/search.shtml?id=17831) |75| [Fabled Mrylokar's Bracer](http://everquest.allakhazam.com/db/item.html?item=35055) | Old Sebilis|
+|[The Fabled Gozzrem](http://eqbeastiary.allakhazam.com/search.shtml?id=20899) |75| [Fabled Shovel of the Harvest](http://everquest.allakhazam.com/db/item.html?item=47755) | Temple of Veeshan|
+|[The Fabled Taskmaster Revan'Kezh](http://eqbeastiary.allakhazam.com/search.shtml?id=25253) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Ionat](http://eqbeastiary.allakhazam.com/search.shtml?id=20953) |75| [Fabled Ionat's Talisman](http://everquest.allakhazam.com/db/item.html?item=47768) | Western Wastes|
+|[The Fabled Venril Sathir](http://eqbeastiary.allakhazam.com/search.shtml?id=17838) |75| [Fabled Jaundiced Bone Greaves](http://everquest.allakhazam.com/db/item.html?item=35062) | Karnor's Castle|
+|[The Fabled Tantor](http://eqbeastiary.allakhazam.com/search.shtml?id=20908) |75| [Fabled Tantor's Tusk](http://everquest.allakhazam.com/db/item.html?item=47764) | Western Wastes|
+|[The Fabled Taskmaster Keuzozh](http://eqbeastiary.allakhazam.com/search.shtml?id=25256) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Dain Frostreaver IV](http://eqbeastiary.allakhazam.com/search.shtml?id=20935) |75| [Fabled Frostreaver's Embroidered Cloak](http://everquest.allakhazam.com/db/item.html?item=47965) | Icewell Keep|
+|[The Fabled Tolapumj](http://eqbeastiary.allakhazam.com/search.shtml?id=17841) |75| [ Fabled Tolapumj's Robe](http://everquest.allakhazam.com/db/item.html?item=35066) | Old Sebilis|
+|[The Fabled Telkorenar](http://eqbeastiary.allakhazam.com/search.shtml?id=21013) |75| [Fabled Black Rock Maul of Crushing](http://everquest.allakhazam.com/db/item.html?item=47907) | Temple of Veeshan|
+|[The Fabled Itraer Vius](http://eqbeastiary.allakhazam.com/search.shtml?id=25265) |75| [Fabled Collar of Tavuel Xakreum](http://everquest.allakhazam.com/db/item.html?item=67496)  [Fabled Crown of the Itraer Vius](http://everquest.allakhazam.com/db/item.html?item=67531) [Fabled Fist of Acrylia](http://everquest.allakhazam.com/db/item.html?item=67532) [Fabled Ribcracker](http://everquest.allakhazam.com/db/item.html?item=67497) | Akheva Ruins|
+|[The Fabled Vyskudra the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20970) |75| [Fabled Clawed Coat of Tyro](http://everquest.allakhazam.com/db/item.html?item=47885) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Trakanon](http://eqbeastiary.allakhazam.com/search.shtml?id=17848) |75| [Fabled Mana Robe](http://everquest.allakhazam.com/db/item.html?item=35077) | Old Sebilis|
+|[The Fabled Lord Feshlak](http://eqbeastiary.allakhazam.com/search.shtml?id=21028) |75| [ Fabled Boots of the Dead Dream](http://everquest.allakhazam.com/db/item.html?item=47968) | Temple of Veeshan|
+|[The Fabled Taskmaster Kavamezh](http://eqbeastiary.allakhazam.com/search.shtml?id=25275) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Progenitor](http://eqbeastiary.allakhazam.com/search.shtml?id=20952) |75| [Fabled Tome of Innovation](http://everquest.allakhazam.com/db/item.html?item=47766) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Zeixshi'Kar the Ancient](http://eqbeastiary.allakhazam.com/search.shtml?id=20971) |75| [Fabled Tenuous Dragonscale Slippers](http://everquest.allakhazam.com/db/item.html?item=47846) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Grendish the Crusader](http://eqbeastiary.allakhazam.com/search.shtml?id=21138) |75| Fabled Amulet of the Shrine ?? | Skyshrine|
+|[The Fabled Burrower Beast](http://eqbeastiary.allakhazam.com/search.shtml?id=25295) |75| [Fabled Ancient Burrower Hide Tunic](http://everquest.allakhazam.com/db/item.html?item=67273) [Fabled Bile Drenched Flesh Robe](http://everquest.allakhazam.com/db/item.html?item=67272) [Fabled Ring of the Depths](http://everquest.allakhazam.com/db/item.html?item=67290) | The Deep|
+|[The Fabled Myconid Spore King](http://eqbeastiary.allakhazam.com/search.shtml?id=17851) |75| [Fabled Fungus Covered Scale Tunic](http://everquest.allakhazam.com/db/item.html?item=35079) | Old Sebilis|
+|[The Fabled Dagarn the Destroyer](http://eqbeastiary.allakhazam.com/search.shtml?id=20896) |75| [Fabled Belt of the Destroyer](http://everquest.allakhazam.com/db/item.html?item=47790) | Temple of Veeshan|
+|[The Fabled Taskmaster Mikazha](http://eqbeastiary.allakhazam.com/search.shtml?id=25252) |75| [Fabled Ssraeshzian Insignia](http://everquest.allakhazam.com/db/item.html?item=67448)   [Fabled Zazuzh's Idol](http://everquest.allakhazam.com/db/item.html?item=67447)   [Fabled Zherozsh's Ring](http://everquest.allakhazam.com/db/item.html?item=67381) | Ssraeshza Temple|
+|[The Fabled Overseer](http://eqbeastiary.allakhazam.com/search.shtml?id=25547) |75| [Fabled Priceless Velium Claidhmore](http://everquest.allakhazam.com/db/item.html?item=55472) | Kerafyrm's Lair (Sleeper's Tomb)|
+|[The Fabled Overking Bathezid](http://eqbeastiary.allakhazam.com/search.shtml?id=17837) |75| [Fabled Incarnadine Breastplate](http://everquest.allakhazam.com/db/item.html?item=35061) | Chardok|
+|[The Fabled Lord Koi'Doken](http://eqbeastiary.allakhazam.com/search.shtml?id=20903) |75| [Fabled Net of the Deep Sea](http://everquest.allakhazam.com/db/item.html?item=47777) | Temple of Veeshan|
 
 ##Fabled 80 {#eighty}
 
