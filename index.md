@@ -17,18 +17,21 @@ New Players
 - [Stone Hive](guides/stone-hive) (35-45++)
 - [Goru'kar Mesa](guides/gorukar-mesa) (35-55+)
 
-Everquest Anniversary
----------------------
-(16 March - 16 April every year)
+Repeating Events
+----------------
 
-- [Anniversary Quests](guides/anniversary-quests)
-- [Fabled Mobs](guides/fabled-mobs)
-- [Fabled Pet Weapons](guides/fabled-pet-weapons)
+- Everquest Anniversary (16 March - 16 April every year)
+	- [Anniversary Quests](guides/anniversary-quests)
+	- [Fabled Mobs](guides/fabled-mobs)
+	- [Fabled Pet Weapons](guides/fabled-pet-weapons)
+
+- [Hardcore Heritage](guides/hardcore-heritage) (Summer zone revamps)
 
 General Information
 -------------------
 
 - [Hot Zones](guides/hot-zones)
+- [What to Do and When](guides/what-to-do-when)
 
 The Hero's Journey
 ------------------
