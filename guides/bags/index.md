@@ -7,6 +7,14 @@ group : guide
 
 I have attempted to collect together all of the easy to obtain bags.  Most of these can be gathered at level 1, either as drops, easy purchases in accessible zones, or from simple quests.  Most of the rest can be quested around level 20, or with minor trade skills.
 
+My suggestion for a new character is to first see if you have the claims for the two Dreamweave Satchels, which are one per character; if you never bough House of Thule, you may not have them.  Next, open barrels in Gloomingdeep to get bags, ending up with backpacks - plain old, 8 slot, no weight reduction, backpacks.  If you visit the Plane of Knowledge, then you can buy deluxe toolboxes (use find on the tinkering vendors), which are ten slot; also do the Bazaar quest from Secalna Galnor for the Sturdy Traveller's Pack.
+
+If you are a 'good' race, then you can consider doing the Courier of Favor quest from Sunrise Hills; this takes some time (a few hours) to complete.
+
+The next most accessible, reasonable bag is the Ore Hauler's Haversack, the result of a quest from Smith Bronson in Crescent Reach.
+
+If you have some trade skills, then the trade skill trophies can all summon temporary bags.  If you [hand them in to Jolum](http://everquest.allakhazam.com/db/quest.html?quest=2154) in the Bazaar, he gives you an Artisan Seal, with instructions to combine the seal in a trade skill container.  This isn't really worth doing until you have a skill level of 200-250, but if you have 300, you will be rewarded with two bags, one very large bag for trade skill components only, and a 12 slot, 100% WR bag.
+
 ##Quests
 
 - [Sturdy Traveller's Pack](http://everquest.allakhazam.com/db/item.html?item=103902)
@@ -15,6 +23,7 @@ Level 1: just do the Bazaar quest from Secalna Galnor in the Plane of Knowledge.
 - [Featherweight Satchel of the Courier](http://everquest.allakhazam.com/db/item.html?item=100133)
 From [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522) quest, which requires you to have completed both [Postmaster's Challenge](http://everquest.allakhazam.com/db/quest.html?quest=5521) and [The Nonad Brothers](http://everquest.allakhazam.com/db/quest.html?quest=5300).  No killing required, so level 1 with 'good' faction.  I have a full walk through of this quest [here](courier-of-favor.html).
 
+- [Ore Hauler's Haversack](http://everquest.allakhazam.com/db/item.html?item=53422) quest from Smithy Bronson in Crescent Reach
 
 - [Rallic Pack](http://everquest.allakhazam.com/db/item.html?item=7453), reward from [The Acrylia Plans](http://everquest.allakhazam.com/db/quest.html?quest=1305).
 

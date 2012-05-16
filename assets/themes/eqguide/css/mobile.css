@@ -1,0 +1,114 @@
+/* If you have set your body tag or a wrapper div with class='wrapper' in your desktop styles.css
+   to a specific width then you will want to change it to width: auto;
+   You may also have set a min-width in styles.css.  Best to change that to 0px
+*/
+body, .wrapper
+{
+   width: auto;
+   /* max-width: 320px; */ /* max_width works with iPhones, but doesn't format well with new Android phones and devices that are wider than 320px */
+   min-width: 0px;
+}
+/* There is no need to have a giant header on a small mobile screen */
+h1
+{
+   font-size: 1em;
+}
+/* As a matter of fact, if you have any Divs with a set width you will want to change their class
+   to have width: auto;
+   Sometimes width: 100%; works better, so play with both
+*/
+.commentbox, .iframe_box,
+{
+   width: 100%;
+}
+/* Some images you may want to change the width to less than the width of the screen */
+.photo img
+{
+   max-width: 160px;
+}
+/* If you have any pop-up help windows that appear in the middle of the screen or have a left
+   of something like left: 100px; then you will want them to be closer to the left side
+   of the screen, so that it appears correctly on the smaller displays
+*/
+.helpwindow
+{
+   left: 1px;
+}
+/* There are some elements of the webpage that you just won't want to display on a mobile device.
+   For this page we don't want to display the normal google ads because they take up too much room
+   on a mobile phone. So I have made two DIVs around the google ads with a class of google_top
+   for the top one and google_left for the left one.
+*/
+.google_top, .google_left
+{
+   display: none;
+}
+/* But you may want to put in a special google mobile ad.  Surround that ad with a DIV with class='google_mobile'.
+   In the desktop stylesheet (styles.css) you would have display: none; for that class.  But in the mobile
+   stylesheet you have display: block
+*/
+.google_mobile
+{
+   float: none;
+   display: block;
+}
+/* On the desktop stylesheet you probably have many floats for side menus or ads next to elements in the page.
+   You will want to cancel all these floats so that users don't have to scroll left and right to see everything
+   on the page.  If you decide to include your side menu it will appear above the content of your page.  Make
+   sure you set the width to auto or 100%
+*/
+.sidemenu
+{
+   padding: 0px;
+   margin: 0px;
+   width: 100%;
+   float: none;
+}
+/* In a side menu you usually place anchor links or buttons.
+If you have each link displayed as block you may want to let
+them float next to each other so that they don't take up as much room vertically.
+Put some margin around them so they are easy to press with a finger.
+*/
+.sidemenu a
+{
+   padding: 1px;
+   margin: 3px;
+   float: left;
+}
+.sidemenu a:hover
+{
+   padding: 1px;
+   margin: 3px;
+   float: left;
+}
+/* If you have input form elements of type='text' that have a very long length attribute, you will
+	want to stop using length and use a css width instead.  For mobile use width: auto;
+*/
+.input
+{
+	width: auto;
+}	
+/*If you have a textarea that has a wide
+	cols attribute you will want to change it to use width: 100%
+*/
+textarea
+{
+	width: 100%;
+}
+/* Sometimes you might have a really wide table or div or pre that just won't fit in the width of a
+mobile device causing the page to have to scroll sideways (horizontally) to view the whole
+div or table.  Add the following break_word class and the table or div will even split in
+the middle of words to try to format it to the width of the device:
+Examples: <table class='break_word'> or <div class='break_word'>
+*/
+.break_word
+{
+	width: auto; 
+	word-wrap: break-word; 
+	word-break: break-all;
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}

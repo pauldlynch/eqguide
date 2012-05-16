@@ -53,6 +53,7 @@ Sidetracks
 - [Alchemy for Beginners](guides/alchemy)
 - [Tailoring for Beginners](guides/tailoring)
 - [The Hollowshade War](guides/hollowshade-war)
+- [Easy Bags](guides/bags)
 
 Forthcoming
 -----------
