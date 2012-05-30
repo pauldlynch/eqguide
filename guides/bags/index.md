@@ -5,9 +5,9 @@ group : guide
 ---
 {% include JB/setup %}
 
-I have attempted to collect together all of the easy to obtain bags.  Most of these can be gathered at level 1, either as drops, easy purchases in accessible zones, or from simple quests.  Most of the rest can be quested around level 20, or with minor trade skills.
+I have attempted to collect together all of the easy to obtain bags.  Most of these can be gathered at level 1, either as drops, easy purchases in accessible zones, or from simple quests.  Most of the rest can be quested around level 20, or with minor trade skills.  The final remainder are ones I just couldn't resist adding in - mainly famous classic bags.
 
-My suggestion for a new character is to first see if you have the claims for the two Dreamweave Satchels, which are one per character; if you never bough House of Thule, you may not have them.  Next, open barrels in Gloomingdeep to get bags, ending up with backpacks - plain old, 8 slot, no weight reduction, backpacks.  If you visit the Plane of Knowledge, then you can buy deluxe toolboxes (use find on the tinkering vendors), which are ten slot; also do the Bazaar quest from Secalna Galnor for the Sturdy Traveller's Pack.
+My suggestion for a new character is to first see if you have the claims for the two Dreamweave Satchels, which are one per character; if you never bought House of Thule, you may not have them.  Next, open barrels in Gloomingdeep to get bags, ending up with backpacks - plain old, 8 slot, no weight reduction, backpacks.  If you visit the Plane of Knowledge, then you can buy deluxe toolboxes (use Find on the tinkering vendors), which are ten slot; also do the Bazaar quest from Secalna Galnor for the Sturdy Traveller's Pack.
 
 If you are a 'good' race, then you can consider doing the Courier of Favor quest from Sunrise Hills; this takes some time (a few hours) to complete.
 
@@ -24,6 +24,7 @@ Level 1: just do the Bazaar quest from Secalna Galnor in the Plane of Knowledge.
 From [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522) quest, which requires you to have completed both [Postmaster's Challenge](http://everquest.allakhazam.com/db/quest.html?quest=5521) and [The Nonad Brothers](http://everquest.allakhazam.com/db/quest.html?quest=5300).  No killing required, so level 1 with 'good' faction.  I have a full walk through of this quest [here](courier-of-favor.html).
 
 - [Ore Hauler's Haversack](http://everquest.allakhazam.com/db/item.html?item=53422) quest from Smithy Bronson in Crescent Reach
+- [Santug's Stocking](http://everquest.allakhazam.com/db/item.html?item=55250) Frostfell quest reward
 
 - [Rallic Pack](http://everquest.allakhazam.com/db/item.html?item=7453), reward from [The Acrylia Plans](http://everquest.allakhazam.com/db/quest.html?quest=1305).
 
@@ -48,13 +49,16 @@ Claims from purchase of Veil of Alaris.
 - [Strongbox of the Mercenary](http://everquest.allakhazam.com/db/item.html?item=95622)
 - [Trademaster's Component Satchel](http://everquest.allakhazam.com/db/item.html?item=104145)
 
+Prices vary when SOE put on a special promotion.  For any spending in the marketplace, try to make use of promotions selling Station Cash - there reasonably often are double cash days, and infrequently there will be a triple cash day.  Also watch out for reseller specific (e.g. Walmart or Game) cards that give bonus cash.  It may be cheaper to buy cards and redeem them than it is to buy Station Cash directly from SOE, although this can depend on currency exchange rates.
+
 ##Tailoring
 
 - [Hand Made Backpack](http://everquest.allakhazam.com/db/item.html?item=2591)
 - [Tae Ew Hide Sack](http://everquest.allakhazam.com/db/item.html?item=18505)
 - [Leatherfoot Haversack](http://everquest.allakhazam.com/db/item.html?item=14483)
+- [Extraplanar Trade Satchel](http://everquest.allakhazam.com/db/item.html?item=104079) [recipe](http://everquest.allakhazam.com/db/recipe.html?recipe=43153) tradeskill items only
 
-Plus many more.
+Plus many more; if you don't do trade skills, you should be able to pick these up in the Bazaar.
 
 ##Vendor
 
@@ -62,6 +66,10 @@ Plus many more.
 - [Trader's Satchel](http://everquest.allakhazam.com/db/item.html?item=8748)
 - [Bag of the Tinkerers](http://everquest.allakhazam.com/db/item.html?item=2366)
 - [Jack in the Box](http://everquest.allakhazam.com/db/item.html?item=97150) (from Loyalty vendor)
+- [Faerie Kin Bag](http://everquest.allakhazam.com/db/item.html?item=36225) (from DoN vendor in Lavastorm, 120 Radiant Crystals)
+- [Imp Kindred Bag](http://everquest.allakhazam.com/db/item.html?item=35770) (from DoN vendor in Lavastorm, 120 Ebon Crystals)
+
+You can buy currency in the Bazaar, or from the Loyalty vendor.
 
 ##Drops
 
