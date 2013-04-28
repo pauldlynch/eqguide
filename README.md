@@ -3,6 +3,14 @@
 This is the github repository for my web site containing a guide to
 Everquest.
 
+To test:
+
+rake preview
+
+and to deploy (you will need to regenerate using rake preview first):
+
+rake rsync:live
+
 Follows the original Jekyll-Bootstrap README:
 
 # Jekyll-Bootstrap
