@@ -247,7 +247,7 @@ You are given the bomb when you take the task, so defer this until you do scouti
 
 - Kill 4 Gloomingdeep Captains
 
-No armor reward.
+No armor reward.  You need to be level 6 to request this, so remember to come back before doing the Sabotage/Scouting tasks; although you will almost certainly have to return for Freedom's Stand, so this shouldn't be a problem.
 
 *Busted Locks* (Kaikachi)
 
@@ -255,7 +255,7 @@ No armor reward.
 - Find the locksmith’s master key
 - Deliver the key to Revolt Scout Kaikachi
 
-The key is in a chest in Slavemaster Ruga’s room, and drops from the Gloomingdeep Locksmith. You don’t need to kill anything to collect it, so long as you are free of aggro to loot the chest. Gives you about 30% of a level and Gloomingdeep gloves.
+The key is in a chest in Slavemaster Ruga’s room, and drops from the Gloomingdeep Locksmith. You don’t need to kill anything to collect it, so long as you are free of aggro to loot the chest. Gives you about 30% of a level and Gloomingdeep gloves.  You can stand at one end of the long corridor inside the jail and wit for the Locksmith to come to you at the crossroads if fighting in is unappealing.
 
 *Goblin Treachery* (Kaikachi)
 
@@ -270,7 +270,7 @@ Level 5 goblins and the named is level 7. Killing goblins reduces your faction w
 - Find Flutterwings’s unhatched sibling
 - Deliver the egg to Flutterwing
 
-There should be three eggs when you kill Slavemaster Ruga (in the jail). Reward is probably about 50% of a level. When you pull Ruga, his two guards will spawn, and will attack you if you don’t pull him far enough away. The simplest approach is to kill the warrior at either side, then pull Ruga to that spot. I have also seen people pull Ruga to the jail cells next to him.
+There should be three eggs when you kill Slavemaster Ruga (in the jail). Reward is probably about 50% of a level. When you pull Ruga, his two guards will spawn, and will attack you if you don’t pull him far enough away. The simplest approach is to kill the kobold on one side, then pull Ruga to that spot. I have also seen people pull Ruga to the jail cells next to him.
 
 *Saving from Slavery*
 
@@ -296,7 +296,15 @@ Sliver – kobold
 Selandoor – kobold, probably level 8  
 Brokenclaw – kobold; level 8.  
 Ratasaurus - up to level 7; PH is diseased rats  
-Pox - kobold
+Pox - kobold caster
+
+**Tips for Gloomingdeep**
+
+- Always use a tank merc.
+- Use /open on the barrels.
+- Some race/religion combinations are indifferent to kobolds.
+- Camp and Enter World takes you back to when you camped; the Tutorial button takes you in next to Arias.
+- leave and go to Crescent Reach and complete the two Disgrunted Boawb quests; you end up with a better belt, mask, a shield and a better weapon.
 
 **Bugs**
 
@@ -312,5 +320,5 @@ Gloomingdeep counts as indoors, so Camouflage and Harmony don’t work; but Spir
 - "/toggle inspect" stops you from inspecting yourself by clicking.  
 - Rebind attack key from q to something better (I like num pad 0); again, in the Options panel.  
 - Put forage/track on movement key binding.  
-- Hot keys for bind wound, open and hide/sneak/forage if you have them.  
+- Hot keys for bind wound, /open and hide/sneak/forage if you have them.  
 - F11 to show the lag meter.
