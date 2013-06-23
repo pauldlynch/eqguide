@@ -317,7 +317,7 @@ Gloomingdeep counts as indoors, so Camouflage and Harmony don’t work; but Spir
 - Use the Options panel (alt-o) to turn off – auto-duck and, if you prefer, turn off show helm.  
 - I also turn off Voice Chat in the Options window, as it never works for me.  
 - “/assist off” to disable auto-attack on /assist.  
-- "/toggle inspect" stops you from inspecting yourself by clicking.  
+- "/toggleinspect off" stops you from inspecting yourself by clicking.  
 - Rebind attack key from q to something better (I like num pad 0); again, in the Options panel.  
 - Put forage/track on movement key binding.  
 - Hot keys for bind wound, /open and hide/sneak/forage if you have them.  
