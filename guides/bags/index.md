@@ -15,6 +15,8 @@ The next most accessible, reasonable bag is the Ore Hauler's Haversack, the resu
 
 If you have some trade skills, then the trade skill trophies can all summon temporary bags.  If you [hand them in to Jolum](http://everquest.allakhazam.com/db/quest.html?quest=2154) in the Bazaar, he gives you an Artisan Seal, with instructions to combine the seal in a trade skill container.  This isn't really worth doing until you have a skill level of 200-250, but if you have 300, you will be rewarded with two bags, one very large bag for trade skill components only, and a 12 slot, 100% WR bag.
 
+You can also buy from players a large bag that holds only tradeskill items [Extraplanar Trade Satchel](http://everquest.allakhazam.com/db/item.html?item=104079).  This is 100% WR and holds 32 items/stacks.  With the numbers of trade skill drops that have resale value, this is a worthwhile purchase when you can afford it (currently selling for 2.5kpp on Antonius Bayle).  The bag isn't lore, but, unless you are very heavily into tradeskill farming, one is enough.
+
 ##Quests
 
 - [Sturdy Traveller's Pack](http://everquest.allakhazam.com/db/item.html?item=103902)
@@ -65,11 +67,11 @@ Plus many more; if you don't do trade skills, you should be able to pick these u
 - [Deluxe Toolbox](http://everquest.allakhazam.com/db/item.html?item=6205)
 - [Trader's Satchel](http://everquest.allakhazam.com/db/item.html?item=8748)
 - [Bag of the Tinkerers](http://everquest.allakhazam.com/db/item.html?item=2366)
-- [Jack in the Box](http://everquest.allakhazam.com/db/item.html?item=97150) (from Loyalty vendor)
+- [Jack in the Box](http://everquest.allakhazam.com/db/item.html?item=97150) (from Loyalty vendor, 16 slots, 100% WR)
 - [Faerie Kin Bag](http://everquest.allakhazam.com/db/item.html?item=36225) (from DoN vendor in Lavastorm, 120 Radiant Crystals)
 - [Imp Kindred Bag](http://everquest.allakhazam.com/db/item.html?item=35770) (from DoN vendor in Lavastorm, 120 Ebon Crystals)
 
-You can buy currency in the Bazaar, or from the Loyalty vendor.
+You can buy currency in the Bazaar, or from the Loyalty vendor.  There are a large number of different bags on the Loyalty vendor, but they change regularly so that she only sells one of them at a time.
 
 ##Drops
 

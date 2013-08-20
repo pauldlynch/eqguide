@@ -270,7 +270,7 @@ Level 5 goblins and the named is level 7. Killing goblins reduces your faction w
 - Find Flutterwings’s unhatched sibling
 - Deliver the egg to Flutterwing
 
-There should be three eggs when you kill Slavemaster Ruga (in the jail). Reward is probably about 50% of a level. When you pull Ruga, his two guards will spawn, and will attack you if you don’t pull him far enough away. The simplest approach is to kill the kobold on one side, then pull Ruga to that spot. I have also seen people pull Ruga to the jail cells next to him.
+Slavemaster Ruga (in the jail) drops randomly one to three eggs when you kill him. Reward is probably about 50% of a level. When you pull Ruga, his two guards will spawn, and will attack you if you don’t pull him far enough away. The simplest approach is to kill the kobold on one side, then pull Ruga to that spot. I have also seen people pull Ruga to the jail cells next to him.
 
 *Saving from Slavery*
 
@@ -292,7 +292,7 @@ This is the one quest that binds all the other quests together, and has too many
 **Other Rare Named Mobs**
 
 Rufus – grey rat, level 3. Drops range items; PH cave rats  
-Sliver – kobold  
+Sliver – kobold, 7 or higher  
 Selandoor – kobold, probably level 8  
 Brokenclaw – kobold; level 8.  
 Ratasaurus - up to level 7; PH is diseased rats  

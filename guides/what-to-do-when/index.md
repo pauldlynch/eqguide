@@ -12,7 +12,9 @@ You can install Everquest using the [Everquest Launchpad](http://launch.soe.com/
 
 If you left when EQ2/WoW was launched, then please read [Returning from 2004](http://www.paullynch.org/eqblog/?p=373) - it covers the big differences.
 
-As you level, keep an eye on the Hero's Journey achievements (/ach, or click on the Tome of the Hero's Journey that you are given when you zone in to Crescent Reach for the first time), as there will always be some solid suggestions for things to do.  Many of my tips here are covered in the Hero's Journey; but this tries to hit all the high points that shouldn't be missed.  
+As you level, keep an eye on the Hero's Journey achievements (/ach, or click on the Tome of the Hero's Journey that you are given when you zone in to Crescent Reach for the first time), as there will always be some solid suggestions for things to do.  Many of my tips here are covered in the Hero's Journey; but this tries to hit all the high points that shouldn't be missed.
+
+Also keep an eye on the hot zones: Franklin Teek in Plane of Knowledge can tell you the appropriate ones for each level range, and give you a quest (kill 5) for each one.  The quest rewards a small amount of money, a choice of waist, back or shoulder items (Defiant), and a reasonably large amount of experience.  You can get a new quest every 16-20 hours.  One useful strategy is to get a quest, wait until you can get another, then do both back to back.  You will have to complete the first quest and return to Franklin to be able to get the second one, however.
 
 ##Start up 1-25
 
