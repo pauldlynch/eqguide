@@ -7,9 +7,9 @@ To test:
 
 rake preview
 
-and to deploy (you will need to regenerate using rake preview first):
+and to deploy:
 
-rake rsync:live
+jekyll build; rake rsync:live
 
 Follows the original Jekyll-Bootstrap README:
 

@@ -5,6 +5,26 @@ Incremental version bumps that were not released publicly are nested where appro
 
 P.S. If there is a standard (popular) changelog format, please let me know.
 
+- **0.3.0 : 2013.02.24**
+    - **Features**
+    - Update twitter bootstrap to 2.2.2. Add responsiveness and update design a bit.
+    - @techotaku fixes custom tagline support (finally made it in!)
+    - @opie4624 adds ability to set tags from the command-line.
+    - @lax adds support for RSS feed. Adds rss and atom html links for discovery.
+    - Small typo fixes.
+
+    - **Bug Fixes**
+    - @xuhdev fixes theme:install bug which does not overwrite theme even if saying 'yes'.
+
+- **0.2.13 : 2012.03.24**   
+    - **Features**
+    - 0.2.13 : @mjpieters Updates pages_list helper to only show pages having a title.
+    - 0.2.12 : @sway recommends showing page tagline only if tagline is set.
+    - 0.2.11 : @LukasKnuth adds 'description' meta-data field to post/page scaffold.
+
+    - **Bug Fixes**
+    - 0.2.10 : @koriroys fixes typo in atom feed
+
 - **0.2.9 : 2012.03.01**   
     - **Bug Fixes**
     - 0.2.9 : @alishutc Fixes the error on post creation if date was not specified.

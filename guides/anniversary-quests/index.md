@@ -93,6 +93,14 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
 	- [A Different Perspective (Group)](http://everquest.allakhazam.com/db/quest.html?quest=5701)
 	- [Summoning the Master (Group)](http://everquest.allakhazam.com/db/quest.html?quest=5704)
 	- [Tower of Frozen Shadow (Raid)](http://everquest.allakhazam.com/db/quest.html?quest=5702)
+- Fourteenth Anniversary: (solo/group tasks)
+	- [Big Gnomes, Big Problems](http://everquest.allakhazam.com/db/quest.html?quest=6784)
+	- [Evil Eye Operative](http://everquest.allakhazam.com/db/quest.html?quest=6788)
+	- [Piestro's Day Off](http://everquest.allakhazam.com/db/quest.html?quest=6785)
+	- [Surviving Xmiticzin]()
+	- [To Thine Own Creator Be False](http://everquest.allakhazam.com/db/quest.html?quest=6789)
+	- [To Thine Own Creator Be True](http://everquest.allakhazam.com/db/quest.html?quest=6786)
+	- [Ogres at the Gates](http://everquest.allakhazam.com/db/quest.html?quest=6783)
 
 
 ##Easter Quest

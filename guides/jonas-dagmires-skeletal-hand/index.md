@@ -7,9 +7,9 @@ group: guide
 
 [The Quest](http://everquest.allakhazam.com/db/quest.html?quest=4188). There's a good walk-through on [necrotalk](http://www.necrotalk.com/showthread.php?t=8477).
 
-You will need 70 doubloons in total to buy the containers to combine the hand, from Halon Griere, in The Buried Sea. 27 bones, 39 tasks, 7 islands. On the three bone islands, need to do two tasks before you will start to be given bones, so you will have to do five tasks per island. The bones for each of the finger combines are spread across islands, so there are no short-cuts there; although the backhand components all come from Jardel’s Hook.
+You will need 70 doubloons in total to buy the containers from Halon Griere on Jardel's Hook to combine the hand, in The Buried Sea. 27 bones, 39 tasks, 7 islands. On the three bone islands, need to do two tasks before you will start to be given bones, so you will have to do five tasks per island. The bones for each of the finger combines are spread across islands, so there are no short-cuts there; although the backhand components all come from Jardel’s Hook.
 
-The quests from Jardel’s Hook appear to be the hardest, although it seems that all of the tasks there could be done at once. In order of increasing mob level: Monkey Rock, Maidens Grave, Redfeather Island, Blacksail Folly/Deadbone Reef, Suncrest Ridge, Jardel’s Hook. A reasonable strategy might be to clear the initial tasks from each island (two from all bar Jardel’s Hook), which return no bones, to conserve bank space. Alternatively, doing the mapping and chest tasks, which require no killing, would put you into almost the same position; although some islands have no map tasks. Then work through the islands in increasing level, with Jardel’s Hook last. Two of the fingers require Monkey Rock/Maiden's Grave (the easy two), then Deadbone Reef and Blacksail Folly tasks; two require Suncrest Ridge, and the thumb needs Jardel’s Hook.
+The quests from Jardel’s Hook appear to be the hardest, although it seems that all of the tasks there could be done at once. In order of increasing mob level: Monkey Rock, Maidens Grave, Redfeather Island, Blacksail Folly/Deadbone Reef, Suncrest Ridge, Jardel’s Hook. A reasonable strategy might be to clear the initial tasks from each island (two from all bar Jardel’s Hook), which return no bones, to conserve bank space. Alternatively, doing the mapping and chest tasks, which require no killing and can therefore be done at lower levels, would put you into almost the same position; although some islands have no map tasks. Then work through the islands in increasing level, with Jardel’s Hook last. Two of the fingers require Monkey Rock/Maiden's Grave (the easy two), then Deadbone Reef and Blacksail Folly tasks; two require Suncrest Ridge, and the thumb needs Jardel’s Hook.
 
 Jonas Dagmire’s Skeletal Backhand:  
 Jonas Dagmire’s Trapezium (JH)  
@@ -63,6 +63,8 @@ Jonas Dagmire’s Skeletal Little Finger
 The Barren Coast
 ----------------
 
+The quest givers are all in the main NPC camp.
+
 **Suncrest Ridge**
 
 [Mapping Suncrest Ridge](http://everquest.allakhazam.com/db/quest.html?quest=4030) ( Brynden Snow)  
@@ -71,7 +73,7 @@ The Barren Coast
 [The Abandoned Relics](http://everquest.allakhazam.com/db/quest.html?quest=4029) ( Brynden Snow) 74-76  
 [Totem of War and Fire](http://everquest.allakhazam.com/db/quest.html?quest=4031) ( Brynden Snow) 74-77  
 
-Random see invis, a higher proportion in the goblins than the animals; nameds always seem to see invis.
+Brynden is in the Barren Coast, in one of the tents, although Suncrest Ridge is in the Buried Sea.  Random see invis, a higher proportion in the goblins than the animals; nameds always seem to see invis.
 
 combine ruins: -1310, -2275 (along the beach near the ruins)  
 graveyard of wood and stone: -60, -3040 (NW)  
@@ -105,7 +107,9 @@ The Buried Sea
 [Uncovered Treasure](http://everquest.allakhazam.com/db/quest.html?quest=4069) (Pirate Smythe) chests  
 [The Lost Crew](http://everquest.allakhazam.com/db/quest.html?quest=4067) (Captain Pete) ground spawn  
 
-Dispell the sirens, as they cast reflect on themselves, which could be a problem; they also run very fast when low. The undead on the east beach are the only ones that see invis (I haven’t checked the siren nameds); sirens and undead are KoS, the turtles aren’t. Get the bones for lost crew as ground spawn on the outer islands, wait for the yellow emote; killing is not required. To find the chests for the charts, swim on the surface half under, at the point where the water is clear; swimming and just using F8 to target may also work. Chest locations are fixed, but there are several possible spawn points, unlike Redfeather Isle. The water is safe here. For the siren quests, locks of siren hair from the higher mobs at the north, combs from the lower mobs in the south.
+Pete and Smythe are on Jardel's Hook, near the Succor point on the SW corner of the island.  Watch for a wandering pirate there.
+
+Dispell the sirens, as they cast reflect on themselves, which could be a problem; they also run very fast when low. The undead on the east beach are the only ones that see invis; sirens and undead are KoS, the turtles aren’t. Get the bones for lost crew as ground spawn on the outer islands, wait for the yellow emote; killing is not required - although they do also drop from skeletons on the undead beach. To find the chests for the charts, swim on the surface half under, at the point where the water is clear; swimming and just using F8 to target may also work. Chest locations are fixed, but there are several possible spawn points, unlike Redfeather Isle. The water is safe here. For the siren quests, locks of siren hair from the higher mobs at the north (with the skirts), combs from the lower mobs in the south that appear to have combs in their hair.  Not all do!
 
 **Redfeather Island** (3 bones)
 
@@ -115,14 +119,14 @@ Dispell the sirens, as they cast reflect on themselves, which could be a problem
 [Regrua-Shell Armor](http://everquest.allakhazam.com/db/quest.html?quest=4077) (Rickan) 68  
 [A Red-Plumed Hat](http://everquest.allakhazam.com/db/quest.html?quest=4078) (Rickan) 68-72  
 
-Quest NPCs are at the succor point, next to the ones for Maiden’s Grave. Locations are as follows:
+Quest NPCs are at the Succor point, next to the ones for Maiden’s Grave. Locations are as follows:
 
 Chest: one on the Northern side of the island; two on the Southern side of the island; one in the water between the southern small island and the main island; and one west of the northern small island in the water.
 
-`P -2794.9167, 2858.2087, 253.4266, 0, 0, 0, 2, Ancient_Sextant  
-P -2618.3167, 4088.9497, 277.1005, 0, 0, 0, 2, Silver_Belt_Buckles  
-P -1755.0483, 3136.9338, 304.3309, 0, 0, 0, 2, Merchant_Vessel_Trade_Routes  
-P -1048.0577, 4166.1558, 308.1913, 0, 0, 0, 2, Sister_Island_Skivvies  
+`P -2794.9167, 2858.2087, 253.4266, 0, 0, 0, 2, Ancient_Sextant  <br/>
+P -2618.3167, 4088.9497, 277.1005, 0, 0, 0, 2, Silver_Belt_Buckles  <br/>
+P -1755.0483, 3136.9338, 304.3309, 0, 0, 0, 2, Merchant_Vessel_Trade_Routes  <br/>
+P -1048.0577, 4166.1558, 308.1913, 0, 0, 0, 2, Sister_Island_Skivvies  <br/>
 P -1752.1949, 4214.7144, 304.5287, 0, 0, 0, 2, Stack_of_Navigation_Charts`
 
 Northern Raindrop Isle: n3100, p2800  
@@ -146,9 +150,9 @@ Quests from Logan Grimm – Jardel’s Hook, east side
 
 Tortoises are non-KoS. No see invis.
 
-Letters drop from recruits (72-74); disguise parts also drop from recruits. The rum recipe seems to only drop from the named pirates inside the inner fort (74-76), although it may be a very rare drop outside. The hounds should be interspersed with the recruits, but as double pulls, so it isn’t as easy/safe as it looks. The palisade key, to enter the fort, is a rare drop outside from recruits.
+Letters drop from recruits (72-74); disguise parts also drop from recruits. The rum recipe seems to only drop from the named pirates inside the inner fort (74-76), although it may be a very rare drop outside. The hounds should be interspersed with the recruits, but as double pulls, so it isn’t as easy/safe as it looks. The palisade key, to enter the fort, is a rare drop outside from recruits.  It's probably best to finish your recruit quote before going inside for the rum recipe and any remaining disguise drops.
 
-Rum recipe drops maybe 1-20 in inner fort. Can get over the inner wall from the north end, if careful – use lev, scoot up as far as you can go, and duck. It is probably a good idea to move to the inner fort as soon as you get the Palisade key, although you may not have all the dog hairs at this point.
+Rum recipe drops maybe 1-20 in inner fort. Can get over the inner wall from the north end, if careful – use lev, scoot up as far as you can go, and duck; you may need shrink as well. It is probably a good idea to move to the inner fort as soon as you get the Palisade key, although you may not have all the dog hairs at this point.
 
 Blacksail mobs give +Blacksail Pirates faction.  The quests raise Blacksail Smugglers, which is the faction the vendor (Halon Griere) is on.  Comments on Allakhazam say that you need Pirates faction to buy Vineleash Cascade (druid and ranger spell), but I suspect this is in error.
 
@@ -160,7 +164,11 @@ Blacksail mobs give +Blacksail Pirates faction.  The quests raise Blacksail Smug
 [Hidden Riches](http://everquest.allakhazam.com/db/quest.html?quest=4074) (Sid Hacke) 72-76  
 [Shark Meat](http://everquest.allakhazam.com/db/quest.html?quest=4073) (Sid Hacke) 72-76  
 
-Need to be higher than level 65 to start the dialog (possibly 70?); I could get the quests at 66 by saying the trigger phrase “I am willing”.  Sharks and undead are in the water; animals and humans on land. Make sure you have some form of levitation, and first map the ships for Hidden Riches (and lose aggro by running away), then locate the cave entrance for Rumors of a Flame, then do the killing for both. You will have to kill a couple of undead going down the vertical cave shaft, which is the east of the two cave entrances on the south side of the bay – east of the one marked on the mapquest map. An IVU potion would help here. Undead kills give you +faction Blacksail Pirates. You can kill sharks around the entrance to the cave. Sharks can get stuck on the shelf by shore, can’t cast on them.
+Sid Hacke is in the cluster of NPCs near the Succor point at the SE corner or Jardel's Hook.
+
+Need to be higher than level 65 to start the dialog (possibly 70?); I could get the quests at 66 by saying the trigger phrase “I am willing”.  Sharks and undead are in the water; animals and humans on land. Make sure you have some form of levitation, and first map the ships for Hidden Riches (and lose aggro by running away), then locate the cave entrance for Rumors of a Flame, then do the killing for both. You may have to kill a couple of undead going down the vertical cave shaft, which is the east of the two cave entrances on the south side of the bay – east of the one marked on the mapquest map. An IVU potion helps here. Undead kills give you +faction Blacksail Pirates. You can kill sharks around the entrance to the cave. Sharks can get stuck on the shelf by shore, can’t cast on them; in fact, sharks seem to get stuck anywhere!
+
+Only "drowned" undead count for the kill quest, so not the seabound raiders, and the "booty" drops mostly from the appropriately named undead, although it seems that any undead can drop any coin.
 
 Loc for Rumors (cave entrance):
 
@@ -168,9 +176,9 @@ Loc for Rumors (cave entrance):
 
 Ships (rough):
 
-`P 3173.0000, -3830.0000, 0.0000, 0, 0, 0, 3, Shipwreck  
-P 4019.0000, -3303.0000, 0.0000, 0, 0, 0, 3, Shipwreck  
-P 3366.0000, -3200.0000, 0.0000, 0, 0, 0, 3, Shipwreck`
+`P 3173.0000, -3830.0000, 0.0000, 0, 0, 0, 3, Shipwreck  `
+`P 4019.0000, -3303.0000, 0.0000, 0, 0, 0, 3, Shipwreck  `
+`P 3366.0000, -3200.0000, 0.0000, 0, 0, 0, 3, Shipwreck`
 
 *Deadbone Meats* – on shore in bay; and Small Matters – humans inland. No see invis, but beware random undead on island. Humans start at glowers, so are not KoS. Lizards have bigger aggro range, but no animals assist.
 
@@ -182,11 +190,11 @@ Meek/bucket of slop – have to run between Bill and south point of island 4 tim
 
 [Deliver the Goods](http://everquest.allakhazam.com/db/quest.html?quest=4085) (Murderous Mal) 72-74, 75-77 ?
 
-*Deliver the Goods*: is a separate task, has to be carried out in Barren Coast – 3 mobs, one 75/76, 2 x 72. Trigger by delivering package to Silverlip Slim (at dock north of main camp). Troll (75/76) drops the required item.
+*Deliver the Goods*: is a separate task, has to be carried out in Barren Coast – 3 mobs, one 74/75/76, 2 x 72. Trigger by delivering package to Silverlip Slim (at dock north of main camp). Troll (74/75/76) drops the required item.
 
 [Just Desserts](http://everquest.allakhazam.com/db/quest.html?quest=4091) (Scurv-acious Bella Straw) 72-74
 
-Keep getting the Bella kill tasks while doing the pirate kills (“kill a few”); good for extra faction.
+Keep getting the Bella kill tasks while doing the pirate kills (“kill a few”); good for extra faction and experience.
 
 [Thieves Among Thieves](http://everquest.allakhazam.com/db/quest.html?quest=4084) (Murderous Mal) 72-74, 75-77 ?  
 [Low on Rum](http://everquest.allakhazam.com/db/quest.html?quest=4083) (Murderous Mal) 72-74, 75-77 ?  
@@ -197,10 +205,10 @@ Keep getting the Bella kill tasks while doing the pirate kills (“kill a few”
 
 All quest drops are random drops from any pirate; some posters on Allakhazam claim they may drop more on higher level ones. For Rum, you need the most drops (10) and this appears to be the rarest – although I suspect rum has the same drop rate as IOUs and cutlasses. It may drop more often from the higher level mobs, like mates.
 
-*Fire in Hold*: might not get aggro if you stand against wall. Use lev/SoE, just in case! The trigger point is at the bottom of either set of steps – not, as someone says on Allakhazam, in the jaws of the shark. This was the only one that I needed help for (as a 76 mage), to safely pull the dockworkers. I was able to pull the single dockworker by the left hand set of steps without aggro from the others, although a small knockback would cause problems.
+*Fire in Hold*: might not get aggro if you stand against wall. Use lev/SoE, just in case! The trigger point is at the bottom of either set of steps – not, as someone says on Allakhazam, in the jaws of the shark. This was the only one that I needed help for (as a 76 mage), to safely pull the dockworkers. I was able to pull the single dockworker by the left hand set of steps into the corner without aggro from the others, although a small knockback would cause problems.
 
 [Snake Milk](http://everquest.allakhazam.com/db/quest.html?quest=4075) (Sid Hacke) 69-73
 
 This task is connected to the other JH tasks, as one of the central bones is given, but is given by the DBR quest giver, and is done entirely off-shore. Drops from sea snakes and ringed sea snakes, which are in the water. Ringed sea snakes spawn after the low level sea turtles in the bay of Jardel’s Hook are killed (uncommon). Sea snakes are found at sea, and I have only ever seen them in the north and north east of the map. Drop rate is high – maybe 90%.  A tracker really helps here.
 
-*Salmagundi Stew*: This gives one of the standard set of rewards for JH, however, it doesn’t seem to open up a new bone; I suspect that it is paired with the Slop task, also from Bilgewater Bill, and both give the same bone. I was asked for shark cartilage and sea turtle guts – make sure you have this before doing the Snake Milk task. Guts drop from grey turtles in the bay of JH, but also from any other sea turtles. Claims on Allakhazam that other people have been given different items to collect. Shark cartilage is a very common drop from great white sharks, which are in all the open sea areas.
+*Salmagundi Stew*: This gives one of the standard set of rewards for JH, however, it doesn’t seem to open up a new bone; I suspect that it is paired with the meek/slop task, also from Bilgewater Bill, and both give the same bone. I was asked for shark cartilage and sea turtle guts; another time I was asked for shark fins and coralisk hearts – make sure you have this before doing the Snake Milk task. Guts drop from grey turtles in the bay of JH, but also from any other sea turtles. Shark cartilage is a very common drop from great white sharks, which are in all the open sea areas.

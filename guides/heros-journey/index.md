@@ -291,7 +291,7 @@ See the [Blightfire Moors](/eqguide/guides/blightfire-moors) for full details.
 - Agent of Ak'Anon Strike Force V (80-85)
 
 - Explorer of Dragonscale Hills (70-80)
- Champion of the Loping Plains (76-83)
+- Champion of the Loping Plains (76-83)
 - Strikeforce Insurgent in Mechanotus (80-85)
 
 **Seeds of Destruction**

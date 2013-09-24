@@ -14,14 +14,16 @@ The affected zones are:
 - [Estate of Unrest: Greater Unrest](http://everquest.allakhazam.com/db/zone.html?zstrat=684) (75-85)
 - [Crushbone](http://everquest.allakhazam.com/db/zone.html?zstrat=796) (90-95)
 - [Permafrost Keep](http://everquest.allakhazam.com/db/zone.html?zstrat=797) (90-95)
+- [Castle Mistmoore]() (95-100)
+- [Nagafen's Lair/SolB]() (95-100)
 
-Blackburrow and Cazic-Thule are in their upgraded state from May 11, 20012, for an unannounced period.  Lower Guk and Unrest will take over from June 1, 2012, and finally Crushbone and Permafrost from June 22, 2012.
+These updates take place between May, shortly after the Anniversary quests are shut down, and September, before the new expansion pre-release quests start.
 
 Armor Drops
 -----------
 
 The revamped zones all drop specific items, some of which are tradeable, and some not.  They also drop quest items, which are tradeable, that can be handed in to [Thach Jerden](http://everquest.allakhazam.com/db/quest.html?quest=4847) in the Plane of Knowledge (south side, outside the smithy), for class specific armor.
 
-Blackburrow and Lower Guk drop Glowing Athlai, which has a required level of 71, and reccomended level 76.  Cazic-Thule and Unrest drop Glowing Othni, with the same req/rec levels, but better stats.  Crushbone and Permafrost drop Glowing Reis, with required level 85, reccomended 90.
+Blackburrow and Lower Guk drop Glowing Athlai, which has a required level of 71, and reccomended level 76.  Cazic-Thule and Unrest drop Glowing Othni, with the same req/rec levels, but better stats.  Crushbone and Permafrost drop Glowing Reis, with required level 85, recommended 90.
 
 The Athlai and Othni trade-ins are significant upgrades over Elegant Defiant and Archaic (SoD tier 1 drops), and the tradeable weapons are also well worth seeking out.

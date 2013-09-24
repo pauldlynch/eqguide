@@ -41,4 +41,4 @@ One interesting quest is the [Fisherman's Companion](http://everquest.allakhazam
 
 Not the Plane of Knowledge, but close enough.  There are several quests here with various rewards.  One of the most appealing for low level characters is a quest, [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522), for a 20 slot bag, [Featherweight Satchel of the Courier](http://everquest.allakhazam.com/db/item.html?item=100133).  You must first complete two other quests, [Postmaster's Challenge](http://everquest.allakhazam.com/db/quest.html?quest=5521), which unlocks several other quests in the zone, and [The Nonad Brothers](http://everquest.allakhazam.com/db/quest.html?quest=5300).  This involves completing all of the old world bard "Going Postal" quests.  These start with Postmaster Sric Songfairer, Pagus Nonad, Lysric Loresinger - all in Sunrise Hills.
 
-This may actually be the rare example of a modern quest that can only be completed by "good" faction characters.
+This may actually be the rare example of a modern quest that can only be completed by "good" faction characters without the traditional ton of faction work.
