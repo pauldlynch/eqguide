@@ -65,6 +65,21 @@ The Barren Coast
 
 The quest givers are all in the main NPC camp.
 
+**Monkey Rock**
+
+[Scouting Monkey Rock](http://everquest.allakhazam.com/db/quest.html?quest=4044) (Trophy Hunter Locke)  
+[Raptor Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4043) (Trophy Hunter Locke) 62-65  
+[Monkey Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4040) (Trophy Hunter Locke) 62-66  
+[Python Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4042) (Trophy Hunter Locke) 62-66  
+[Jaguar Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4041) (Trophy Hunter Locke) 64-66  
+
+All mobs are KoS, nothing sees invis (including the undead around the tower). Mobs are easy, but the nameds may have unexpected attacks – like the named python, Pythos, has a 2k+ per tick dot. Aggro range is short, apart from the nameds.
+
+**Maidens Grave** (see also under TBS)
+
+[Siren Combs](http://everquest.allakhazam.com/db/quest.html?quest=4026) (Merchant Wain) 67-70  
+[Siren Hair](http://everquest.allakhazam.com/db/quest.html?quest=4027) (Merchant Wain) 67-70  
+
 **Suncrest Ridge**
 
 [Mapping Suncrest Ridge](http://everquest.allakhazam.com/db/quest.html?quest=4030) ( Brynden Snow)  
@@ -82,21 +97,6 @@ the seething volcano: -975, -3270 (east side, by waterfall)
 the coral bridge: -1335, -3310  
 
 The relics are common drops from any goblins; combine stones drop from any mob, animal or goblin. The named goblins are rare spawns, probably from any goblin.
-
-**Monkey Rock**
-
-[Scouting Monkey Rock](http://everquest.allakhazam.com/db/quest.html?quest=4044) (Trophy Hunter Locke)  
-[Raptor Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4043) (Trophy Hunter Locke) 62-65  
-[Monkey Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4040) (Trophy Hunter Locke) 62-66  
-[Python Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4042) (Trophy Hunter Locke) 62-66  
-[Jaguar Trophies](http://everquest.allakhazam.com/db/quest.html?quest=4041) (Trophy Hunter Locke) 64-66  
-
-All mobs are KoS, nothing sees invis (including the undead around the tower). Mobs are easy, but the nameds may have unexpected attacks – like the named python, Pythos, has a 2k+ per tick dot. Aggro range is short, apart from the nameds.
-
-**Maidens Grave** (see also under TBS)
-
-[Siren Combs](http://everquest.allakhazam.com/db/quest.html?quest=4026) (Merchant Wain) 67-70  
-[Siren Hair](http://everquest.allakhazam.com/db/quest.html?quest=4027) (Merchant Wain) 67-70  
 
 The Buried Sea
 --------------
@@ -123,11 +123,11 @@ Quest NPCs are at the Succor point, next to the ones for Maiden’s Grave. Locat
 
 Chest: one on the Northern side of the island; two on the Southern side of the island; one in the water between the southern small island and the main island; and one west of the northern small island in the water.
 
-`P -2794.9167, 2858.2087, 253.4266, 0, 0, 0, 2, Ancient_Sextant  <br/>
-P -2618.3167, 4088.9497, 277.1005, 0, 0, 0, 2, Silver_Belt_Buckles  <br/>
-P -1755.0483, 3136.9338, 304.3309, 0, 0, 0, 2, Merchant_Vessel_Trade_Routes  <br/>
-P -1048.0577, 4166.1558, 308.1913, 0, 0, 0, 2, Sister_Island_Skivvies  <br/>
-P -1752.1949, 4214.7144, 304.5287, 0, 0, 0, 2, Stack_of_Navigation_Charts`
+`P -2794.9167, 2858.2087, 253.4266, 0, 0, 0, 2, Ancient_Sextant`  
+`P -2618.3167, 4088.9497, 277.1005, 0, 0, 0, 2, Silver_Belt_Buckles`  
+`P -1755.0483, 3136.9338, 304.3309, 0, 0, 0, 2, Merchant_Vessel_Trade_Routes`  
+`P -1048.0577, 4166.1558, 308.1913, 0, 0, 0, 2, Sister_Island_Skivvies`  
+`P -1752.1949, 4214.7144, 304.5287, 0, 0, 0, 2, Stack_of_Navigation_Charts`
 
 Northern Raindrop Isle: n3100, p2800  
 Central Raindrop Isle: n3600, p2800  
@@ -166,9 +166,9 @@ Blacksail mobs give +Blacksail Pirates faction.  The quests raise Blacksail Smug
 
 Sid Hacke is in the cluster of NPCs near the Succor point at the SE corner or Jardel's Hook.
 
-Need to be higher than level 65 to start the dialog (possibly 70?); I could get the quests at 66 by saying the trigger phrase “I am willing”.  Sharks and undead are in the water; animals and humans on land. Make sure you have some form of levitation, and first map the ships for Hidden Riches (and lose aggro by running away), then locate the cave entrance for Rumors of a Flame, then do the killing for both. You may have to kill a couple of undead going down the vertical cave shaft, which is the east of the two cave entrances on the south side of the bay – east of the one marked on the mapquest map. An IVU potion helps here. Undead kills give you +faction Blacksail Pirates. You can kill sharks around the entrance to the cave. Sharks can get stuck on the shelf by shore, can’t cast on them; in fact, sharks seem to get stuck anywhere!
+Need to be higher than level 65 to start the dialog (possibly 70?); I could get the quests at 66 by saying the trigger phrase “I am willing”.  Sharks and undead are in the water; animals and humans on land. Make sure you have some form of levitation, and first map the ships for Hidden Riches (and lose aggro by running away if you dn't have ivu), then locate the cave entrance for Rumors of a Flame, then do the killing for both. You may have to kill a couple of undead going down the vertical cave shaft, which is the east of the two cave entrances on the south side of the bay – east of the one marked on the mapquest map. An IVU potion helps here. Undead kills give you +faction Blacksail Pirates. You can kill sharks around the entrance to the cave. Sharks can get stuck on the shelf by shore, can’t cast on them; in fact, sharks seem to get stuck anywhere!
 
-Only "drowned" undead count for the kill quest, so not the seabound raiders, and the "booty" drops mostly from the appropriately named undead, although it seems that any undead can drop any coin.
+Only "drowned" undead count for the kill quest, so not the seabound raiders, and the "booty" drops mostly from the appropriately named undead: drowned pirates for the pirates booty, and drowned sailors for both sailor's booty **and** knight's booty.
 
 Loc for Rumors (cave entrance):
 
@@ -176,8 +176,8 @@ Loc for Rumors (cave entrance):
 
 Ships (rough):
 
-`P 3173.0000, -3830.0000, 0.0000, 0, 0, 0, 3, Shipwreck  `
-`P 4019.0000, -3303.0000, 0.0000, 0, 0, 0, 3, Shipwreck  `
+`P 3173.0000, -3830.0000, 0.0000, 0, 0, 0, 3, Shipwreck`  
+`P 4019.0000, -3303.0000, 0.0000, 0, 0, 0, 3, Shipwreck`  
 `P 3366.0000, -3200.0000, 0.0000, 0, 0, 0, 3, Shipwreck`
 
 *Deadbone Meats* – on shore in bay; and Small Matters – humans inland. No see invis, but beware random undead on island. Humans start at glowers, so are not KoS. Lizards have bigger aggro range, but no animals assist.
@@ -203,7 +203,7 @@ Keep getting the Bella kill tasks while doing the pirate kills (“kill a few”
 [Fire in the Hold](http://everquest.allakhazam.com/db/quest.html?quest=4089) ( Darius Blythe) 75-77  
 [Old Cutlasses for New](http://everquest.allakhazam.com/db/quest.html?quest=4088) ( Darius Blythe) 72-74  
 
-All quest drops are random drops from any pirate; some posters on Allakhazam claim they may drop more on higher level ones. For Rum, you need the most drops (10) and this appears to be the rarest – although I suspect rum has the same drop rate as IOUs and cutlasses. It may drop more often from the higher level mobs, like mates.
+All quest drops are random drops from any pirate; some posters on Allakhazam claim they may drop more on higher level ones. For Rum, you need the most drops (10) and this appears to be the rarest – although I suspect rum has the same drop rate as IOUs and cutlasses. It may drop more often from the higher level mobs, like mates; I have noticed that it drops far more frequently inside the "ship".
 
 *Fire in Hold*: might not get aggro if you stand against wall. Use lev/SoE, just in case! The trigger point is at the bottom of either set of steps – not, as someone says on Allakhazam, in the jaws of the shark. This was the only one that I needed help for (as a 76 mage), to safely pull the dockworkers. I was able to pull the single dockworker by the left hand set of steps into the corner without aggro from the others, although a small knockback would cause problems.
 
@@ -211,4 +211,4 @@ All quest drops are random drops from any pirate; some posters on Allakhazam cla
 
 This task is connected to the other JH tasks, as one of the central bones is given, but is given by the DBR quest giver, and is done entirely off-shore. Drops from sea snakes and ringed sea snakes, which are in the water. Ringed sea snakes spawn after the low level sea turtles in the bay of Jardel’s Hook are killed (uncommon). Sea snakes are found at sea, and I have only ever seen them in the north and north east of the map. Drop rate is high – maybe 90%.  A tracker really helps here.
 
-*Salmagundi Stew*: This gives one of the standard set of rewards for JH, however, it doesn’t seem to open up a new bone; I suspect that it is paired with the meek/slop task, also from Bilgewater Bill, and both give the same bone. I was asked for shark cartilage and sea turtle guts; another time I was asked for shark fins and coralisk hearts – make sure you have this before doing the Snake Milk task. Guts drop from grey turtles in the bay of JH, but also from any other sea turtles. Shark cartilage is a very common drop from great white sharks, which are in all the open sea areas.
+*Salmagundi Stew*: This gives one of the standard set of rewards for JH, however, it doesn’t seem to open up a new bone; I suspect that it is paired with the meek/slop task, also from Bilgewater Bill, and both give the same bone. I have been asked for various of shark cartilage, sea turtle guts, shark fins, coralisk hearts, coralisk toes and sailfin tails – make sure you have this before doing the Snake Milk task. Guts drop from grey turtles in the bay of Jardel's Hook, but also from any other sea turtles. Shark cartilage is a very common drop from great white sharks, which are in all the open sea areas.  Sailfins are rare, and their tails are rare drops.  All the coralisk parts seem to be fairly common.
