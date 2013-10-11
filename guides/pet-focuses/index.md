@@ -5,8 +5,6 @@ group: guide
 ---
 {% include JB/setup %}
 
-#Available Pet Focuses
-
 Pet focuses MUST be equipped when casting the pet spell, and they work for pet spells in a range of levels.  They issue no message when casting, unlike other focuses.  Usually a pet will be higher level and have a higher max hit when focussed, but this can be hard to tell.  Only magicians, necromancers and beastlords can use a pet focus; other classes with pets (shadowknights, shamans, druids) cannot use them.
 
 If you look up pet focuses on ZAM, you will see that they all have a "pet power" value.  These don't mean anything, except that a higher pet power focus will be "better" than a lower one.

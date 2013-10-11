@@ -32,6 +32,7 @@ General Information
 
 - [Hot Zones](guides/hot-zones)
 - [What to Do and When](guides/what-to-do-when)
+- [The Kunark Express](guides/kunark-express)
 
 The Hero's Journey
 ------------------
@@ -60,7 +61,6 @@ Forthcoming
 
 - Frostfell Quests
 - Halloween Quests
-- The Kunark Express
 - The Luclin Express
 - The Serpent's Spine Express
 

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: The Kunark Express
+title: "The Kunark Express"
+group: guide
 ---
 {% include JB/setup %}
 
@@ -88,6 +89,6 @@ From that central point the left hand bridge took you to the disco area, and sev
 
 For higher level mobs, jump into the water and follow the underwater tunnels into the jail.  The jail itself is a notch higher level than the entry areas, but through the jail you enter the myconid area, with lots of twisty passages.  What makes the myconids tough is the number of healers (using Complete Heal) that would make some kills extremely long.
 
-Past the myconids you'll find the juggs - big golems, and lots of them.  This is the last camp before the Trakanon room, which has lots more juggs and a few other mobs.  Watch out that a runner from the juggs doesn't head this way, as an accidental pull of Trakanon would be possible (if he wasn't camped to instant oblivion, that is).
+Past the myconids you'll find the juggs (sebilite juggernaut) - big golems, and lots of them.  This is the last camp before the Trakanon room, which has lots more juggs and a few other mobs.  Watch out that a runner from the juggs doesn't head this way, as an accidental pull of Trakanon would be possible (if he wasn't camped to instant oblivion, that is).
 
 
