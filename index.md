@@ -34,7 +34,8 @@ General Information
 - [What to Do and When](guides/what-to-do-when)
 - [The Kunark Express](guides/kunark-express)
 - [The Luclin Express](guides/luclin-express)
-- [Armor Progression](guides/armor)
+- [Armour Progression](guides/armor)
+- [Pet Focus Progression](guides/pet-focuses)
 
 The Hero's Journey
 ------------------
@@ -46,9 +47,12 @@ The Long Quests
 
 - [All the Good Quests!](guides/quests)
 
+And the big monster chain quests:
+
 - [Serpent Seeker's Charm of Lore](guides/charm-of-lore)
 - [Wanderlust Guild Loadstone](guides/wanderlust-guild-loadstone)
 - [Jonas Dagmire's Skeletal Hand](guides/jonas-dagmires-skeletal-hand)
+- [Bayle's Heraldic Crest](guides/bayles-heraldic-crest)
 
 Sidetracks
 ----------
