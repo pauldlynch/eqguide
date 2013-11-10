@@ -44,6 +44,7 @@ I list all the tradable pet focus items for spell level 59 and up, by the level 
 | |66-85|Spire Servant|45|[Shard of the First Minion](http://everquest.allakhazam.com/db/item.html?item=72353)|
 |75|66-85|Spire Servant|45|[Energized Wire Coil](http://everquest.allakhazam.com/db/item.html?item=71042)|
 | |71-85|Enhanced Minion I|55|[Skull of the Spire Servant](http://everquest.allakhazam.com/db/item.html?item=79378)|
+|75|76-90|Enhanced Minion V|80|[Paragon's Ear Stud of the Summoner](http://everquest.allakhazam.com/db/item.html?item=114343) reward from [Defending Oceangreen Village](http://everquest.allakhazam.com/db/quest.html?quest=5630)|
 |80|76-90|Enhanced Minion IV|70|[Orb of Servitude](http://everquest.allakhazam.com/db/item.html?item=89908)|
 |80|76-90|Enhanced Minion V|80|[Chipped Shards of Dread](http://everquest.allakhazam.com/db/item.html?item=91932)|
 |80|76-90|Enhanced Minion V|80|[Shards of the Jungle Sentinel](http://everquest.allakhazam.com/db/item.html?item=93306)|

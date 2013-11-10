@@ -34,6 +34,7 @@ General Information
 - [What to Do and When](guides/what-to-do-when)
 - [The Kunark Express](guides/kunark-express)
 - [The Luclin Express](guides/luclin-express)
+- [Armor Progression](guides/armor)
 
 The Hero's Journey
 ------------------
