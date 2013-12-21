@@ -60,6 +60,8 @@ Foraged and ground spawn, the poachers (need a tracker while doing something els
 
 For the "Cure the Crud" quest, you will need Oceangreen Wheatgrass, a Pinecone and four maggots.  These are all foraged; combine the maggots in the Stone Vial first, then the result with the remaining ingredients: WARNING the maggot combine is temporary, so if you don't have the Pinecone and Wheatgrass, don't do it!  WHat's more, both maggots and wheatgrass are foods.  As navigating the caves is a pain, it's probably best if you have all these ingredients and a free top inventory slot before going in.  Foraged items can be foraged in all zones in the theme; maggots seem to be commoner in the Temple of Bertoxxulous.
 
+To use the "curative elixir", you must be within melee range of the plant for around 8 seconds to cast it.  It can be applied at any time, but the quest will only update when the plant falls below 50%.  After completing this quest, Kerrin doesn't give the right prompts - so you must say "shears" to her to get the last quest, "Stop the Spreading".
+
 ##Oceangreen Village
 
 - Dan Hearthpride: [Arms of the Dead](http://everquest.allakhazam.com/db/quest.html?quest=4654) (north side of village)

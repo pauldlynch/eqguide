@@ -26,6 +26,7 @@ Repeating Events
 	- [Fabled Pet Weapons](guides/fabled-pet-weapons)
 
 - [Hardcore Heritage](guides/hardcore-heritage) (Summer zone revamps)
+- [Frostfell Quests](guides/frostfell)
 
 General Information
 -------------------
@@ -65,7 +66,6 @@ Sidetracks
 Forthcoming
 -----------
 
-- Frostfell Quests
 - Halloween Quests
 - The Serpent's Spine Express
 
