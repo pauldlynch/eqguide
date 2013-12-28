@@ -46,7 +46,7 @@ While killing animals, look out for a handful of grains and bloodberry/blueberry
 
 For Test the Waters you will need to say "Tabron sent me" to Morris Olberson to collect the vials; make sure that you have a free top level slot when you do.  Two of the samples are from water in Oceangreen Village, the remaining two from Oceangreen Hills.  It helps to have IVU potions to take the sample from the glade.  After this, if you have also completed Bronal's quests, you will be able to take Archon Darianna Althus's quests, which combine with Garvin Windrunner's second quest.
 
-You can't take Seradi's quest until you have done the first two from Kerrin in the Glade.
+You can't take Seradi's quest until you have done the quests from Kerrin the Unkempt in the Glade.
 
 - Jeneca Orlofen: [Follow Your Nose](http://everquest.allakhazam.com/db/quest.html?quest=4643)
 
@@ -58,9 +58,11 @@ From the Glade at the north of the zone:
 
 Foraged and ground spawn, the poachers (need a tracker while doing something else), then kill in the Glade.  Don't forget Seradi Stormcaller's quest from the keep, as you will need to have done at least Kerrin's first two to request it.
 
-For the "Cure the Crud" quest, you will need Oceangreen Wheatgrass, a Pinecone and four maggots.  These are all foraged; combine the maggots in the Stone Vial first, then the result with the remaining ingredients: WARNING the maggot combine is temporary, so if you don't have the Pinecone and Wheatgrass, don't do it!  WHat's more, both maggots and wheatgrass are foods.  As navigating the caves is a pain, it's probably best if you have all these ingredients and a free top inventory slot before going in.  Foraged items can be foraged in all zones in the theme; maggots seem to be commoner in the Temple of Bertoxxulous.
+For the "Cure the Crud" quest, you will need Oceangreen Wheatgrass, a Pinecone and four maggots.  These are all foraged; combine the maggots in the Stone Vial first, then the result with the remaining ingredients: WARNING the maggot combine is temporary, so if you don't have the Pinecone and Wheatgrass, don't do it!  What's more, both maggots and wheatgrass are foods.  As navigating the caves is a pain, it's probably best if you have all these ingredients and a free top inventory slot before going in.  Foraged items can be foraged in all zones in the theme; maggots seem to be commoner in the Temple of Bertoxxulous.
 
-To use the "curative elixir", you must be within melee range of the plant for around 8 seconds to cast it.  It can be applied at any time, but the quest will only update when the plant falls below 50%.  After completing this quest, Kerrin doesn't give the right prompts - so you must say "shears" to her to get the last quest, "Stop the Spreading".
+To use the "curative elixir", you must be within melee range of the plant for around 8 seconds to cast it.  It can be applied at any time, but the quest will only update when the plant falls below 50%.  After completing this quest, Kerrin may not give the right prompts - so you must say "shears" to her to get the last quest, "Stop the Spreading".
+
+The trees are all in the glade area, that will become Surefall Glade, and everything in this area before the grizzlies is undead.  Dessicated treelings and blackbriars are common in the area, but there is only two possible spawns of a tottering treant.  One is at the back near the false wall, and the other is one of the mobile trees that walk in front of the pool.  This is also spawns the defiled ancient treant, which you need to kill for Seradi Stormcaller's quest (from Bayle's Keep); the spawn rate is very low.
 
 ##Oceangreen Village
 
