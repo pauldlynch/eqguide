@@ -16,32 +16,32 @@ I have tidied the html (considerably) to make it easier to understand and fix a 
   
 ##Veil of Alaris
 
-1. [Guild Trophies](http://home.comcast.net/~mathadon/Guides/VoA/Trophy.html)
+1. [Guild Trophies](http://rasper.samanna.net/VoA/Trophy.html)
 	- This link shares how to obtain these as well as the reward each trophy offers. It is a guild wise reward which has to be placed in a new guild hall house and turned on in order to receive the benefits.  
-2. [Veil Hunter's Satchel(s)](http://home.comcast.net/~mathadon/Guides/VoA/Trophy.html)
+2. [Veil Hunter's Satchel(s)](http://rasper.samanna.net/VoA/Trophy.html)
 	- Midway down this link it shares how to obtain 16, 18, 22, 24 and 28 slot bags.
-3. [Satchel of the Aleran Legend](http://home.comcast.net/~mathadon/Guides/VoA/Trophy.html) [32 slot bag](http://lucy.allakhazam.com/item.html?id=64186) and [Prismatic Selyrah Saddle](http://lucy.allakhazam.com/item.html?id=64187) raid speed mount with 300 HME 
+3. [Satchel of the Aleran Legend](http://rasper.samanna.net/VoA/Trophy.html) [32 slot bag](http://lucy.allakhazam.com/item.html?id=64186) and [Prismatic Selyrah Saddle](http://lucy.allakhazam.com/item.html?id=64187) raid speed mount with 300 HME 
 	- This shows what you can get for doing everything in the expansion.
 4. [Faycite Shards](http://voa.eqresource.com/type3augs.php) (Type 3 augments - to boost your spells)
 	- This link shows you where to go to buy these.
 5. Maps  
-	- [This](http://home.comcast.net/~mathadon/Guides/HoT/Maps.html) is Rasper's map link.
+	- [This](http://rasper.samanna.net/HoT/Maps.html) is Rasper's map link.
 	- [This](http://voa.eqresource.com/maps.php) is EQResource's map link.
 6. Spells  
-	- [This](http://home.comcast.net/~mathadon/Guides/VoA/Spells.html) is Rasper's spell info.
+	- [This](http://rasper.samanna.net/VoA/Spells.html) is Rasper's spell info.
 	- [This](http://voa.eqresource.com/spells.php) is EQResource's spell info.
 
 ##House of Thule
 
-1. [Trophies](http://home.comcast.net/~mathadon/Guides/HoT/Trophy.html)
+1. [Trophies](http://rasper.samanna.net/HoT/Trophy.html)
 	- This link shares how to obtain these as well as the reward each trophy offers. It is a single person reward which has to be placed in a house in order to receive the benefits.
-2. [Faction information](http://home.comcast.net/~mathadon/Guides/HoT/Faction.html)
+2. [Faction information](http://rasper.samanna.net/HoT/Faction.html)
 	- This link shares when you can start obtaining rank 2 spells as well as gear for the various tiers as well as obtaining emblems for chest augment slots.
 3. Maps
-	- [This](http://home.comcast.net/~mathadon/Guides/HoT/Maps.html) is Rasper's map link.
+	- [This](http://rasper.samanna.net/HoT/Maps.html) is Rasper's map link.
 	- [This](http://hot.eqresource.com/maps.php) is EQResource's map link.
 4. Spells
-	- [This](http://home.comcast.net/~mathadon/Guides/HoT/Spells.html) is Rasper's spell info.
+	- [This](http://rasper.samanna.net/HoT/Spells.html) is Rasper's spell info.
 	- [This](http://hot.eqresource.com/spells.php) is EQResource's spell info.
 5. [EQResource Checklist](http://hot.eqresource.com/checklist.php) - for progression and requesting missions
 
@@ -77,19 +77,19 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 ##Seeds of Destruction
 
 1. [Allakhazam's Seeds of Destruction Guide](http://everquest.allakhazam.com/wiki/EQ:Seeds_of_Destruction#Progression_Through_Seeds_of_Destruction) progression listing  
-2. [Rasper's SoD link](http://home.comcast.net/~mathadon/Guides/SoD/)  
+2. [Rasper's SoD link](http://rasper.samanna.net/SoD/)  
 3. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/wiki/Bayle's_Heraldic_Crest) augment  
 4. [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) augment  
 5. [Baron Yosig's Skeleton](http://everquest.allakhazam.com/db/item.html?item=78799) (iksar skeleton illusion mask)  
 6. [Bone Mask of the Ancient Iksar](http://everquest.allakhazam.com/db/item.html?item=77408)  illusion mask - makes you NON KOS to FoS mobs  
 7. [Rallosian Battle Figure](http://everquest.allakhazam.com/db/item.html?item=79027)  
-	- Putting it together is [here](http://home.comcast.net/~mathadon/Guides/SoD/BattleFigure.html)  
+	- Putting it together is [here](http://rasper.samanna.net/SoD/BattleFigure.html)  
 		1: Summon Familiar: FamiliarBattleOgre  
 		8: Increase Max Hitpoints by 5 (L1) to 425 (L85)   
 		9: Increase Mana Pool by 5 (L1) to 425 (L85)  
 8. [Timeshear](http://everquest.allakhazam.com/db/item.html?item=79876)  
-	- [Putting it together](http://home.comcast.net/~mathadon/Guides/SoD/Timeshear.html)  
-9. [List of spells and how to obtain them](http://home.comcast.net/~mathadon/Guides/SoD/Spells.html)  
+	- [Putting it together](http://rasper.samanna.net/SoD/Timeshear.html)  
+9. [List of spells and how to obtain them](http://rasper.samanna.net/SoD/Spells.html)  
 
 ##Secrets of Faydwer
 
@@ -133,7 +133,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 	- [SoF Tradeskill Quest #6: Blood for the Cure](http://everquest.allakhazam.com/db/quest.html?quest=4476)
 	- [SoF Tradeskill Quest #7: Steamy Revenge](http://everquest.allakhazam.com/db/quest.html?quest=4477)
 9. [Valthun's Memory Shard](http://eqbeastiary.allakhazam.com/search.shtml?id=27130) charm augmentation
-10. [Rasper's guide to factioning, quests, spells and raid info](http://home.comcast.net/~mathadon/Guides/SoF/)
+10. [Rasper's guide to factioning, quests, spells and raid info](http://rasper.samanna.net/SoF/)
 12. [Model XLII Spatial Temporal Oculus](http://everquest.allakhazam.com/db/item.html?item=72286) face augmentation
 13. [Reconstructed Wereorc Head](http://everquest.allakhazam.com/db/item.html?item=72501) Bloodmoon Orc illusion
 14. [Blessed Celestine Faycite](http://everquest.allakhazam.com/db/item.html?item=71512) augmentation
@@ -144,7 +144,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 
 ##The Buried Sea
 
-0. [Rasper's guide](http://home.comcast.net/~mathadon/Guides/TBS/index.html) - to all missions, many quests and drops
+0. [Rasper's guide](http://rasper.samanna.net/TBS/index.html) - to all missions, many quests and drops
 1. [Katta Portal Guide](http://samanna.net/eq.progression/prog.tbs.portals.shtml)
 2. [Samanna's Progression Guide](http://samanna.net/gen.info/prog.tbs.shtml)
 3. Solteris Access Guide
