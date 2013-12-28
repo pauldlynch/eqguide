@@ -88,7 +88,7 @@ Consider the [Coldain Ring quests](http://everquest.allakhazam.com/db/quest.html
 
 If you are lucky enough to have the Fabled pet weapons, they are usable at 75, and are the best dps weapons until higher end weapons.
 
-Level 75-85: [SoD progression](http://home.comcast.net/~mathadon/Guides/SoD/index.html). Do as early as possible for the merc upgrades and access to spells. You only need the Warrens progression to get the tier 5 mercs. Complete the aug quests if possible. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/db/item.html?item=78813) should be easy, [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) is afflicted by various bugs, so is harder to complete than it should be.
+Level 75-85: [SoD progression](http://rasper.samanna.net/SoD/index.html). Do as early as possible for the merc upgrades and access to spells. You only need the Warrens progression to get the tier 5 mercs. Complete the aug quests if possible. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/db/item.html?item=78813) should be easy, [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) is afflicted by various bugs, so is harder to complete than it should be.
 
 OMM missions (from Old Man Mackenzie in Plane of Knowledge) are monster missions that send you to Nagafen's Lair or Lower Guk as a level 50 character in 1999 gear. These require a group of average level 80+ to start. Chest rewards when the mission is complete are good, of SoD tier 3 or better equivalent. This is superceded by House of Thule dream mote gear from level 80.
 
