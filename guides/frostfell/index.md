@@ -171,7 +171,7 @@ Housing items, plus some chest rewards.
 
 Starts with Pizmip Nobbletod in the Plane of Knowledge, near the Bazaar.  You have to make gather some clockwork items, make some recipes using drops from ANY drunkard and ANY lizard, eat them, then loot a Rabbit's Foot from a level dependent zone:  Crescent Reach, Blightfire Moors, Stone Hive, Goru'kar Mesa, Broodlands, Steppes, Sunderock Springs, Dragnscale Hills, Oceangreen Hills, Foundation, Feerrott the Dream, Grounds.
 
-Reward: [Lucky Charm](http://everquest.allakhazam.com/db/item.html?item=96454)
+Reward: [Lucky Charm](http://everquest.allakhazam.com/db/item.html?item=96454) (CHA buff)
 
 ##[Time for a Change](http://everquest.allakhazam.com/db/quest.html?quest=5287)
 
