@@ -152,7 +152,7 @@ Reward: [Mask of the Grumpy Goblin](http://everquest.allakhazam.com/db/item.html
 
 #Frostfell 2010
 
-##[Gathering Holiday Cheer](http://everquest.allakhazam.com/db/quest.html?quest=5278)
+##[Gathering Holiday Cheer](http://everquest.allakhazam.com/db/quest.html?quest=5278) (10+)
 
 Starts with Kuutas Gigglegibber next to the Plane of Tranquility stone in the Plane of Knowledge. sends you to a level dependent zone to kill and collect drops - Crescent Reach, South Karana, Dawnshroud Peaks, Cobalt Scar, Corathus Creep, Skyfire Mountains, Buried Sea, Elddar Forest, Dragonscale Hills, Hills of Shade, Fungal Forest, Feerrott the Dream (every ten levels from 10 - 100)
 
@@ -167,7 +167,7 @@ Rewards (choice from):
 
 Housing items, plus some chest rewards.
 
-##[All You Need is Luck](http://everquest.allakhazam.com/db/quest.html?quest=5288)
+##[All You Need is Luck](http://everquest.allakhazam.com/db/quest.html?quest=5288) (10+)
 
 Starts with Pizmip Nobbletod in the Plane of Knowledge, near the Bazaar.  You have to make gather some clockwork items, make some recipes using drops from ANY drunkard and ANY lizard, eat them, then loot a Rabbit's Foot from a level dependent zone:  Crescent Reach, Blightfire Moors, Stone Hive, Goru'kar Mesa, Broodlands, Steppes, Sunderock Springs, Dragnscale Hills, Oceangreen Hills, Foundation, Feerrott the Dream, Grounds.
 
@@ -185,9 +185,3 @@ Starts with Santug Claugg's Helper by the main bank in the Plane of Knowledge.  
 
 Rewards: a choice of Snowstorm weapon ornaments.
 
-##Others
-
-These may have low level options:
-
-Gathering Holiday Cheer - Kuutas Gigglegibber, PoK  
-Braxi Roundup - Santug Claugg's Helper, PoK  

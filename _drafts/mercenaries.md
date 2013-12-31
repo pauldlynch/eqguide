@@ -30,13 +30,13 @@ Caster: 1 hr 55, level 8.36.
 Locks, Flutterwing
 
 Tank: 8.73, played 2 hrs 37 mins.
-Caster: 
+Caster: 9.22 (but double exp), 2 hrs 9 mins.
 
 
 Overlord, Pit Fiend.
 
-Tanks: 9.72, played 3 hrs
-Caster: 
+Tanks: 9.72, played 3 hrs.
+Caster: Failed first try at Overlord (down to 3%).
 
 
 
