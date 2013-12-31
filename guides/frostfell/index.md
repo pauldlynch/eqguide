@@ -7,7 +7,9 @@ tags : [quests]
 ---
 {% include JB/setup %}
 
-It's a good idea to collect your Adventurer's Stone for fast travel via the Maguses, if you don't already have one.  If your home city is Crescent Reach, you can start this quest by talking to Vladnelg Galvern sitting outside the upstairs bank.
+#Santug's Stocking (Frostfell 2006)
+
+It's a good idea to collect your Adventurer's Stone for fast travel via the Maguses, if you don't already have one.  If your home city is Crescent Reach, you can start this quest by talking to Vladnelg Galvern sitting outside the upstairs bank.  This quest series should be doable by all over level 10.
 
 ##[Searching for Clues](http://everquest.allakhazam.com/db/quest.html?quest=3920) - a Frostfell Goblin, home towns and Plane of Knowledge
 
@@ -75,6 +77,113 @@ If, by any chance, your stocking isn't automatically upgraded, you can hand it i
 
 Final reward is [Santug's Stocking](http://everquest.allakhazam.com/db/item.html?item=55250)
 
+#Frostfell 2005
+
+##[The Clockwork Party Machine](http://everquest.allakhazam.com/db/quest.html?quest=3279) (2005)
+
+M C Tinkerton, in Plane of Knowledge next to the Great Divide stone.  Varies by level, kills in Great Divide.
+
+##[Old Frostbeard]()
+
+Also in Great Divide.  More kills near the centre mountain in the Great Divide.
+
+Reward (varies by level):
+
+- [Bauble of the New Year](http://everquest.allakhazam.com/db/item.html?item=55634)
+- [Jadestone of the New Year](http://everquest.allakhazam.com/db/item.html?item=62457)
+- [Gemstone of the New Year](http://everquest.allakhazam.com/db/item.html?item=65838)
+- [Emerald of the New Year](http://everquest.allakhazam.com/db/item.html?item=46085)
+
+#Frostfell 2007
+
+All these quests are given by Zoog, in the frost giant fort in the Great Divide.
+
+##[Search for Bram Brandyfoot](http://everquest.allakhazam.com/db/quest.html?quest=4415)
+
+Talk to Zott (same place), and go to the caves near Velk's Labyrinth.  Kill level 25 snowmen and loot them, then return to Zoog.
+
+##[Rescue Hailie Biggeyes](http://everquest.allakhazam.com/db/quest.html?quest=4416)
+
+Talk to Zobb in the giant fort, then find Hailie in the NE corner of the zone.  Kill the snowmen, loot, and return to Zoog.
+
+##[The Freedom of Kanf Shadowhands ](http://everquest.allakhazam.com/db/quest.html?quest=4417)
+
+Talk to Zipp in the fort, find Kanf in the Tizmak caves (NW of zone), kill snowmen, loot and return to Zoog.
+
+##[The Savior of Gemmi Goodkin](http://everquest.allakhazam.com/db/quest.html?quest=4418)
+
+Find Gemmi in the wurm caves.  Father Frostheart spawns (level is relative to the character who spawns him), loot, and return to Zoog.  Reward on completion is 5 Potions of Adventure (exp potions).
+
+Rewards (dropped by the snowmen):
+
+[Frosty Snow Globe](http://everquest.allakhazam.com/db/item.html?item=72682)
+[Icicle Cake](http://everquest.allakhazam.com/db/item.html?item=72683)
+[Official Red Runner Piston Action 10 Shot Crossbow](http://everquest.allakhazam.com/db/item.html?item=72684)
+[Red Velvet Ice Skates](http://everquest.allakhazam.com/db/item.html?item=72687)
+[The Fruit Cake](http://everquest.allakhazam.com/db/item.html?item=72685)
+
+#Frostfell 2008
+
+Talk to the gigglegibber goblins in the Plane of Knowledge by the small bank.  Note that the rewards are all required level 65.
+
+##[Presents Lost](http://everquest.allakhazam.com/db/quest.html?quest=4783) (55+)
+
+Assigned by Ella Straw.  Fight in Hate's Fury.
+
+Reward: [Snowball](http://everquest.allakhazam.com/db/item.html?item=81569)
+
+##[Gifts Ungiven](http://everquest.allakhazam.com/db/quest.html?quest=4785) (level 65+)
+
+Assigned by Cordys Leaflighter.  Thundercrest Isles.
+
+Reward: [Snowball](http://everquest.allakhazam.com/db/item.html?item=81569)
+
+##[Misplaced Wishes](http://everquest.allakhazam.com/db/quest.html?quest=4787) (level 75+)
+
+Assigned by Rellith Akkanar. Collect drops and groundspawn from Fortress Mechanotus.
+
+Reward: [Snowball](http://everquest.allakhazam.com/db/item.html?item=81569)
+
+##[The Frostclaw Lair]() (55-75+)
+
+Kills in a Permafrost instance, varies by level requesting.
+
+Reward: [Mask of the Grumpy Goblin](http://everquest.allakhazam.com/db/item.html?item=81570)
+
+#Frostfell 2010
+
+##[Gathering Holiday Cheer](http://everquest.allakhazam.com/db/quest.html?quest=5278)
+
+Starts with Kuutas Gigglegibber next to the Plane of Tranquility stone in the Plane of Knowledge. sends you to a level dependent zone to kill and collect drops - Crescent Reach, South Karana, Dawnshroud Peaks, Cobalt Scar, Corathus Creep, Skyfire Mountains, Buried Sea, Elddar Forest, Dragonscale Hills, Hills of Shade, Fungal Forest, Feerrott the Dream (every ten levels from 10 - 100)
+
+##[Operation Jolliness (By Any Means Necessary)](http://everquest.allakhazam.com/db/quest.html?quest=5279)
+
+Starts with Kuutas Gigglegibber next to the Plane of Tranquility stone in the Plane of Knowledge; must have completed Gathering Holiday Cheer.  Takes you to an instance of Icewell Keep.
+
+Rewards (choice from):
+
+- [Polar Bear Cub](http://everquest.allakhazam.com/db/item.html?item=96204)
+- [Tiny Icepup](http://everquest.allakhazam.com/db/item.html?item=96205)
+
+Housing items, plus some chest rewards.
+
+##[All You Need is Luck](http://everquest.allakhazam.com/db/quest.html?quest=5288)
+
+Starts with Pizmip Nobbletod in the Plane of Knowledge, near the Bazaar.  You have to make gather some clockwork items, make some recipes using drops from ANY drunkard and ANY lizard, eat them, then loot a Rabbit's Foot from a level dependent zone:  Crescent Reach, Blightfire Moors, Stone Hive, Goru'kar Mesa, Broodlands, Steppes, Sunderock Springs, Dragnscale Hills, Oceangreen Hills, Foundation, Feerrott the Dream, Grounds.
+
+Reward: [Lucky Charm](http://everquest.allakhazam.com/db/item.html?item=96454)
+
+##[Time for a Change](http://everquest.allakhazam.com/db/quest.html?quest=5287)
+
+Starts with Kilna Odenburgh in the Plane of Knowledge, near the Bazaar; requires you to have completed All You Need Is Luck to open the chest. Run around and kill in Dragonscale Hills.  Reward is [Doomsday Beetle](http://everquest.allakhazam.com/db/item.html?item=96453) (housing item).
+
+#Frostfell 2012
+
+##[Braxi Roundup](http://everquest.allakhazam.com/db/quest.html?quest=6192) (50+)
+
+Starts with Santug Claugg's Helper by the main bank in the Plane of Knowledge.  The zone is level based, from Natimbi, Barren Coast, Oceangreen Village, Loping Plains, Brell's Rest, Feerrott the Dream, Sarith, Beasts' Domain.  You need to gather various items (purchased and created by players) and do some fighting.
+
+Rewards: a choice of Snowstorm weapon ornaments.
 
 ##Others
 

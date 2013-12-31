@@ -94,7 +94,9 @@ OMM missions (from Old Man Mackenzie in Plane of Knowledge) are monster missions
 
 Level 80-85. SoF zone drops - Mechamatic Guardian augs. Armor upgrades come from the Bazaar, from House of Thule tier 1 drops. If you can, buy 330 dream motes in the Bazaar, and use that to buy 11 non-visible items; the low tier visible armor items will also be available in the Bazaar.
 
-Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.
+##Levels 85-100
+
+Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.  Do the two quests (no killing required): [Welcome to Shard's Landing](http://rof.eqresource.com/welcometoshardslanding.php) and [Words of the Unspoken](http://rof.eqresource.com/wordsoftheunspoken.php).  If you have access to a group, do the Partisan quests for VoA.
 
 Level 92: More Bazaar armor upgrades.
 

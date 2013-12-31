@@ -56,7 +56,7 @@ From the Glade at the north of the zone:
 
 -  Kerrin the Unkempt: [Cure the Crud](http://everquest.allakhazam.com/db/quest.html?quest=4644), [Poach the Poachers](http://everquest.allakhazam.com/db/quest.html?quest=4645), [Stop the Spreading](http://everquest.allakhazam.com/db/quest.html?quest=4646)
 
-Foraged and ground spawn, the poachers (need a tracker while doing something else), then kill in the Glade.  Don't forget Seradi Stormcaller's quest from the keep, as you will need to have done at least Kerrin's first two to request it.
+Foraged and ground spawn, the poachers (need a tracker while doing something else), then kill in the Glade.  Don't forget Seradi Stormcaller's quest from the keep, as you will need to have done at least Kerrin's and Tabron's quest chains to request it.
 
 For the "Cure the Crud" quest, you will need Oceangreen Wheatgrass, a Pinecone and four maggots.  These are all foraged; combine the maggots in the Stone Vial first, then the result with the remaining ingredients: WARNING the maggot combine is temporary, so if you don't have the Pinecone and Wheatgrass, don't do it!  What's more, both maggots and wheatgrass are foods.  As navigating the caves is a pain, it's probably best if you have all these ingredients and a free top inventory slot before going in.  Foraged items can be foraged in all zones in the theme; maggots seem to be commoner in the Temple of Bertoxxulous.
 
@@ -80,7 +80,7 @@ Kill in the temple, then clear an area and summon a named to kill; mobs are 75-7
 
 ##Old Blackburrow
 
-You may not be able to enter Blackburrow if you haven't completed certain quests - possibly the Tabron Caulria and Bronal Cadran series, and possibly the first Fripp quest as well.
+You may not be able to enter Blackburrow if you haven't completed certain quests - possibly the Tabron Caulria and Bronal Cadran series, and possibly the first Fripp quest as well; you may also need to have one of the subsequent Blackburrow quests in order to enter.
 
 These quests are carried out in Blackburrow, and are taken from the Darkpaw camp on the west side of Oceangreen Hills:
 
