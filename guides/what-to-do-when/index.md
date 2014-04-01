@@ -88,7 +88,7 @@ Consider the [Coldain Ring quests](http://everquest.allakhazam.com/db/quest.html
 
 If you are lucky enough to have the Fabled pet weapons, they are usable at 75, and are the best dps weapons until higher end weapons.
 
-Level 75-85: [SoD progression](http://rasper.samanna.net/SoD/index.html). Do as early as possible for the merc upgrades and access to spells. You only need the Warrens progression to get the tier 5 mercs. Complete the aug quests if possible. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/db/item.html?item=78813) should be easy, [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) is afflicted by various bugs, so is harder to complete than it should be.
+Level 75-85: [SoD progression](http://rasper.samanna.net/SoD/index.html). Do as early as possible for the merc upgrades and access to spells. You only need the Warrens progression to get the tier 5 mercs.  Or you can defer to 85 to do the mercenary upgrade quest in Feerrott the Dream, which should be moloable, so is far easier at 85 than Warrens progression. Complete the SoD aug quests if possible. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/db/item.html?item=78813) should be easy, [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) is afflicted by various bugs, so is harder to complete than it should be.
 
 OMM missions (from Old Man Mackenzie in Plane of Knowledge) are monster missions that send you to Nagafen's Lair or Lower Guk as a level 50 character in 1999 gear. These require a group of average level 80+ to start. Chest rewards when the mission is complete are good, of SoD tier 3 or better equivalent. This is superceded by House of Thule dream mote gear from level 80.
 
@@ -97,6 +97,8 @@ Level 80-85. SoF zone drops - Mechamatic Guardian augs. Armor upgrades come from
 ##Levels 85-100
 
 Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.  Do the two quests (no killing required): [Welcome to Shard's Landing](http://rof.eqresource.com/welcometoshardslanding.php) and [Words of the Unspoken](http://rof.eqresource.com/wordsoftheunspoken.php).  If you have access to a group, do the Partisan quests for VoA.
+
+This is where Heroic characters will enter, with a full spell book, all AAs up to Underfoot (so some good AAs are still open to get from lower levels), gear, and cash.  They should do the J5 mercenary quest in Feerrott the Dream as soon as possible.  The partisan quests in Feerrott the Dream and House of Thule Lower give a good set of augments. Look for experience grinding in hot zones, in TBS zones (easy), in SoF zones (FM, Beza, Zeka or Mechamatic Guardian), or HoT zones (House of Thule or Feerrott the Dream).  House of Thule has some easy kill quests available at the zone in.
 
 Level 92: More Bazaar armor upgrades.
 

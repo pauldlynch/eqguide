@@ -8,6 +8,6 @@ Welcome to Everquest Guide.  I've been running the [Newbie Zone FAQ](http://www.
 
 Now that SOE has launched the Free to Play option for Everquest, it is time for a new series of articles for new and returning players.  Some of the content will be borrowed from the FAQ, some from my other Everquest blog, but most will be original articles written for here.
 
-My main interest will be guides for new players; I have no intention of replacing content from sites like [Allakhazam](http://everquest.allakhazam.com/), [EQResource](http://eqresource.com) or [Raspers](http://home.comcast.net/~mathadon/Guides/).  The first guide is one for the Mines of Gloomingdeep, rewritten specifically for the latest iteration of this zone, and continues with guides for the early stages of the Hero's Journey and relevant side issues.
+My main interest will be guides for new players; I have no intention of replacing content from sites like [Allakhazam](http://everquest.allakhazam.com/), [EQResource](http://eqresource.com) or [Raspers](http://rasper.samanna.net/).  The first guide is one for the Mines of Gloomingdeep, rewritten specifically for the latest iteration of this zone, and continues with guides for the early stages of the Hero's Journey and relevant side issues.
 
 I am experimenting with a new way of creating the site; previous blogs have used WordPress, this will be using Jekyll - which should offer better performance and greater reliability (for me).

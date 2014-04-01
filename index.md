@@ -17,6 +17,8 @@ New Players
 - [Stone Hive](guides/stone-hive) (35-45++)
 - [Goru'kar Mesa](guides/gorukar-mesa) (35-55+)
 
+- [Heroic Characters](guides/heroic-characters)
+
 Repeating Events
 ----------------
 
