@@ -60,7 +60,7 @@ Bloodgills, drachnids and hornets are probably the highest levels, around 35-40 
 
 - [Seventh Anniversary Scavenger Hunt (Dragons)](http://everquest.allakhazam.com/db/quest.html?quest=4161) (Velious) [Draconic Cane of the Everlasting](http://everquest.allakhazam.com/db/item.html?item=66213) yet another firework clickie (etc for Coldain and Giants) 
 - [Eighth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=4156) (Luclin) [Lunar Fungus](http://everquest.allakhazam.com/db/item.html?item=67302) familiar with water breathing effect 
-- [Ninth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=4541) (Planes of Power) [Brick of Knowledge](href="http://everquest.allakhazam.com/db/item.html?item=74202) Knowledge Gate, need to be level 46+ to enter many of the ones, and 60+ to enter Tactics 
+- [Ninth Anniversary Scavenger Hunt](http://everquest.allakhazam.com/db/quest.html?quest=4541) (Planes of Power) [Brick of Knowledge](href="http://everquest.allakhazam.com/db/item.html?item=74202) Knowledge Gate, need to be level 46+ to enter many of the zones, and 60+ to enter Tactics 
 - [Tenth Anniversary](http://everquest.allakhazam.com/db/quest.html?quest=4843): Deity Favors: "Favored of the Gods" title,
 [Shiny New Collapsible Roboboar](http://everquest.allakhazam.com/db/item.html?item=83386), [Cloth Cap](http://everquest.allakhazam.com/db/item.html?item=83326) swarm pet clickie, exp potions, choices of other potions, firework
 clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db/item.html?item=83320) (summon stat food, etc) 
@@ -101,6 +101,14 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
 	- [To Thine Own Creator Be False](http://everquest.allakhazam.com/db/quest.html?quest=6789)
 	- [To Thine Own Creator Be True](http://everquest.allakhazam.com/db/quest.html?quest=6786)
 	- [Ogres at the Gates](http://everquest.allakhazam.com/db/quest.html?quest=6783)
+- Fifteenth Anniversary (2014), started 23 April
+	- [For Magically Delicious](http://everquest.allakhazam.com/db/quest.html?quest=7505), from Jimothy the Delicious
+	- [Defending Knowledge](http://everquest.allakhazam.com/db/quest.html?quest=7502) from Bjerg Sen the Tranquil
+	- [Sprucing Up Shakey](http://everquest.allakhazam.com/db/quest.html?quest=7503) from Reebo Leafsway
+	- [A Ranger's Tale](http://everquest.allakhazam.com/db/quest.html?quest=7504) from Sarissa
+	- [What Happens In Neriak...](http://everquest.allakhazam.com/db/quest.html?quest=7501) from Sayden G'Noir in Nektulos Forest
+
+Most missions require level 100, and give a mission specific reward as well as currency that can be spent at [a jubilant merchant](http://everquest.allakhazam.com/db/npc.html?id=46622) in Plane of Knowledge.  There should also be a mission and raid for the Plane of War, which may or may not be restricted to the Anniversary time.	
 
 
 ##Easter Quest

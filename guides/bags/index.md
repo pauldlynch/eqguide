@@ -13,7 +13,7 @@ If you are a 'good' race, then you can consider doing the Courier of Favor quest
 
 The next most accessible, reasonable bag is the Ore Hauler's Haversack, the result of a quest from Smith Bronson in Crescent Reach.
 
-If you have some trade skills, then the trade skill trophies can all summon temporary bags.  If you [hand them in to Jolum](http://everquest.allakhazam.com/db/quest.html?quest=2154) in the Bazaar, he gives you an Artisan Seal, with instructions to combine the seal in a trade skill container.  This isn't really worth doing until you have a skill level of 200-250, but if you have 300, you will be rewarded with two bags, one very large bag for trade skill components only, and a 12 slot, 100% WR bag.
+If you have some trade skills, then the trade skill trophies can all summon temporary bags.  If you [hand them in to Jolum](http://everquest.allakhazam.com/db/quest.html?quest=2154) in the Bazaar, he gives you an Artisan Seal, with instructions to combine the seal in a trade skill container.  This isn't really worth doing for the bag until you have a skill level of 200-250, but if you have 300, you will be rewarded with two bags, one very large bag for trade skill components only, and a 12 slot, 100% WR bag.
 
 You can also buy from players a large bag that holds only tradeskill items [Extraplanar Trade Satchel](http://everquest.allakhazam.com/db/item.html?item=104079).  This is 100% WR and holds 32 items/stacks.  With the numbers of trade skill drops that have resale value, this is a worthwhile purchase when you can afford it (currently selling for 2.5kpp on Antonius Bayle).  The bag isn't lore, but, unless you are very heavily into tradeskill farming, one is enough.
 
@@ -30,25 +30,29 @@ From [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522
 
 - [Rallic Pack](http://everquest.allakhazam.com/db/item.html?item=7453), reward from [The Acrylia Plans](http://everquest.allakhazam.com/db/quest.html?quest=1305).
 
-- [Frizznik's Endless Coin Purse](http://everquest.allakhazam.com/db/item.html?item=25255) from quest [Essences of Power](http://everquest.allakhazam.com/db/quest.html?quest=2667)
-- [Vrald's Silken Sack](http://everquest.allakhazam.com/db/item.html?item=69937)
-- [Braided Horsehair Handbag](http://everquest.allakhazam.com/db/item.html?item=51328)
+- [Frizznik's Endless Coin Purse](http://everquest.allakhazam.com/db/item.html?item=25255) from quest [Essences of Power](http://everquest.allakhazam.com/db/quest.html?quest=2667) (as you have to kill the 4 elemental bosses in PoP, and the bag is just one of several possible rewards from the hand-in, I would skip this one.)
+- [Vrald's Silken Sack](http://everquest.allakhazam.com/db/item.html?item=69937) from quest [Vrald's Lost Brother](http://everquest.allakhazam.com/db/quest.html?quest=4355) in Loping Plains
+- [Braided Horsehair Handbag](http://everquest.allakhazam.com/db/item.html?item=51328) from quest [Beat the Taskmistress](http://everquest.allakhazam.com/db/quest.html?quest=2907) in Riwwi, part of a raid event
 
 ##Claims
 
 - [Dreamweave Satchel](http://everquest.allakhazam.com/db/item.html?item=90052) and [Ethereal Dreamweave Satchel](http://everquest.allakhazam.com/db/item.html?item=90065).
 Claim items: one per character, associated with purchase of House of Thule expansion.
 
-- [Traveler's Rucksack](http://everquest.allakhazam.com/db/item.html?item=97400)
-- [Journeyman's Pocketed Rucksack](http://everquest.allakhazam.com/db/item.html?item=97399).
+- [Traveler's Rucksack](http://everquest.allakhazam.com/db/item.html?item=97400) Veil of Alaris and Rain of Fear, but sometimes is in the Marketplace for around 1,500 SC
+- [Journeyman's Pocketed Rucksack](http://everquest.allakhazam.com/db/item.html?item=97399) Rain of Fear collectors edition, sometimes in the Marketplace for around 2,200 SC.
 
 Claims from purchase of Veil of Alaris.
+
+- [Collector's Dimensional Case](http://everquest.allakhazam.com/db/item.html?item=106323) Rain of Fear, for collectable items only
+- [Honeycomb Satchel](http://everquest.allakhazam.com/db/item.html?item=113378) Call of the Forsaken
 
 ##Marketplace
 
 - [Weapon Crate of the Mercenary](http://everquest.allakhazam.com/db/item.html?item=95621)
 - [Supply Chest of the Mercenary](http://everquest.allakhazam.com/db/item.html?item=95623)
 - [Strongbox of the Mercenary](http://everquest.allakhazam.com/db/item.html?item=95622)
+- [Journeyman's Rucksack](http://everquest.allakhazam.com/db/item.html?item=110359) sometimes in the Marketplace for around 1,800 SC.
 - [Trademaster's Component Satchel](http://everquest.allakhazam.com/db/item.html?item=104145)
 
 Prices vary when SOE put on a special promotion.  For any spending in the marketplace, try to make use of promotions selling Station Cash - there reasonably often are double cash days, and infrequently there will be a triple cash day.  Also watch out for reseller specific (e.g. Walmart or Game) cards that give bonus cash.  It may be cheaper to buy cards and redeem them than it is to buy Station Cash directly from SOE, although this can depend on currency exchange rates.
