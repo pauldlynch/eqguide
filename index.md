@@ -39,6 +39,7 @@ General Information
 - [The Luclin Express](guides/luclin-express)
 - [Armour Progression](guides/armor)
 - [Pet Focus Progression](guides/pet-focuses)
+- [Hero's Forge](guides/heros-forge)
 
 The Hero's Journey
 ------------------
