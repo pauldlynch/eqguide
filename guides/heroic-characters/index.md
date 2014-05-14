@@ -28,7 +28,7 @@ Spells will need replacing as you level, and they aren't (in most cases) a signi
 
 The bottom line: if you already have a level 70/75/80+ character, you don't get all that much for $35.
 
-If you are a Gold/All Access subscriber, getting a free 500 Station Cash every month, it may be worth upgrading your principal characters automatically; or it may not.  You call.
+If you are a Gold/All Access subscriber, getting a free 500 Station Cash every month, it may be worth upgrading your principal characters automatically; or it may not.  Your call.
 
 Don't Move!
 -----------
@@ -44,17 +44,21 @@ Finding Your Feet
 
 If you haven't played for a long while, back up and roll a new character (not heroic!) to run through the Gloomingdeep tutorial, and you may also want to try out your heroic character in a much lower level zone.  Try some of the Hero's Journey zones and quests if you haven't already done them: [Jonas Dagmire's Skeletal Hand](/eqguide/guides/jonas-dagmires-skeletal-hand) augment quest is a good one that should be easy for you to complete with a decent reward.
 
-Once you are ready to move ahead, your first priority should be to upgrade your mercenaries to journeyman tier 5.  This involves completing a quest in Feerrott the Dream.  If you zone in to the Feerrott via the Oggok stone in the Plane of Knowledge, you are given the option of going to the low level zone, or to Feerrott the Dream.  Your zone in point is very close to Investigator Drolmer, who gives out the quest [No Heroism Without Fear](http://hot.eqresource.com/noheroismwithoutfear.php), which opens up the journeyman tier 5 mercenaries to you.  This can be completed with a mercenary, probably by most classes (I have done it with enchanter and with bard, each with a healer merc); failing that, a simple duo with mercenaries should be sufficient.  This quest is only be available to heroic characters.
+Once you are ready to move ahead, your first priority should be to upgrade your mercenaries to journeyman tier 5.  This involves completing a quest in Feerrott the Dream.  If you zone in to the Feerrott via the Oggok stone in the Plane of Knowledge, you are given the option of going to the low level zone, or to Feerrott the Dream.  Your zone in point is very close to Investigator Drolmer, who gives out the quest [No Heroism Without Fear](http://hot.eqresource.com/noheroismwithoutfear.php), which opens up the journeyman tier 5 mercenaries to you (if you have an All Access account).  This can be completed with a mercenary, probably by most classes (I have done it with an enchanter and with a bard, each with a healer mercenary); failing that, a simple duo with mercenaries should be sufficient.  This quest is only be available to heroic characters.
 
 Now Get Started
 ---------------
 
-Several quests in the Feerrott contribute to the "Partisan of the Feerrott" achievement, and these should reward augments to heroic characters; a group may be needed.
+Several quests in the Feerrott contribute to the "Partisan of the Feerrott" achievement, and these should reward augments to heroic characters; a group may be needed.  The quests for the mercenary achievement are also worth doing, but may not reward the special heroic augments.  You will need to complete the Feerrott partisan series to buy rank II spells for 89 and 90.
+
+These quests are given by Rupkerr and Dark Alchemist Illian:
 
 - [An Expedition Gone Awry](http://hot.eqresource.com/anexpeditiongoneawry.php)
 - [Uncovering the Truth](http://hot.eqresource.com/uncoveringthetruth.php)
 - [A Cursed Cure](http://hot.eqresource.com/acursedcure.php)
-- [Fall of the Tae Ew](http://hot.eqresource.com/fallofthetaeew.php)
+- [Protecting the Weak (Minded)](http://everquest.allakhazam.com/db/npc.html?id=35881)
+- [There's Something in the Water](http://everquest.allakhazam.com/db/quest.html?quest=5129)
+
 
 Some quests in the House of Thule Lower Floors should also reward augments.
 
@@ -70,7 +74,7 @@ There are a number of guides and advice threads posted to various forums that he
 
 - Tank
 	- [Warrior](https://forums.station.sony.com/eq/index.php?threads/can-someone-make-a-heroic-warrior-advice-post.209637/)
-	- Paladin
+	- [Paladin](https://forums.station.sony.com/eq/index.php?threads/gone-for-almost-12-years-heroic-paladin-help-please.210620/)
 	- Shadowknight
 - Melee
 	- Berserker
@@ -87,7 +91,7 @@ There are a number of guides and advice threads posted to various forums that he
 - Caster
 	- [Enchanter](https://forums.station.sony.com/eq/index.php?threads/heroic-level-85-enchanter-advice.209140/)
 	- [Magician](https://forums.station.sony.com/eq/index.php?threads/returning-player-85-heroic-mage-need-help.209645/)
-	- Necromancer
+	- [Necromancer](http://www.necrotalk.com/showthread.php?t=12621)
 	- [Wizard](https://forums.station.sony.com/eq/index.php?threads/wizard-heroic-character-guide.209212/)
 
 For further information on heroic enchanters, take a look at Dandin's introductory videos on YouTube.  Links follow:

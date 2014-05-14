@@ -27,11 +27,14 @@ Hero's Forge Sets:
 - Violet: made with trade skills
 - Noble: earned by completion VoA mercenary achievements
 - Valiant: from VoA mission chests
+- Bixie: drops in Bixie Warfront heroic adventure instances
 - Dark Elf: drops in Neriak Fourth Gate (CotF expansion)
 - Eternal Grove: drops from level 80+ raid bosses
 - Insidious: drops from level 98+ raid bosses
 
 All of these, at least in theory, are available in cloth, leather, chain and plate.  All sets will also be available on the Station Cash Marketplace; standard price is 350 SC per set.
+
+The basic low level colour named sets are relatively plain; everything from Sylvan and above is more elaborate.  You can get a preview of the look of an item on your character by alt-right clicking on it, but it is still difficult to get a clear view on the tiny preview image.  You can't preview the items in the marketplace, so the best way to find examples is either Google, for screenshots, or it inspect items in the Bazaar window.
 
 Individual items, such as hats (wizard pointy hats, etc) also drop, including some seasonal drops.
 

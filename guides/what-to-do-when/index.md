@@ -8,7 +8,7 @@ This is a guide for current and returning players, who may be mystified as to wh
 
 I am writing this assuming that you have access to help (a guild, a friend, or a high level character), a decent amount of platinum (from the same sources, from the Loyalty vendor, or just work for it yourself - it's easy enough to do), and want to know what is useful to get and when to get it, without being a complete spendthrift. For spells and tomes, you need to do your own research to find out what you need, then collect from the Bazaar, find as drops, or make (with research) as required; all spells up to level 70 are available in the Library in the Plane of Knowledge, and rank 1 spells from 71 to 90 (with some minor exceptions that are probably mistakes). The idea is that I have listed most items at the point that either: can be soloed - or - where they are most useful, if you can get them. It's up to you to decide which I mean. This will work for starting from scratch, or for a returning character that is obviously under-equipped.
 
-You can install Everquest using the [Everquest Launchpad](http://launch.soe.com/everquest/). Make sure that you have updated maps from [Mapfiend](http://www.mapfiend.net/) installed.
+You can install Everquest using the [Everquest Launchpad](http://launch.soe.com/everquest/). Make sure that you have updated maps from [Mapfiend](http://www.mapfiend.net/) and [EQResource](http://hot.eqresource.com/maps.php) installed.  The EQResource maps are per expansion starting with House of Thule.
 
 If you left when EQ2/WoW was launched, then please read [Returning from 2004](http://www.paullynch.org/eqblog/?p=373) - it covers the big differences.
 
@@ -96,9 +96,11 @@ Level 80-85. SoF zone drops - Mechamatic Guardian augs. Armor upgrades come from
 
 ##Levels 85-100
 
-Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.  Do the two quests (no killing required): [Welcome to Shard's Landing](http://rof.eqresource.com/welcometoshardslanding.php) and [Words of the Unspoken](http://rof.eqresource.com/wordsoftheunspoken.php).  If you have access to a group, do the Partisan quests for VoA.
+Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.  Do the two quests (no killing required): [Welcome to Shard's Landing](http://rof.eqresource.com/welcometoshardslanding.php) and [Words of the Unspoken](http://rof.eqresource.com/wordsoftheunspoken.php), which gives you maximum Alaran language skill.  If you have access to a group, do the Partisan quests for VoA.
 
-This is where Heroic characters will enter, with a full spell book, all AAs up to Underfoot (so some good AAs are still open to get from lower levels), gear, and cash.  They should do the J5 mercenary quest in Feerrott the Dream as soon as possible.  The partisan quests in Feerrott the Dream and House of Thule Lower give a good set of augments. Look for experience grinding in hot zones, in TBS zones (easy), in SoF zones (FM, Beza, Zeka or Mechamatic Guardian), or HoT zones (House of Thule or Feerrott the Dream).  House of Thule has some easy kill quests available at the zone in.
+This is where Heroic characters will enter, with a full spell book, all AAs up to Underfoot (so some good AAs are still open to get from lower levels), gear, and cash.  They should do the J5 mercenary quest in Feerrott the Dream as soon as possible.  The partisan quests in Feerrott the Dream and House of Thule Lower give a good set of augments. Look for experience grinding in hot zones, in TBS zones (easy), in SoF zones (FM, Beza, Zeka or Mechamatic Guardian), or HoT zones (House of Thule or Feerrott the Dream).  House of Thule has some relatively easy kill quests available at the zone in.
+
+You can also do the Rain of Fear portal atunement quests from 85.
 
 Level 92: More Bazaar armor upgrades.
 
