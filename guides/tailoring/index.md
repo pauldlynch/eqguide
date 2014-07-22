@@ -11,6 +11,18 @@ Tailoring for Beginners
 
 I have added this because I have been trying to work my way through the Goru'kar Mesa quests, which require several trade skills, mostly notably tailoring.  The master reference is, as usual,  <a href="http://mboards.eqtraders.com/eq/showthread.php?33385-Complete-Tradeskill-Guide-6-1-(Serverwide-Drop-Edition)-Rev-Apr-2009">EQTraders</a>.  This suggest the Abysmal Sea starter quests, but the Crescent Reach equivalent is very much faster.  Just go to the tailoring area near the upstairs bank, and you will soon have skill 54.
 
+
+###Tradeskill Basics
+
+Before you start, there are a couple of things that you need to know; any old Everquest hand will automatically assume that you know these things.
+
+All tradeskills use a container of some sort: some containers are portable, others are fixed.  For tailoring, there are static looms near most tailoring vendors and in guild halls, or you can buy a sewing kit.  If your sewing kit opens to show a "Combine" button, then you can use it like that; if it opens to show a recipe list and a "Search Recipes" button, then you use it like that, too.  But you need the first form to learn new recipes.  You can switch forms by opening using control-right-click, and the Options menu can set which version you prefer.  Opening as a normal container with the "Combine" button is the more convenient of the two for use as a simple container.
+
+Use to search for recipes and combine should be self-evident.  In the other form, put single item stacks of ingredients in (and nothing else), and click "Combine".  You will fail more often than not to start with.  Once you have made an successful combine for the first time, you can switch to the recipe list form, which is far swifter once you have learned a recipe.
+
+
+###Tailoring After 54 Skill
+
 As the Mesa quests will require you to make combines with a high trivial of just under 200 (170 - and possibly higher, I thought Ciodaru's quest requires some combines?), and starting with subcombines of around 50 trivial, it's a good idea to raise your skill significantly first.
 
 - Woven Mandrake (trivial 66)
@@ -76,7 +88,7 @@ If you're working on the smithing components, then it's time to make your sewing
 
 ###Tailoring Trophy
 
-If you are going to make a relatively high level combine, and 170 counts in my opinion, then the tailor trophy is probably worthwhile.  You need to see Baublie Diggs in West Freeport newbie yard to get started, make the items, then return to there to hand in to the judge.  If your skill is still under 100 (but over 50), this is the test you will be given.
+If you are going to make a relatively high level combine, and 170 counts in my opinion, then the tailoring trophy is probably worthwhile.  You need to see Baublie Diggs in West Freeport newbie yard to get started, make the items, then return to there to hand in to the judge.  If your skill is still under 100 (but over 50), this is the test you will be given.
 
 All ingredients listed below are given the quantity required per combine.  I give a shopping list for dropped ingredients only below, which assumes all successful combines.  This requires a low level of smithing skill, and some effort with fishing.
 

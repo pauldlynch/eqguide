@@ -4,7 +4,7 @@ title: Heroic Characters
 ---
 {% include JB/setup %}
 
-You can buy a heroic character for 3,500 SC ($35, without any special offers).  To do this, first create a character (or use an existing one), and press the "Heroic Character" button on the character select screen.  You selected character will instantly become 20% into level 85, with all (almost - not trade skill ones and a few other minor exceptions) spells (rank II) and AAs up to (and including) Underfoot granted, including the trials of Mata Muram and Dragons of Norrath special AAs, but no tradeskill AAs.  You should take note that there are still several AAs from more recent expansions that are available before level 85.
+You can buy a heroic character for 3,500 SC ($35, without any special offers).  To do this, first create a character (or use an existing one), and press the "Heroic Character" button on the character select screen.  You selected character will instantly become 20% into level 85, with all (almost - not trade skill ones and a few other minor exceptions) spells (but only rank I) and AAs up to (and including) Underfoot granted, including the trials of Mata Muram and Dragons of Norrath special AAs, but no tradeskill AAs (or the spell casting subtlety line).  You should take note that there are still several AAs from more recent expansions that are available before level 85.
 
 Upgrading
 ---------
@@ -24,7 +24,7 @@ $35 to SOE is something to think twice about, but has different value to differe
 - two big bags
 - all rank 2 spells
 
-Spells will need replacing as you level, and they aren't (in most cases) a significant upgrade over rank 1; the same goes for skills.  Bags you can buy, either from the Bazaar, with Loyalty points, or with Station Cash.
+Spells will need replacing as you level, and the same goes for skills.  Bags you can buy, either from the Bazaar, with Loyalty points, or with Station Cash.
 
 The bottom line: if you already have a level 70/75/80+ character, you don't get all that much for $35.
 
@@ -61,6 +61,16 @@ These quests are given by Rupkerr and Dark Alchemist Illian:
 
 
 Some quests in the House of Thule Lower Floors should also reward augments.
+
+The partisan quests for House of Thule, lower floors, are from Groot at the entrance, and Researcher Breoro in the first room of the house.
+
+- [The Beast of Rot](http://everquest.allakhazam.com/db/quest.html?quest=5122)
+- [The Beast of the Unknown](http://everquest.allakhazam.com/db/quest.html?quest=5123)
+- [The Beast of Rage](http://everquest.allakhazam.com/db/quest.html?quest=5121)
+- [The Beast of Horror](http://everquest.allakhazam.com/db/quest.html?quest=5120)
+- [Find my Brudders](http://everquest.allakhazam.com/db/quest.html?quest=5146)
+
+If you're doing these, you might as well get the kill tasks for the same general mobs from Ruppoc Rockjumper at the zone in.
 
 The Partisan achievements for Veil of Alaris should be the next stage in progression for your character; in particular start with the two (no killing) quests:
 

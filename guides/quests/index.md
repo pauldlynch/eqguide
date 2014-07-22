@@ -12,18 +12,28 @@ This is taken from [Crystilla's excellent list of quests](http://www.eqclerics.o
 I have tidied the html (considerably) to make it easier to understand and fix a couple of minor errors.
 
 [The Hero's Journey](http://everquest.allakhazam.com/db/quest.html?quest=5553)
-  
-  
-##Veil of Alaris
 
-1. [Guild Trophies](http://rasper.samanna.net/VoA/Trophy.html)
-	- This link shares how to obtain these as well as the reward each trophy offers. It is a guild wise reward which has to be placed in a new guild hall house and turned on in order to receive the benefits.  
-2. [Veil Hunter's Satchel(s)](http://rasper.samanna.net/VoA/Trophy.html)
-	- Midway down this link it shares how to obtain 16, 18, 22, 24 and 28 slot bags.
-3. [Satchel of the Aleran Legend](http://rasper.samanna.net/VoA/Trophy.html) [32 slot bag](http://lucy.allakhazam.com/item.html?id=64186) and [Prismatic Selyrah Saddle](http://lucy.allakhazam.com/item.html?id=64187) raid speed mount with 300 HME 
-	- This shows what you can get for doing everything in the expansion.
-4. [Faycite Shards](http://voa.eqresource.com/type3augs.php) (Type 3 augments - to boost your spells)
-	- This link shows you where to go to buy these.
+##[Call of the Forsaken](http://cotf.eqresource.com/index.php)
+
+1. [Portal attuning tasks](http://everquest.allakhazam.com/search.html?q=portal+activation) - link is a mixed up collection of portal tasks from several expansions, including this one.
+2. Heroic Adventures.
+
+##[Rain of Fear](http://rof.eqresource.com/index.php)
+
+1. [Welcome to Shard's Landing](http://everquest.allakhazam.com/db/quest.html?quest=5978)
+2. [Words of the Unspoken](http://everquest.allakhazam.com/db/quest.html?quest=5979): Alaran language skill to 100.
+3. [Portal attuning tasks](http://everquest.allakhazam.com/search.html?q=portal+activation) - link is a mixed up collection of portal tasks from several expansions, including this one.
+4. [Faycite Shards](http://rof.eqresource.com/type3augs.php) (Type 3 augments - to boost your spells) - This link shows you where to go to buy these.
+5. [Collections](http://everquest.allakhazam.com/wiki/eq:Collection_System): see /achievements window
+
+##[Veil of Alaris](http://voa.eqresource.com/index.php)
+
+0. [Very Small Stone Tear](http://everquest.allakhazam.com/db/item.html?item=100106) evolves into [The Tears of Alaris](http://everquest.allakhazam.com/db/item.html?item=100107) by killing Alerans in Veil of Alaris zones and completing the Pillars quest series.  It is rewarded from [Pillars #1: The First Pilgrimage](http://everquest.allakhazam.com/db/quest.html?quest=5481).
+
+1. [Guild Trophies](http://rasper.samanna.net/VoA/Trophy.html) - This link shares how to obtain these as well as the reward each trophy offers. It is a guild wise reward which has to be placed in a new guild hall house and turned on in order to receive the benefits.  
+2. [Veil Hunter's Satchel(s)](http://rasper.samanna.net/VoA/Trophy.html) - Midway down this link it shares how to obtain 16, 18, 22, 24 and 28 slot bags (by completing hunter achievements in Veil of Alaris).
+3. [Satchel of the Aleran Legend](http://rasper.samanna.net/VoA/Trophy.html) [32 slot bag](http://lucy.allakhazam.com/item.html?id=64186) and [Prismatic Selyrah Saddle](http://lucy.allakhazam.com/item.html?id=64187) raid speed mount with 300 HME - This shows what you can get for doing everything in the expansion.
+4. [Faycite Shards](http://voa.eqresource.com/type3augs.php) (Type 3 augments - to boost your spells) - This link shows you where to go to buy these.
 5. Maps  
 	- [This](http://rasper.samanna.net/HoT/Maps.html) is Rasper's map link.
 	- [This](http://voa.eqresource.com/maps.php) is EQResource's map link.

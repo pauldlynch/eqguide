@@ -91,5 +91,8 @@ As an alternative, you can consider Glowing Reis (from Crushbone and Permafrost 
 
 ##92: Fear Touched
 
-This is similar to the Veil of Alaris tier 1 gear; you need a drop of "Fear Touched" and a Rust-Tinged Box of Fear (class specific, but they all have the same name!) purchased in Shard's Landing from Master Armorer Synlaris.
+This is similar to the Veil of Alaris tier 1 gear; you need a drop of "Fear Touched" and a Rust-Tinged Box of Fear (class specific, but they all have the same name!) purchased in Shard's Landing from Master Armorer Synlaris, which make Boreal armor.  You need to have Rain of Fear to make this set.
 
+##100: Latent Ether
+
+Drops from Call of the Forsaken, and requires access to Call of the Forsaken zones.  You need the appropriate Latent Ether drop, and combine in a class specific Ethereal Attuner.  This is purchased in Ethernere Tainted West Karana from Blacksmith Cerray.
