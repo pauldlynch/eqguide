@@ -4,7 +4,7 @@ title: Heroic Characters
 ---
 {% include JB/setup %}
 
-You can buy a heroic character for 3,500 SC ($35, without any special offers).  To do this, first create a character (or use an existing one), and press the "Heroic Character" button on the character select screen.  You selected character will instantly become 20% into level 85, with all (almost - not trade skill ones and a few other minor exceptions) spells (but only rank I) and AAs up to (and including) Underfoot granted, including the trials of Mata Muram and Dragons of Norrath special AAs, but no tradeskill AAs (or the spell casting subtlety line).  You should take note that there are still several AAs from more recent expansions that are available before level 85.
+You can buy a heroic character for 3,500 SC ($35, without any special offers).  To do this, first create a character (or use an existing one), and press the "Heroic Character" button on the character select screen.  You selected character will instantly become 20% into level 85, with all (almost - not trade skill ones and a few other minor exceptions) spells (but only rank I) and AAs up to (and including) Underfoot granted, including the trials of Mata Muram and Dragons of Norrath special AAs, but no tradeskill AAs (or the spell casting subtlety line).  You should take note that there are still several AAs from more recent expansions that are available before level 85; for example Spell Casting Mastery rank 4.
 
 Upgrading
 ---------
@@ -83,7 +83,7 @@ Class Guides
 There are a number of guides and advice threads posted to various forums that help with those new to the class who have made heroic characters:
 
 - Tank
-	- [Warrior](https://forums.station.sony.com/eq/index.php?threads/can-someone-make-a-heroic-warrior-advice-post.209637/)
+	- [Warrior](https://forums.station.sony.com/eq/index.php?threads/can-someone-make-a-heroic-warrior-advice-post.209637/) and [Back after ten years and 85](https://forums.station.sony.com/eq/index.php?threads/so-im-back-after-10-years-and-85.212402/)
 	- [Paladin](https://forums.station.sony.com/eq/index.php?threads/gone-for-almost-12-years-heroic-paladin-help-please.210620/)
 	- Shadowknight
 - Melee
@@ -93,7 +93,7 @@ There are a number of guides and advice threads posted to various forums that he
 - Hybrid
 	- [Bard](https://forums.station.sony.com/eq/index.php?threads/proper-care-and-feeding-of-heroic-bards.209160/)
 	- Beastlord
-	- Ranger
+	- [Ranger](https://forums.station.sony.com/eq/index.php?threads/ranger-heroic.209497/)
 - Priest
 	- [Cleric](http://www.eqclerics.org/forums/showthread.php?t=36591)
 	- Druid
