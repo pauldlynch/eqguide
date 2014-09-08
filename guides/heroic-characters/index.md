@@ -85,7 +85,7 @@ There are a number of guides and advice threads posted to various forums that he
 - Tank
 	- [Warrior](https://forums.station.sony.com/eq/index.php?threads/can-someone-make-a-heroic-warrior-advice-post.209637/) and [Back after ten years and 85](https://forums.station.sony.com/eq/index.php?threads/so-im-back-after-10-years-and-85.212402/)
 	- [Paladin](https://forums.station.sony.com/eq/index.php?threads/gone-for-almost-12-years-heroic-paladin-help-please.210620/)
-	- Shadowknight
+	- [Shadowknight](https://forums.station.sony.com/eq/index.php?threads/sk-heroic-guide-badly-needed.212935/)
 - Melee
 	- Berserker
 	- Monk
