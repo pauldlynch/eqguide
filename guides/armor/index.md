@@ -85,7 +85,7 @@ There is a set of tier 1 visible gear that is better than Terror Infused, but al
 
 ##85: Rustic
 
-These are a little more complex to acquire: you need a drop item from Veil of Alaris, a template made by players with high trade skills, an adorning agent for your class and a Reliquary of Refinement, both purchased from Yaun in Argath.
+These are a little more complex to acquire: you need a "Rustic" tradeable drop item from Veil of Alaris, a template made by players with high trade skills, an adorning agent for your class and a Reliquary of Refinement, both purchased from Yaun in Argath.
 
 As an alternative, you can consider Glowing Reis (from Crushbone and Permafrost when they are upgraded during the summer Hardcore Heritage events).  However, the Rustic set generally has better stats.
 
@@ -95,4 +95,4 @@ This is similar to the Veil of Alaris tier 1 gear; you need a drop of "Fear Touc
 
 ##100: Latent Ether
 
-Drops from Call of the Forsaken, and requires access to Call of the Forsaken zones.  You need the appropriate Latent Ether drop, and combine in a class specific Ethereal Attuner.  This is purchased in Ethernere Tainted West Karana from Blacksmith Cerray.
+Drops from Call of the Forsaken, and requires access to Call of the Forsaken zones.  You need the appropriate "Latent Ether" drop, and combine in a class specific Ethereal Attuner.  This is purchased in Ethernere Tainted West Karana from Blacksmith Cerray.
