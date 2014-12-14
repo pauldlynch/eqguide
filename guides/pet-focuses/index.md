@@ -51,14 +51,16 @@ I list all the tradable pet focus items for spell level 59 and up, by the level 
 |85|76-100|Enhanced Minion VIII|90|[Whisper-Steel Loop](http://everquest.allakhazam.com/db/item.html?item=100918)|
 |92|76-100|Enhanced Minion XII|110|[Twitching Snood](http://everquest.allakhazam.com/db/item.html?item=108474)|
 |92|76-100|Enhanced Minion XII|110|[Black Vertebrae](http://everquest.allakhazam.com/db/item.html?item=108256)|
+| |81-105|Enhanced Minion XIII|115|[Imprint of the Enhanced Minion](http://everquest.allakhazam.com/db/item.html?item=117741)|
+|100|86-105|Enhanced Minion XVI|130|[Chitin Stud](http://everquest.allakhazam.com/db/item.html?item=121462)|
 
 Notes:
 
-- Shard of the First Minion and Skull of the Spire Servant and summoned by magicians using their cauldron spells.  To use them, first target the character who will be summoning the pet, then click the item (looks like a skull).  The pet summoner will have a buff (duration 3 hours?).  While the buff is active, any pet they summon will be the focused version.
+- Shard of the First Minion, Skull of the Spire Servant, and Imprint of the Enhanced Minion are summoned by magicians using their cauldron spells.  To use them, first target the character who will be summoning the pet, then click the item (looks like a skull).  The pet summoner will have a buff (duration 3 hours?).  While the buff is active, any pet they summon will be the focused version.
 - Energized Wire Coil is purchased from Fenden Helter in Dragonscale Hills for 747 faycetum (and is also a drop, so check the Bazaar)
 - Orb of Servitude is purchased from Alerynril the Loyal in the Plane of Knowledge for 864 Loyalty crowns.
 - 
 
 I am ignoring the [Diamond Prism of Companionship](http://everquest.allakhazam.com/db/item.html?item=23480), because it is only relevant on a Progression server at Lost Dungeons of Norrath.  The same goes for the [Orb of Swarming Darkness](http://everquest.allakhazam.com/db/item.html?item=36665) from Dragons of Norrath.  And again for the various "Summoner's Earrings", which can be purchased in the Plane of Knowledge, as there are much better focuses relatively easily available from other vendors, or by camping them yourself.
 
-Personally, I would start with Drowned Man's Hair, then move on through The Sweeper (easy to camp), the two cauldron summoned oddities, then one of the Shards, Whisper-Steel Loop, Twitching Snood.
+Personally, I would start with Drowned Man's Hair, then move on through The Sweeper (easy to camp), the two cauldron summoned oddities, then one of the Shards, Whisper-Steel Loop, Twitching Snood, Chitin Stud.
