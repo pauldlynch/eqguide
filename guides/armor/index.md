@@ -85,7 +85,7 @@ There is a set of tier 1 visible gear that is better than Terror Infused, but al
 
 ##85: Rustic
 
-These are a little more complex to acquire: you need a "Rustic" tradeable drop item from Veil of Alaris, a template made by players with high trade skills, an adorning agent for your class and a Reliquary of Refinement, both purchased from Yaun in Argath.
+These are a little more complex to acquire: you need a "Rustic" tradeable drop item from Veil of Alaris, a template made by players with high trade skills, an adorning agent for your class and a Reliquary of Refinement, both purchased from Yaun in Argath.  These are significantly better than the tier 2 (no trade) items from HoT.
 
 As an alternative, you can consider Glowing Reis (from Crushbone and Permafrost when they are upgraded during the summer Hardcore Heritage events).  However, the Rustic set generally has better stats.
 
@@ -93,6 +93,8 @@ As an alternative, you can consider Glowing Reis (from Crushbone and Permafrost 
 
 This is similar to the Veil of Alaris tier 1 gear; you need a drop of "Fear Touched" and a Rust-Tinged Box of Fear (class specific, but they all have the same name!) purchased in Shard's Landing from Master Armorer Synlaris, which make Boreal armor.  You need to have Rain of Fear to make this set.
 
-##100: Latent Ether
+##100: Latent Ether/Castaway
 
-Drops from Call of the Forsaken, and requires access to Call of the Forsaken zones.  You need the appropriate "Latent Ether" drop, and combine in a class specific Ethereal Attuner.  This is purchased in Ethernere Tainted West Karana from Blacksmith Cerray.
+Latent Ether drops from Call of the Forsaken, and requires access to Call of the Forsaken zones.  You need the appropriate "Latent Ether" drop, and combine in a class specific Ethereal Attuner.  This is purchased in Ethernere Tainted West Karana from Blacksmith Cerray.
+
+The TDS equivalent is Castaway, which drops and can be bought with Pieces of Eight; access to Katta Castrum: Deluge (tier 1) in TDS is required.  Castaway armor is slightly more powerful than Latent Ether.

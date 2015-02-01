@@ -46,11 +46,11 @@ Consider moving to Goru'kar Mesa around 40, do the [Scout Madu](http://eqbeastia
 
 Fabled Goblin Skull Earring from Fabled Grachnist the Destroyer can be soloed at 40+. Fabled JBoots from 55+, but you can often persuade a higher level to get them for you, if you have the Najena keys required. This obviously only applies during the Anniversary season when Fabled mobs are active (16 March/April each year).
 
-45: collect any Kunark armor clickies that are useful for your class (eg Warrior shrink and invis, shaman nuke, ranger summon arrows and LFay gate). The Bazaar is the obvious starting point.
+45: collect any Kunark armor clickies that are useful for your class (eg Warrior shrink and invis, shaman nuke, ranger summon arrows and LFay gate, etc). The Bazaar is the obvious starting point.
 
 50: consider the Classic EQ class specific spell quest - eg, Coin of Tash, Concussion, Life Leech, Call of Earth, Divine Might, etc. This is more for fun than actual benefit from the spell, which you can now buy in Plane of Knowledge.
 
-Level 46-51: consider doing epic 1.0. Some are very easy given a little help: beastlord, rogue, enchanter, ranger, druid, magician, berserker, shaman, cleric. The rest either have minimal benefit or are still unreasonably hard to complete, for reasons of death touch mobs, or over-camped mobs.
+Level 46-51: consider doing epic 1.0. Some are very easy given a little help: beastlord, rogue, enchanter, ranger, druid, magician, berserker, shaman, cleric. The rest either have minimal benefit or are still unreasonably hard to complete, for reasons of death touch mobs, or over-camped mobs. A level 100+ friend will be able to survive the classic death touches.
 
 ##Levels 50-65
 
@@ -76,6 +76,8 @@ Level 70: weapon augs from DoN camp in Lavastorm. Start DoN faction and progress
 
 Level 70: epic 2.0; will require "raid" (aka one group of friends, no mercs allowed) for the orb, and some fights may not be soloable even with a 95, although this depends on class.
 
+Level 70 (69): Tank/Melee classes should consider collecting a set of AC augs from RSS (Riftseekers Sanctum); these are AC 25/20, and fit wrist, chest, legs, head, hands, arms, feet.
+
 Level 70-75: [Jonas Dagmire Skeletal Hand](http://everquest.allakhazam.com/db/quest.html?quest=4188) quests. Can start the easy ones at 70 (or earlier; some will open up at 65 or 66), finish at 75, possibly with a little help depending on class. Requires a lot of bank space and some expansion currency (80 doubloons; again, see the Loyalty merchant in PoK, but these are easy to earn yourself with the right quests).
 
 Level 70-75: TSS clickies/aug quests. [Dog Whistle](http://everquest.allakhazam.com/db/quest.html?quest=3583) - Icefall. [Necklace of Warportal Fragments](http://everquest.allakhazam.com/db/item.html?item=54208) - Steppes. [Direwolf Totem of Spirit](http://everquest.allakhazam.com/db/quest.html?quest=3610) - Icefall. [Direwolf Totem of Battle](http://everquest.allakhazam.com/db/quest.html?quest=3614) - Icefall. RSS AC augs, for tanks.
@@ -88,7 +90,11 @@ Consider the [Coldain Ring quests](http://everquest.allakhazam.com/db/quest.html
 
 If you are lucky enough to have the Fabled pet weapons, they are usable at 75, and are the best dps weapons until higher end weapons.
 
-Level 75-85: [SoD progression](http://rasper.samanna.net/SoD/index.html). Do as early as possible for the merc upgrades and access to spells. You only need the Warrens progression to get the tier 5 mercs.  Or you can defer to 85 to do the mercenary upgrade quest in Feerrott the Dream, which should be moloable, so is far easier at 85 than Warrens progression. Complete the SoD aug quests if possible. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/db/item.html?item=78813) should be easy, [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) is afflicted by various bugs, so is harder to complete than it should be.
+The fastest experience will come from doing the Franklin Teek daily quests, plus the Call of the Forsaken Heroic Adventures, from level 75 up.  The HAs give reasonable currency rewards, which can be used to buy good armor.
+
+Level 75: level 99 and up magicians can summon augs with good AC (34) that fit in head, shoulders, legs and feet.
+
+Level 75: [SoD progression](http://rasper.samanna.net/SoD/index.html). Do as early as possible for the merc upgrades and access to spells. You only need the Warrens progression to get the tier 5 mercs.  Or you can defer to 85 to do the mercenary upgrade quest in Feerrott the Dream, which should be moloable, so is far easier at 85 than Warrens progression. Complete the SoD aug quests if possible. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/db/item.html?item=78813) should be easy, [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) is afflicted by various bugs, so is harder to complete than it should be.
 
 OMM missions (from Old Man Mackenzie in Plane of Knowledge) are monster missions that send you to Nagafen's Lair or Lower Guk as a level 50 character in 1999 gear. These require a group of average level 80+ to start. Chest rewards when the mission is complete are good, of SoD tier 3 or better equivalent. This is superceded by House of Thule dream mote gear from level 80.
 
@@ -98,9 +104,11 @@ Level 80-85. SoF zone drops - Mechamatic Guardian augs. Armor upgrades come from
 
 Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.  Do the two quests (no killing required): [Welcome to Shard's Landing](http://rof.eqresource.com/welcometoshardslanding.php) and [Words of the Unspoken](http://rof.eqresource.com/wordsoftheunspoken.php), which gives you maximum Alaran language skill.  If you have access to a group, do the Partisan quests for VoA.
 
-This is where Heroic characters will enter, with a full spell book, all AAs up to Underfoot (so some good AAs are still open to get from lower levels), gear, and cash.  They should do the J5 mercenary quest in Feerrott the Dream as soon as possible.  The partisan quests in Feerrott the Dream and House of Thule Lower give a good set of augments. Look for experience grinding in hot zones, in TBS zones (easy), in SoF zones (FM, Beza, Zeka or Mechamatic Guardian), or HoT zones (House of Thule or Feerrott the Dream).  House of Thule has some relatively easy kill quests available at the zone in.
+This is where Heroic characters will enter, with a full spell book, all AAs up to Underfoot (so some good AAs are still open to get from lower levels), gear, and cash.  They should do the J5 mercenary quest in Feerrott the Dream as soon as possible.  The partisan quests in Feerrott the Dream and House of Thule Lower give a good set of augments (for Heroic Characters only, unfortunately). Look for experience grinding in hot zones, in Heroic Adventures, in TBS zones (easy), in SoF zones (FM, Beza, Zeka or Mechamatic Guardian), or HoT zones (House of Thule or Feerrott the Dream).  House of Thule has some relatively easy kill quests available at the zone in.
 
 You can also do the Rain of Fear portal atunement quests from 85.
 
 Level 92: More Bazaar armor upgrades.
+
+Level 100: Yet more Bazaar gear upgrades.  As there is a fairly large nerf on experience as soon as you hit 101, which applies to zones before CotF only, you will either want to AA at 100 so that you can still group with lower levels without killing their experience, or confine yourself to CotF/TDS zones only.
 

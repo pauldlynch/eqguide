@@ -7,6 +7,12 @@ tags : [quests]
 ---
 {% include JB/setup %}
 
+THese are split into three phases:
+
+- Searching For Clues, Saving Santug: the first 5 days, starting around the 10th December
+- Most of the Frostfell quests, starting from around 15th December, to some time in January
+- New Years quests: The Clockwork Party Machine/Old Frostbeard, Time for a Change, All You Need is Luck.  January
+
 #Santug's Stocking (Frostfell 2006)
 
 It's a good idea to collect your Adventurer's Stone for fast travel via the Maguses, if you don't already have one.  If your home city is Crescent Reach, you can start this quest by talking to Vladnelg Galvern sitting outside the upstairs bank.  This quest series should be doable by all over level 10.
@@ -83,7 +89,7 @@ Final reward is [Santug's Stocking](http://everquest.allakhazam.com/db/item.html
 
 M C Tinkerton, in Plane of Knowledge next to the Great Divide stone.  Varies by level, kills in Great Divide.
 
-##[Old Frostbeard]()
+##[Old Frostbeard](http://everquest.allakhazam.com/db/npc.html?id=19893)
 
 Also in Great Divide.  More kills near the centre mountain in the Great Divide.
 
@@ -144,9 +150,9 @@ Assigned by Rellith Akkanar. Collect drops and groundspawn from Fortress Mechano
 
 Reward: [Snowball](http://everquest.allakhazam.com/db/item.html?item=81569)
 
-##[The Frostclaw Lair]() (55-75+)
+##[The Frostclaw Lair](http://everquest.allakhazam.com/db/quest.html?quest=4784) (55-75+)
 
-Kills in a Permafrost instance, varies by level requesting.
+Kills in a Permafrost instance, varies by level requesting.  Follows Presents Lost.
 
 Reward: [Mask of the Grumpy Goblin](http://everquest.allakhazam.com/db/item.html?item=81570)
 
@@ -181,7 +187,7 @@ Starts with Kilna Odenburgh in the Plane of Knowledge, near the Bazaar; requires
 
 ##[Braxi Roundup](http://everquest.allakhazam.com/db/quest.html?quest=6192) (50+)
 
-Starts with Santug Claugg's Helper by the main bank in the Plane of Knowledge.  The zone is level based, from Natimbi, Barren Coast, Oceangreen Village, Loping Plains, Brell's Rest, Feerrott the Dream, Sarith, Beasts' Domain.  You need to gather various items (purchased and created by players) and do some fighting.
+Starts with Santug Claugg's Helper by the main bank in the Plane of Knowledge.  The zone is level based, from Natimbi (level 50), Barren Coast, Oceangreen Village, Loping Plains, Brell's Rest, Feerrott the Dream, Sarith, Beasts' Domain.  You need to gather various items (purchased and created by players) and do some fighting.  You can shroud down for this.
 
 Rewards: a choice of Snowstorm weapon ornaments.
 

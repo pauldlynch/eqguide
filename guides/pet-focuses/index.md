@@ -57,6 +57,7 @@ I list all the tradable pet focus items for spell level 59 and up, by the level 
 Notes:
 
 - Shard of the First Minion, Skull of the Spire Servant, and Imprint of the Enhanced Minion are summoned by magicians using their cauldron spells.  To use them, first target the character who will be summoning the pet, then click the item (looks like a skull).  The pet summoner will have a buff (duration 3 hours?).  While the buff is active, any pet they summon will be the focused version.
+- Imprint of the Enhanced Minion: although EMXIII claims to work from pet spell level 81 and up, it probably really only affects 86+.
 - Energized Wire Coil is purchased from Fenden Helter in Dragonscale Hills for 747 faycetum (and is also a drop, so check the Bazaar)
 - Orb of Servitude is purchased from Alerynril the Loyal in the Plane of Knowledge for 864 Loyalty crowns.
 - 
