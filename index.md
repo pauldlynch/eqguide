@@ -22,13 +22,16 @@ New Players
 Repeating Events
 ----------------
 
+- [Frostfell Quests](guides/frostfell), December/January
+- [Erollisi's Day](guides/erollisi), February
+
 - Everquest Anniversary (16 March - 16 April every year)
 	- [Anniversary Quests](guides/anniversary-quests)
 	- [Fabled Mobs](guides/fabled-mobs)
 	- [Fabled Pet Weapons](guides/fabled-pet-weapons)
 
 - [Hardcore Heritage](guides/hardcore-heritage) (Summer zone revamps)
-- [Frostfell Quests](guides/frostfell)
+
 
 General Information
 -------------------
