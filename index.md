@@ -24,6 +24,7 @@ Repeating Events
 
 - [Frostfell Quests](guides/frostfell), December/January
 - [Erollisi's Day](guides/erollisi), February
+- [Bristlebane Day](guides/bristlebane), March
 
 - Everquest Anniversary (16 March - 16 April every year)
 	- [Anniversary Quests](guides/anniversary-quests)
