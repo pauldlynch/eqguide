@@ -1,8 +1,8 @@
---- 
+---
 layout: page 
 title: "Anniversary Quests" 
 group : guide 
---- 
+---
 {% include JB/setup %} 
 
 Started at the fifth anniversary, these are all activated every year (so far). Before then there were various special events that
@@ -108,17 +108,16 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
 	- [A Ranger's Tale](http://everquest.allakhazam.com/db/quest.html?quest=7504) from Sarissa
 	- [What Happens In Neriak...](http://everquest.allakhazam.com/db/quest.html?quest=7501) from Sayden G'Noir in Nektulos Forest
 
-Most missions require level 100, and give a mission specific reward as well as currency that can be spent at [a jubilant merchant](http://everquest.allakhazam.com/db/npc.html?id=46622) in Plane of Knowledge.  There should also be a mission and raid for the Plane of War, which may or may not be restricted to the Anniversary time.	
 
+- Sixteenth Anniversary (2015)
+  - [Belle of the Ball](http://everquest.allakhazam.com/db/quest.html?quest=8019) Zantog, the Greatest in the Plane of Knowledge
+  - [Cleansing the Ground](http://everquest.allakhazam.com/db/quest.html?quest=8020) The Butler in House of Thule
+  - [Dead Dragons](http://everquest.allakhazam.com/db/quest.html?quest=8021) Ankra in the Plane of Knowledge
+  - [Korukust's Royal Pain](http://everquest.allakhazam.com/db/quest.html?quest=8022) Agent Seudavenaa in the Plane of Knowledge
+  - [Liquid Courage](http://everquest.allakhazam.com/db/quest.html?quest=8023) Flaming Sword of War in the Plane of Tranquility
+  - [Pirates of Timorous](http://everquest.allakhazam.com/db/quest.html?quest=8024) Deep Captain Jack Aviak in the Plane of Knowledge
+  - [Pub Crawl](http://everquest.allakhazam.com/db/quest.html?quest=8025) Brasse in the Plane of Knowledge
 
-##Easter Quest
+Most (recent) missions require level 100, and give a mission specific reward as well as currency (Commemorative Coins) that can be spent at [a jubilant merchant](http://everquest.allakhazam.com/db/npc.html?id=46622) in Plane of Knowledge.  There should also be a mission and raid for the Plane of War, which may or may not be restricted to the Anniversary time.  There is an achievement given for each year's anniversary tasks; 13th, 15th and 16th have an additional achivement for completing the bonus stage in each task.
 
-This was live for Easter in April 2011, and came at the end of Fabled month in 2012, so I'm going to call it an Anniversary quest; I will separate it out if it seems appropriate, like if any more quests are added.
-
-- [The Origin of the Cuniculus](http://everquest.allakhazam.com/db/quest.html?quest=5311)
-
-The quest is given by Grundle Cogwelder, behind the soulbinder in the Plane of Knowledge.  Collect eight ground spawn eggs from fixed points in the Plane of Knowledge, Qeynos Hills, West Karana and South Karana.  Each zone has four of the egg types that you need, but the types may overlap between zones.  There are many spawn points in the Plane of Knowledge, but fewer in the others.  In Qeynos Hills, around the Sayers house, at the entrance to Blackburrow, and in the undead ruins.  In West Karana, look in the guard towers and in and around the barbarian fishing village.
-
-The reward is:
-
-- [Madness of Stomple](http://everquest.allakhazam.com/db/item.html?item=97153)
+The merchant sells a large bag, a mount, food, fireworks, and various buff clickies.
