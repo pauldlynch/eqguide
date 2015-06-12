@@ -19,6 +19,8 @@ New Players
 
 - [Heroic Characters](guides/heroic-characters)
 
+- [Classic](guides/classic) (for Progression servers)
+
 Repeating Events
 ----------------
 
