@@ -98,7 +98,7 @@ There are a number of guides and advice threads posted to various forums that he
 	- Monk
 	- [Rogue](https://forums.station.sony.com/eq/index.php?threads/heroic-rogue.209297/)
 - Hybrid
-	- [Bard](https://forums.station.sony.com/eq/index.php?threads/proper-care-and-feeding-of-heroic-bards.209160/)
+	- [Bard](https://forums.station.sony.com/eq/index.php?threads/proper-care-and-feeding-of-heroic-bards.209160/); worth looking at [EQ Bard Charm Kiting Guide and Other Info](https://forums.station.sony.com/eq/index.php?threads/eq-bard-charm-kiting-guide-and-other-info.1288/) as well
 	- [Beastlord](https://forums.station.sony.com/eq/index.php?threads/heroic-beastlord-guide.218894/#post-3187548) and [here](http://www.reddit.com/r/everquest/comments/20b8ml/we_have_a_paladin_thread_for_returning_heroic/)
 	- [Ranger](https://forums.station.sony.com/eq/index.php?threads/ranger-heroic.209497/)
 - Priest
@@ -109,7 +109,7 @@ There are a number of guides and advice threads posted to various forums that he
 	- [Enchanter](https://forums.station.sony.com/eq/index.php?threads/heroic-level-85-enchanter-advice.209140/)
 	- [Magician](https://forums.station.sony.com/eq/index.php?threads/returning-player-85-heroic-mage-need-help.209645/)
 	- [Necromancer](http://www.necrotalk.com/showthread.php?t=12621)
-	- [Wizard](https://forums.station.sony.com/eq/index.php?threads/wizard-heroic-character-guide.209212/)
+	- [Wizard](https://forums.station.sony.com/eq/index.php?threads/wizard-heroic-character-guide.209212/)and [Lvl 92 Wizard Advice?](https://forums.station.sony.com/eq/index.php?threads/lvl-92-wizard-advice.213846/).
 
 For further information on heroic enchanters, take a look at Dandin's introductory videos on YouTube.  Links follow:
 
