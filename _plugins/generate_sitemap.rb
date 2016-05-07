@@ -86,7 +86,7 @@ module Jekyll
 
         # Use the user-specified permalink if one is given.
         if page.permalink
-          path = page.permalink
+          path = page.permalink/
         else
           # Be smart about the output filename.
           path.gsub!(/.md$/, ".html")
