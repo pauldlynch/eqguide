@@ -68,6 +68,7 @@ And the big monster chain quests:
 Sidetracks
 ----------
 
+- [Tradeskills Basics](guides/tradeskills)
 - [Alchemy for Beginners](guides/alchemy)
 - [Tailoring for Beginners](guides/tailoring)
 - [The Hollowshade War](guides/hollowshade-war)

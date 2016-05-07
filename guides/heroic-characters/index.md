@@ -106,7 +106,7 @@ There are a number of guides and advice threads posted to various forums that he
 	- Druid
 	- [Shaman](http://crucible.samanna.net/viewtopic.php?f=6&t=11779) and [here](https://forums.station.sony.com/eq/index.php?threads/heroic-85-shaman-guide.218746/)
 - Caster
-	- [Enchanter](https://forums.station.sony.com/eq/index.php?threads/heroic-level-85-enchanter-advice.209140/)
+	- [Enchanter](https://forums.station.sony.com/eq/index.php?threads/heroic-level-85-enchanter-advice.209140/) and [soloing](https://forums.daybreakgames.com/eq/index.php?threads/new-lvl-85-heroic-enchanter-charming-and-soloing.210181/)
 	- [Magician](https://forums.station.sony.com/eq/index.php?threads/returning-player-85-heroic-mage-need-help.209645/)
 	- [Necromancer](http://www.necrotalk.com/showthread.php?t=12621)
 	- [Wizard](https://forums.station.sony.com/eq/index.php?threads/wizard-heroic-character-guide.209212/)and [Lvl 92 Wizard Advice?](https://forums.station.sony.com/eq/index.php?threads/lvl-92-wizard-advice.213846/).
