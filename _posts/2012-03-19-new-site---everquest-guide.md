@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "New Site - Everquest Guide"
-category: 
+category:
 tags: []
 ---
 {% include JB/setup %}
 
-Welcome to Everquest Guide.  I've been running the Newbie Zone FAQ site for a couple of years, which concentrates strictly on frequently asked questions from [The Newbie Zone](http://forums.station.sony.com/eq/forums/show.m?forum_id=2) forum section on the official SOE Everquest forums.
+Welcome to Everquest Guide.  I've been running the Newbie Zone FAQ site for a couple of years, which concentrates strictly on frequently asked questions from [The Newbie Zone](http://forums.daybreakgames.com/eq/forums/show.m?forum_id=2) forum section on the official SOE Everquest forums.
 
 Now that SOE has launched the Free to Play option for Everquest, it is time for a new series of articles for new and returning players.  Some of the content will be borrowed from the FAQ, some from my other Everquest blog, but most will be original articles written for here.
 

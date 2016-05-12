@@ -1,18 +1,18 @@
 ---
-layout: page 
-title: "Fabled Mobs for Newbies" 
-group : guide 
+layout: page
+title: "Fabled Mobs for Newbies"
+group : guide
 ---
-{% include JB/setup %} 
+{% include JB/setup %}
 
-Taken from [Fabled Mobs for Newbies](http://forums.station.sony.com/eq/posts/list.m?topic_id=109011), by Rawlden. This almost certainly isn't complete; some mobs may never have been triggered during previous Fabled runs.
+Taken from [Fabled Mobs for Newbies](http://forums.daybreakgames.com/eq/posts/list.m?topic_id=109011), by Rawlden. This almost certainly isn't complete; some mobs may never have been triggered during previous Fabled runs.
 
 The basic principle of Fableds is simple: every year, for just over one month starting at EQ's anniversary (16th March - 26th April), all previous Fableds may spawn, as well as Fableds taken from the next expansion in line. So far (2008) up to Planes of Power has been covered, and that's all that will be. A Fabled is some notorious mob from the expansion, which at the time had highly desired loot; it is bumped up in level, given special powers, and the loot is improved. The original mob may spawn, or the Fabled version. Generally speaking, most fableds are more powerful than their level would suggest. If you are legitimately hunting in a zone, and see a fabled, it will be red, and it will kill you; so don't bother. If you are lucky, someone high level may come along and kill it for bragging rights, leaving you the loot. Or not. Some zones should be entirely avoided for experience if they can spawn Fableds; in others you can work around the problem.
 
 The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everquest.allakhazam.com/db/item.html?item=27236) from Fabled Drelzna in Najena, although [Grachnist's Earring](http://everquest.allakhazam.com/db/item.html?item=35054) is nice (insta-clickie), and the few augments are nice as well, although most are slot 7 only (this isn't likely to be a problem for a newbie). For a low level melee, the [Fabled Frozen Long Sword](http://everquest.allakhazam.com/db/item.html?item=47753) is the best accessible weapon; and the [Fabled Gore Covered Horn](http://everquest.allakhazam.com/db/item.html?item=67477) is probably the best piercer. I'm going to post the available Fabled mobs, and their drop, in level ranges up to 65 (I have now extended this to cover all known Fableds). If you have the support required to get higher level Fableds, then take a look at things like the Fabled Ring of the Shissar (groupable at 70-75), and the drops from the BoT wing bosses, which should all be groupable (at 80).
 
 #Table of Contents
-* toc list 
+* toc list
 {:toc}
 
 ##Fabled 1-39 {#newbie}

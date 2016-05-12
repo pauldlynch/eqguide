@@ -11,11 +11,11 @@ At 15 you will be forcibly expelled to the Plane of Knowledge, and you can't ree
 
 This latest version of Mines of Gloomingdeep has been revised for the launch of Free To Play.  Changes are to add a new quest that links together all the main quests in the zone; a few new NPCs are added to explain topics that were omitted before; and some of the gear drops are updated to be identical to Defiant.  In addition, there are new items on the vendors (Gate spell, hurray!), and there is now a mercenary liaison in the zone.
 
-Gloomingdeep was originally taken from Everquest sometime around the Dragons of Norrath era; although there was an earlier version with much less content and a simpler layout, and some other aspects are obviously added from Depths of Darkhollow. There are only a few potions (Divine and Celestial Healing I and II), ... There are also no guild masters, so you can’t spend training points.  
+Gloomingdeep was originally taken from Everquest sometime around the Dragons of Norrath era; although there was an earlier version with much less content and a simpler layout, and some other aspects are obviously added from Depths of Darkhollow. There are only a few potions (Divine and Celestial Healing I and II), ... There are also no guild masters, so you can’t spend training points.
 
 **Installation**
 
-Install using the [Everquest Launcher](http://launch.soe.com/everquest/); the size (of EQ, not the Launcher) is approximately 8 GB, so allow time for it to come down.  This launcher is significantly faster than older Everquest patchers.
+Install using the [Everquest Launcher](http://launch.daybreakgames.com/installer/EQ_setup.exe); the size (of EQ, not the Launcher) is approximately 12 GB, so allow time for it to come down.  This launcher is significantly faster than older Everquest patchers.
 
 **and… Installation Problems**
 
@@ -291,11 +291,11 @@ This is the one quest that binds all the other quests together, and has too many
 
 **Other Rare Named Mobs**
 
-Rufus – grey rat, level 3. Drops range items; PH cave rats  
-Sliver – kobold, 7 or higher  
-Selandoor – kobold, probably level 8  
-Brokenclaw – kobold; level 8.  
-Ratasaurus - up to level 7; PH is diseased rats  
+Rufus – grey rat, level 3. Drops range items; PH cave rats
+Sliver – kobold, 7 or higher
+Selandoor – kobold, probably level 8
+Brokenclaw – kobold; level 8.
+Ratasaurus - up to level 7; PH is diseased rats
 Pox - kobold caster
 
 **Tips for Gloomingdeep**
@@ -308,17 +308,17 @@ Pox - kobold caster
 
 **Bugs**
 
-No fire beetle eyes (for druid Flame Lick, etc).  
+No fire beetle eyes (for druid Flame Lick, etc).
 No snake scales for shaman/beastlord Scale Skin.
 Gloomingdeep counts as indoors, so Camouflage and Harmony don’t work; but Spirit of Wolf does.
 
 **Useful Customisations**
 
-- Use the Options panel (alt-o) to turn off – auto-duck and, if you prefer, turn off show helm.  
-- I also turn off Voice Chat in the Options window, as it never works for me.  
-- “/assist off” to disable auto-attack on /assist.  
-- "/toggleinspect off" stops you from inspecting yourself by clicking.  
-- Rebind attack key from q to something better (I like num pad 0); again, in the Options panel.  
-- Put forage/track on movement key binding.  
-- Hot keys for bind wound, /open and hide/sneak/forage if you have them.  
+- Use the Options panel (alt-o) to turn off – auto-duck and, if you prefer, turn off show helm.
+- I also turn off Voice Chat in the Options window, as it never works for me.
+- “/assist off” to disable auto-attack on /assist.
+- "/toggleinspect off" stops you from inspecting yourself by clicking.
+- Rebind attack key from q to something better (I like num pad 0); again, in the Options panel.
+- Put forage/track on movement key binding.
+- Hot keys for bind wound, /open and hide/sneak/forage if you have them.
 - F11 to show the lag meter.

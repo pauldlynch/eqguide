@@ -9,7 +9,7 @@ You can buy a heroic character for 3,500 SC ($35, without any special offers).  
 Upgrading
 ---------
 
-If you have an existing character, you can go through the same process and upgrade to a Heroic character.  The advantages are that you will get a ton of AAs, bringing the total to over 4,000 for most if not all classes, and the opportunity to get a Journeyman tier 5 mercenary super easy (this quest is available to any character, not just heroics), as well as the decent augment set from the House of Thule tier 1 partisan quests.  The gear, perhaps surprisingly, is weak compared to available Bazaar gear - 800-900 HME versus 1,200-1,300  for Rustic (from Veil of Alaris) or Glowing Reis.  Heroic is equivalent to the tier 1 House of Thule gear. 
+If you have an existing character, you can go through the same process and upgrade to a Heroic character.  The advantages are that you will get a ton of AAs, bringing the total to over 4,000 for most if not all classes, and the opportunity to get a Journeyman tier 5 mercenary super easy (this quest is available to any character, not just heroics), as well as the decent augment set from the House of Thule tier 1 partisan quests.  The gear, perhaps surprisingly, is weak compared to available Bazaar gear - 800-900 HME versus 1,200-1,300  for Rustic (from Veil of Alaris) or Glowing Reis.  Heroic is equivalent to the tier 1 House of Thule gear.
 
 If you character is over level 85 already, there is a small advantage to using the heroic upgrade: getting all the skills maxxed and the two bags.
 
@@ -90,26 +90,26 @@ Class Guides
 There are a number of guides and advice threads posted to various forums that help with those new to the class who have made heroic characters:
 
 - Tank
-	- [Warrior](https://forums.station.sony.com/eq/index.php?threads/can-someone-make-a-heroic-warrior-advice-post.209637/) and [Back after ten years and 85](https://forums.station.sony.com/eq/index.php?threads/so-im-back-after-10-years-and-85.212402/)
-	- [Paladin](https://forums.station.sony.com/eq/index.php?threads/gone-for-almost-12-years-heroic-paladin-help-please.210620/)
-	- [Shadowknight](https://forums.station.sony.com/eq/index.php?threads/sk-heroic-guide-badly-needed.212935/)
+	- [Warrior](https://forums.daybreakgames.com/eq/index.php?threads/can-someone-make-a-heroic-warrior-advice-post.209637/) and [Back after ten years and 85](https://forums.daybreakgames.com/eq/index.php?threads/so-im-back-after-10-years-and-85.212402/)
+	- [Paladin](https://forums.daybreakgames.com/eq/index.php?threads/gone-for-almost-12-years-heroic-paladin-help-please.210620/)
+	- [Shadowknight](https://forums.daybreakgames.com/eq/index.php?threads/sk-heroic-guide-badly-needed.212935/)
 - Melee
 	- Berserker
 	- Monk
-	- [Rogue](https://forums.station.sony.com/eq/index.php?threads/heroic-rogue.209297/)
+	- [Rogue](https://forums.daybreakgames.com/eq/index.php?threads/heroic-rogue.209297/)
 - Hybrid
-	- [Bard](https://forums.station.sony.com/eq/index.php?threads/proper-care-and-feeding-of-heroic-bards.209160/); worth looking at [EQ Bard Charm Kiting Guide and Other Info](https://forums.station.sony.com/eq/index.php?threads/eq-bard-charm-kiting-guide-and-other-info.1288/) as well
-	- [Beastlord](https://forums.station.sony.com/eq/index.php?threads/heroic-beastlord-guide.218894/#post-3187548) and [here](http://www.reddit.com/r/everquest/comments/20b8ml/we_have_a_paladin_thread_for_returning_heroic/)
-	- [Ranger](https://forums.station.sony.com/eq/index.php?threads/ranger-heroic.209497/)
+	- [Bard](https://forums.daybreakgames.com/eq/index.php?threads/proper-care-and-feeding-of-heroic-bards.209160/); worth looking at [EQ Bard Charm Kiting Guide and Other Info](https://forums.daybreakgames.com/eq/index.php?threads/eq-bard-charm-kiting-guide-and-other-info.1288/) as well
+	- [Beastlord](https://forums.daybreakgames.com/eq/index.php?threads/heroic-beastlord-guide.218894/#post-3187548) and [here](http://www.reddit.com/r/everquest/comments/20b8ml/we_have_a_paladin_thread_for_returning_heroic/)
+	- [Ranger](https://forums.daybreakgames.com/eq/index.php?threads/ranger-heroic.209497/)
 - Priest
 	- [Cleric](http://www.eqclerics.org/forums/showthread.php?t=36591)
 	- Druid
-	- [Shaman](http://crucible.samanna.net/viewtopic.php?f=6&t=11779) and [here](https://forums.station.sony.com/eq/index.php?threads/heroic-85-shaman-guide.218746/)
+	- [Shaman](http://crucible.samanna.net/viewtopic.php?f=6&t=11779) and [here](https://forums.daybreakgames.com/eq/index.php?threads/heroic-85-shaman-guide.218746/)
 - Caster
-	- [Enchanter](https://forums.station.sony.com/eq/index.php?threads/heroic-level-85-enchanter-advice.209140/) and [soloing](https://forums.daybreakgames.com/eq/index.php?threads/new-lvl-85-heroic-enchanter-charming-and-soloing.210181/)
-	- [Magician](https://forums.station.sony.com/eq/index.php?threads/returning-player-85-heroic-mage-need-help.209645/)
+	- [Enchanter](https://forums.daybreakgames.com/eq/index.php?threads/heroic-level-85-enchanter-advice.209140/) and [soloing](https://forums.daybreakgames.com/eq/index.php?threads/new-lvl-85-heroic-enchanter-charming-and-soloing.210181/)
+	- [Magician](https://forums.daybreakgames.com/eq/index.php?threads/returning-player-85-heroic-mage-need-help.209645/)
 	- [Necromancer](http://www.necrotalk.com/showthread.php?t=12621)
-	- [Wizard](https://forums.station.sony.com/eq/index.php?threads/wizard-heroic-character-guide.209212/)and [Lvl 92 Wizard Advice?](https://forums.station.sony.com/eq/index.php?threads/lvl-92-wizard-advice.213846/).
+	- [Wizard](https://forums.daybreakgames.com/eq/index.php?threads/wizard-heroic-character-guide.209212/)and [Lvl 92 Wizard Advice?](https://forums.daybreakgames.com/eq/index.php?threads/lvl-92-wizard-advice.213846/).
 
 For further information on heroic enchanters, take a look at Dandin's introductory videos on YouTube.  Links follow:
 
@@ -135,4 +135,3 @@ Dandin Mindfire's Heroic Enchanter Videos
 - [Mercenary tutorial](http://www.youtu.be/ffn6MZojuQU)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ffn6MZojuQU" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-

@@ -8,7 +8,7 @@ This is a guide for current and returning players, who may be mystified as to wh
 
 I am writing this assuming that you have access to help (a guild, a friend, or a high level character), a decent amount of platinum (from the same sources, from the Loyalty vendor, or just work for it yourself - it's easy enough to do), and want to know what is useful to get and when to get it, without being a complete spendthrift. For spells and tomes, you need to do your own research to find out what you need, then collect from the Bazaar, find as drops, or make (with research) as required; all spells up to level 70 are available in the Library in the Plane of Knowledge, and rank 1 spells from 71 to 90 (with some minor exceptions that are probably mistakes). The idea is that I have listed most items at the point that either: can be soloed - or - where they are most useful, if you can get them. It's up to you to decide which I mean. This will work for starting from scratch, or for a returning character that is obviously under-equipped.
 
-You can install Everquest using the [Everquest Launchpad](http://launch.soe.com/everquest/). Make sure that you have updated maps from [Mapfiend](http://www.mapfiend.net/) and [EQResource](http://hot.eqresource.com/maps.php) installed.  The EQResource maps are per expansion starting with House of Thule.
+You can install Everquest using the [Everquest Launchpad](http://launch.daybreakgames.com/installer/EQ_setup.exe). Make sure that you have updated maps from [Mapfiend](http://www.mapfiend.net/) and [EQResource](http://hot.eqresource.com/maps.php) installed.  The EQResource maps are per expansion starting with House of Thule.
 
 If you left when EQ2/WoW was launched, then please read [Returning from 2004](http://www.paullynch.org/eqblog/?p=373) - it covers the big differences.
 
@@ -111,4 +111,3 @@ You can also do the Rain of Fear portal atunement quests from 85.
 Level 92: More Bazaar armor upgrades.
 
 Level 100: Yet more Bazaar gear upgrades.  As there is a fairly large nerf on experience as soon as you hit 101, which applies to zones before CotF only, you will either want to AA at 100 so that you can still group with lower levels without killing their experience, or confine yourself to CotF/TDS zones only.
-
