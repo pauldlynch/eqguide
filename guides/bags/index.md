@@ -1,7 +1,7 @@
 ---
-layout: page 
-title: "Easy Bags" 
-group : guide 
+layout: page
+title: "Easy Bags"
+group : guide
 ---
 {% include JB/setup %}
 
@@ -17,13 +17,13 @@ If you have some trade skills, then the trade skill trophies can all summon temp
 
 You can also buy from players a large bag that holds only tradeskill items [Extraplanar Trade Satchel](http://everquest.allakhazam.com/db/item.html?item=104079).  This is 100% WR and holds 32 items/stacks.  With the numbers of trade skill drops that have resale value, this is a worthwhile purchase when you can afford it (currently selling for 2.5kpp on Antonius Bayle).  The bag isn't lore, but, unless you are very heavily into tradeskill farming, one is enough.
 
-##Quests
+## Quests
 
 - [Sturdy Traveller's Pack](http://everquest.allakhazam.com/db/item.html?item=103902)
 Level 1: just do the Bazaar quest from Secalna Galnor in the Plane of Knowledge.
 
 - [Featherweight Satchel of the Courier](http://everquest.allakhazam.com/db/item.html?item=100133)
-From [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522) quest, which requires you to have completed both [Postmaster's Challenge](http://everquest.allakhazam.com/db/quest.html?quest=5521) and [The Nonad Brothers](http://everquest.allakhazam.com/db/quest.html?quest=5300).  No killing required, so level 1 with 'good' faction.  I have a full walk through of this quest [here](courier-of-favor.html).
+From [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522) quest, which requires you to have completed both [Postmaster's Challenge](http://everquest.allakhazam.com/db/quest.html?quest=5521) and [The Nonad Brothers](http://everquest.allakhazam.com/db/quest.html?quest=5300).  No killing required, so level 1 with 'good' faction.  I have a full walk through of this quest [here](courier-of-favor/).
 
 - [Ore Hauler's Haversack](http://everquest.allakhazam.com/db/item.html?item=53422) quest from Smithy Bronson in Crescent Reach
 - [Santug's Stocking](http://everquest.allakhazam.com/db/item.html?item=55250) Frostfell quest reward
@@ -34,7 +34,7 @@ From [Courier of Favor](http://everquest.allakhazam.com/db/quest.html?quest=5522
 - [Vrald's Silken Sack](http://everquest.allakhazam.com/db/item.html?item=69937) from quest [Vrald's Lost Brother](http://everquest.allakhazam.com/db/quest.html?quest=4355) in Loping Plains
 - [Braided Horsehair Handbag](http://everquest.allakhazam.com/db/item.html?item=51328) from quest [Beat the Taskmistress](http://everquest.allakhazam.com/db/quest.html?quest=2907) in Riwwi, part of a raid event
 
-##Claims
+## Claims
 
 - [Dreamweave Satchel](http://everquest.allakhazam.com/db/item.html?item=90052) and [Ethereal Dreamweave Satchel](http://everquest.allakhazam.com/db/item.html?item=90065).
 Claim items: one per character, associated with purchase of House of Thule expansion.
@@ -47,7 +47,7 @@ Claims from purchase of Veil of Alaris.
 - [Collector's Dimensional Case](http://everquest.allakhazam.com/db/item.html?item=106323) Rain of Fear, for collectable items only
 - [Honeycomb Satchel](http://everquest.allakhazam.com/db/item.html?item=113378) Call of the Forsaken
 
-##Marketplace
+## Marketplace
 
 - [Weapon Crate of the Mercenary](http://everquest.allakhazam.com/db/item.html?item=95621)
 - [Supply Chest of the Mercenary](http://everquest.allakhazam.com/db/item.html?item=95623)
@@ -57,7 +57,7 @@ Claims from purchase of Veil of Alaris.
 
 Prices vary when SOE put on a special promotion.  For any spending in the marketplace, try to make use of promotions selling Station Cash - there reasonably often are double cash days, and infrequently there will be a triple cash day.  Also watch out for reseller specific (e.g. Walmart or Game) cards that give bonus cash.  It may be cheaper to buy cards and redeem them than it is to buy Station Cash directly from SOE, although this can depend on currency exchange rates.
 
-##Tailoring
+## Tailoring
 
 - [Hand Made Backpack](http://everquest.allakhazam.com/db/item.html?item=2591)
 - [Tae Ew Hide Sack](http://everquest.allakhazam.com/db/item.html?item=18505)
@@ -66,7 +66,7 @@ Prices vary when SOE put on a special promotion.  For any spending in the market
 
 Plus many more; if you don't do trade skills, you should be able to pick these up in the Bazaar.
 
-##Vendor
+## Vendor
 
 - [Deluxe Toolbox](http://everquest.allakhazam.com/db/item.html?item=6205)
 - [Trader's Satchel](http://everquest.allakhazam.com/db/item.html?item=8748)
@@ -77,7 +77,7 @@ Plus many more; if you don't do trade skills, you should be able to pick these u
 
 You can buy currency in the Bazaar, or from the Loyalty vendor.  There are a large number of different bags on the Loyalty vendor, but they change regularly so that she only sells one of them at a time.
 
-##Drops
+## Drops
 
 - [Backpack](http://everquest.allakhazam.com/db/item.html?item=2364)
 - [Nugrud's Satchel](http://everquest.allakhazam.com/db/item.html?item=19198)
@@ -99,7 +99,7 @@ You can buy currency in the Bazaar, or from the Loyalty vendor.  There are a lar
 - [Forager Bag](http://everquest.allakhazam.com/db/item.html?item=2461)
 
 
-##Fabled Bags
+## Fabled Bags
 
 - [Fabled Backpack](http://everquest.allakhazam.com/db/item.html?item=67307)
 - [Fabled Bag of Sewn Evil-Eye](http://everquest.allakhazam.com/db/item.html?item=27200)

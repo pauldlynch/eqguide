@@ -11,7 +11,7 @@ If you look up pet focuses on ZAM, you will see that they all have a "pet power"
 
 From 61 onwards, having a pet focus becomes more and more important for magicians.  Necromancers don't place so much emphasis on pets until close to max level, when they start to need to camp named for gear much more, and beastlords fall somewhere in between.  Some of the 60s beastlord pets don't focus, which seems to be a bug.
 
-##Focuses for Levels 1 to 59
+## Focuses for Levels 1 to 59
 
 Focuses for low level pets are only available for magicians, from the Najena/Temple of Solusek Ro quests.  As low levels pass so fast, these can be ignored.  They affect pets from spell level 4 to spell level 49.
 
@@ -22,11 +22,11 @@ Focuses for low level pets are only available for magicians, from the Najena/Tem
 
 Focuses for pets 49-60 are rare drops from the Plane of Hate, Phinigel Autropos in Kedge Keep, and from a Plane of Sky quest.  Again, these are mage only.  There is an extremely rare drop from the Ashenbone Broodmaster in Hate, the [Encyclopedia Necrotheurgia](http://everquest.allakhazam.com/db/item.html?item=2288), for necromancer pets, spell levels 48-60.
 
-##Magician Epic 1.0
+## Magician Epic 1.0
 
 The magician epic is a spell ([Summon Orb](http://everquest.allakhazam.com/db/item.html?item=9294), level 46) that summons a primary weapon ([Orb of Mastery](http://everquest.allakhazam.com/db/item.html?item=3750)), that casts a spell ([Manifest Elements](http://everquest.allakhazam.com/db/spell.html?spell=1936)) with an effective level of 59, that summons a pet.  This "effective level" determines what focuses will affect the epic pet; the Enchanted Harpy Blade can be equipped at 53, and Drowned Man's Hair at 55, and they both work for spell levels 59 to 75, and hence work on the epic pet while it is still worth using.
 
-##Higher Pet Focuses
+## Higher Pet Focuses
 
 From 59 and above, all pet focus items are available to all three pet classes, and from 75 and above these are all ear items, with some minor exceptions (augments and the rather strange Skull of the Spire Servant and Shard of the First Minion).
 
@@ -60,7 +60,7 @@ Notes:
 - Imprint of the Enhanced Minion: although EMXIII claims to work from pet spell level 81 and up, it probably really only affects 86+.
 - Energized Wire Coil is purchased from Fenden Helter in Dragonscale Hills for 747 faycetum (and is also a drop, so check the Bazaar)
 - Orb of Servitude is purchased from Alerynril the Loyal in the Plane of Knowledge for 864 Loyalty crowns.
-- 
+-
 
 I am ignoring the [Diamond Prism of Companionship](http://everquest.allakhazam.com/db/item.html?item=23480), because it is only relevant on a Progression server at Lost Dungeons of Norrath.  The same goes for the [Orb of Swarming Darkness](http://everquest.allakhazam.com/db/item.html?item=36665) from Dragons of Norrath.  And again for the various "Summoner's Earrings", which can be purchased in the Plane of Knowledge, as there are much better focuses relatively easily available from other vendors, or by camping them yourself.
 

@@ -12,7 +12,7 @@ Tailoring for Beginners
 I have added this because I have been trying to work my way through the Goru'kar Mesa quests, which require several trade skills, mostly notably tailoring.  The master reference is, as usual,  <a href="http://mboards.eqtraders.com/eq/showthread.php?33385-Complete-Tradeskill-Guide-6-1-(Serverwide-Drop-Edition)-Rev-Apr-2009">EQTraders</a>.  This suggest the Abysmal Sea starter quests, but the Crescent Reach equivalent is very much faster.  Just go to the tailoring area near the upstairs bank, and you will soon have skill 54.
 
 
-###Tradeskill Basics
+### Tradeskill Basics
 
 Before you start, there are a couple of things that you need to know; any old Everquest hand will automatically assume that you know these things.
 
@@ -21,7 +21,7 @@ All tradeskills use a container of some sort: some containers are portable, othe
 Use to search for recipes and combine should be self-evident.  In the other form, put single item stacks of ingredients in (and nothing else), and click "Combine".  You will fail more often than not to start with.  Once you have made an successful combine for the first time, you can switch to the recipe list form, which is far swifter once you have learned a recipe.
 
 
-###Tailoring After 54 Skill
+### Tailoring After 54 Skill
 
 As the Mesa quests will require you to make combines with a high trivial of just under 200 (170 - and possibly higher, I thought Ciodaru's quest requires some combines?), and starting with subcombines of around 50 trivial, it's a good idea to raise your skill significantly first.
 
@@ -38,7 +38,7 @@ Save all you make, and you'll probably need more, so don't worry about buying st
 
 21pp for 2 stacks of small bricks, made 35 bonings.  17 combines to hit 76, made 110 picnic baskets, sold for < 6pp; sold the excess bonings for 4pp and the excess Wovn Mandrake for 3pp.  Skill now 76, time for the tailor trophy.
 
-###Smithing Diversion
+### Smithing Diversion
 
 Steel boning is a Smithing recipe, trivial 37, so the starter quest in Crescent Reach will be enough to make some.
 
@@ -73,7 +73,7 @@ If you're working on the smithing components, then it's time to make your sewing
 - Small Piece of High Quality Ore (27 trivial, makes 2)
 	- Small Brick of High Quality Ore (1) - Smith Yahya
 	- Smithing Chisel (1) -  returned, Smith Yahya
-	
+
 - Steel Bits (24 trivial)
 	File (1) - returned
 	Small Brick of Steel (1) - Qaelin Hailstorm, Surefall Glade (outside near the archery range)
@@ -86,7 +86,7 @@ If you're working on the smithing components, then it's time to make your sewing
 	- Steel Bits (2)
 	- Water Flask (1)
 
-###Tailoring Trophy
+### Tailoring Trophy
 
 If you are going to make a relatively high level combine, and 170 counts in my opinion, then the tailoring trophy is probably worthwhile.  You need to see Baublie Diggs in West Freeport newbie yard to get started, make the items, then return to there to hand in to the judge.  If your skill is still under 100 (but over 50), this is the test you will be given.
 
@@ -94,14 +94,14 @@ All ingredients listed below are given the quantity required per combine.  I giv
 
 Because of the way that combines work, you stand a much better chance of success if your skill level is well above the trivial for a combine, and even so (without AAs) there is always a 5% chance of failure.  So I would strongly suggest using the Fetid Essence (fishing grubs plus a water flask) combine in Plane of Knowledge (Caden Zharik) or Crescent Reach (Innkeeper Seltu, Merchant Kaphiri, Merchant Wyn'las) to get your brewing skill to 122 before making your fish oil, although I'm going to skip the trophy for this.
 
-- Beginner Tailor Trophy 
+- Beginner Tailor Trophy
 
 	- Silk Bandage
-	
+
 		- Silk Thread (2)
-		
+
 			- Spiderling Silk (2)
-			
+
 	-  Large Patchwork Pants
 		- Pant Pattern (1) - Tailor Panya
 		- Ruined Bear Pelt (1)
@@ -114,49 +114,49 @@ Because of the way that combines work, you stand a much better chance of success
 	-  Leather Padding
 		- Low Quality Cat Pelt/Low Quality Wolf Skin/Low Quality Bear Skin (1)
 		- Silk Thread (1)
-		
+
 			- Spiderling Silk (2)
-			
+
 	-  Raw Silk Robe
-	
+
 		- Silk Swatch (2)
-		
+
 			- Spider Silk (2)
-			
+
 		- Tunic Pattern (1) - Tailor Panya
-		
+
 	-  Shade Silk Mantle
-	
+
 		- Shade Silk Swatch (1)
-		
+
 			- Shade Silk (2) - drops from shak dratha and lesser shades in Shadeweavers Thicket
 		- Shoulderpad Pattern (1) - Tailor Panya
-		
+
 	-  Leather Gorget
-	
+
 		- Fish Oil (1) - brewing combine, skill 68
-		
+
 			- Fish Eggs (1) - fishing combine, 135 trivial, or foraged in Reef of Coirnav
-			
+
 				- Tackle Box - do the combine in one, sold in Plane of Knowledge by Daeld Atan or Ramos Jerwan
 				- Skinning Knife (1) - smithing combine, trivial 41, returned
-				
+
 					- Dagger Blade Mold (1) - Smith Azibo
 					- Hilt Mold (1) - Smith Azibo
 					- Small Brick of Ore (1) - Smith Yahya
 					- Water Flask (1)
-					
+
 				- Evergreen/Thunder/Greengill Salmon (1) - fished in Warslik Woods, any Karanas, Toxxulia, Jaggedpine, Nektulos
-				
+
 			- Water Flask (1)
-			
+
 		- Raw-hide Gorget (1) - drops, e.g. from gnolls in Blightfire Moors
 	-  Tailored Large Bag
 		- Low Quality Bear Skin (1)
 		- Silk Cord (1)
-		
+
 			- Silk Thread (3)
-			
+
 				- Spiderling Silk (2)
 	-  Studded Boots
 		- Boot Pattern (1)
@@ -184,7 +184,7 @@ Because of the way that combines work, you stand a much better chance of success
 
 Assuming no failures.  You can get most of these in Crescent Reach, or by vendor diving there.  Also a trip to Blightfire will be required, then probably one of the Karanas.  There are two good sources for spider silk: East Karana, or Upper Guk.  These spiders seem to drop more silk than most others, although you can continue to kill spiders in Goru'kar Mesa for silk and experience.  You will need a lot of spider silk to allow for failures in the higher level combines for the silkfang pack.  The wolf skin will require a diversion, possibly to Everfrost, and shade silk comes from Shak Dratha in Shadeweaver's Thicket.
 
-###Back to Tailoring
+### Back to Tailoring
 
 Then what?
 

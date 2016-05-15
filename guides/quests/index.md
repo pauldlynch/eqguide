@@ -1,11 +1,11 @@
 ---
-layout: page 
-title: "All the Good Quests!" 
-group : guide 
+layout: page
+title: "All the Good Quests!"
+group : guide
 ---
-{% include JB/setup %} 
+{% include JB/setup %}
 
-##[List of Links to Various Quests from Most Expansions](http://www.eqclerics.org/forums/showthread.php?t=24035)
+## [List of Links to Various Quests from Most Expansions](http://www.eqclerics.org/forums/showthread.php?t=24035)
 
 This is taken from [Crystilla's excellent list of quests](http://www.eqclerics.org/forums/showthread.php?t=24035) that are still worthwhile from all expansions of Everquest.  Some are classic quests from their era, often with worthless rewards, and others are still very current; there is a certain emphasis on trade skill quests.  I have cross referenced this list against the Hero's Journey achievements from the Conquest section.
 
@@ -13,12 +13,12 @@ I have tidied the html (considerably) to make it easier to understand and fix a 
 
 [The Hero's Journey](http://everquest.allakhazam.com/db/quest.html?quest=5553)
 
-##[Call of the Forsaken](http://cotf.eqresource.com/index.php)
+## [Call of the Forsaken](http://cotf.eqresource.com/index.php)
 
 1. [Portal attuning tasks](http://everquest.allakhazam.com/search.html?q=portal+activation) - link is a mixed up collection of portal tasks from several expansions, including this one.
 2. Heroic Adventures.
 
-##[Rain of Fear](http://rof.eqresource.com/index.php)
+## [Rain of Fear](http://rof.eqresource.com/index.php)
 
 1. [Welcome to Shard's Landing](http://everquest.allakhazam.com/db/quest.html?quest=5978)
 2. [Words of the Unspoken](http://everquest.allakhazam.com/db/quest.html?quest=5979): Alaran language skill to 100.
@@ -26,22 +26,22 @@ I have tidied the html (considerably) to make it easier to understand and fix a 
 4. [Faycite Shards](http://rof.eqresource.com/type3augs.php) (Type 3 augments - to boost your spells) - This link shows you where to go to buy these.
 5. [Collections](http://everquest.allakhazam.com/wiki/eq:Collection_System): see /achievements window
 
-##[Veil of Alaris](http://voa.eqresource.com/index.php)
+## [Veil of Alaris](http://voa.eqresource.com/index.php)
 
 0. [Very Small Stone Tear](http://everquest.allakhazam.com/db/item.html?item=100106) evolves into [The Tears of Alaris](http://everquest.allakhazam.com/db/item.html?item=100107) by killing Alerans in Veil of Alaris zones and completing the Pillars quest series.  It is rewarded from [Pillars #1: The First Pilgrimage](http://everquest.allakhazam.com/db/quest.html?quest=5481).
 
-1. [Guild Trophies](http://rasper.samanna.net/VoA/Trophy.html) - This link shares how to obtain these as well as the reward each trophy offers. It is a guild wise reward which has to be placed in a new guild hall house and turned on in order to receive the benefits.  
+1. [Guild Trophies](http://rasper.samanna.net/VoA/Trophy.html) - This link shares how to obtain these as well as the reward each trophy offers. It is a guild wide reward which has to be placed in a new guild hall house and turned on in order to receive the benefits.
 2. [Veil Hunter's Satchel(s)](http://rasper.samanna.net/VoA/Trophy.html) - Midway down this link it shares how to obtain 16, 18, 22, 24 and 28 slot bags (by completing hunter achievements in Veil of Alaris).
 3. [Satchel of the Aleran Legend](http://rasper.samanna.net/VoA/Trophy.html) [32 slot bag](http://lucy.allakhazam.com/item.html?id=64186) and [Prismatic Selyrah Saddle](http://lucy.allakhazam.com/item.html?id=64187) raid speed mount with 300 HME - This shows what you can get for doing everything in the expansion.
 4. [Faycite Shards](http://voa.eqresource.com/type3augs.php) (Type 3 augments - to boost your spells) - This link shows you where to go to buy these.
-5. Maps  
-	- [This](http://rasper.samanna.net/HoT/Maps.html) is Rasper's map link.
-	- [This](http://voa.eqresource.com/maps.php) is EQResource's map link.
-6. Spells  
-	- [This](http://rasper.samanna.net/VoA/Spells.html) is Rasper's spell info.
-	- [This](http://voa.eqresource.com/spells.php) is EQResource's spell info.
+5. Maps
+- [This](http://rasper.samanna.net/HoT/Maps.html) is Rasper's map link.
+- [This](http://voa.eqresource.com/maps.php) is EQResource's map link.
+6. Spells
+- [This](http://rasper.samanna.net/VoA/Spells.html) is Rasper's spell info.
+- [This](http://voa.eqresource.com/spells.php) is EQResource's spell info.
 
-##House of Thule
+## House of Thule
 
 1. [Trophies](http://rasper.samanna.net/HoT/Trophy.html)
 	- This link shares how to obtain these as well as the reward each trophy offers. It is a single person reward which has to be placed in a house in order to receive the benefits.
@@ -55,53 +55,53 @@ I have tidied the html (considerably) to make it easier to understand and fix a 
 	- [This](http://hot.eqresource.com/spells.php) is EQResource's spell info.
 5. [EQResource Checklist](http://hot.eqresource.com/checklist.php) - for progression and requesting missions
 
-##Underfoot
+## Underfoot
 
-1. Coldain Shawl 2.0  
+1. Coldain Shawl 2.0
 Must have 300 in tradeskills unmodified to do this quest. AND it starts in a Tier 8 zone so must have access. End event is in a Tier 9 group zone.
 
 Each Shawl Rewards:
 
-- Task 1 - Baking   
-[Blessed Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88534)   
-- Task 2 - Pottery   
-[Revered Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88563)    
-- Task 3 - Tailoring   
-[Sacred Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88620)    
-- Task 4 - Brewing   
-[Blessed Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88627) (Caster Version)  
-[Blessed Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88680) (Melee Version)  
-- Task 5 - Fletching   
-[Revered Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88628) Caster Version)  
-[Revered Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88702) (Melee Version)  
-- Task 6 - Jewelcrafting   
-[Sacred Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88642) (Caster Version)  
-[Sacred Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88773) Melee Version)  
-- Task 7 - Blacksmithing   
-[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88820) (Int Caster Version)  
-[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88850) (Plate Melee Version)  
-[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88874) (Priest Version)  
-[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88889) (DPS Version)  
-There is a raid version as well, but you can obtain the link to that from the 7th shawl links above.  
-  
-##Seeds of Destruction
+- Task 1 - Baking
+[Blessed Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88534)
+- Task 2 - Pottery
+[Revered Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88563)
+- Task 3 - Tailoring
+[Sacred Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88620)
+- Task 4 - Brewing
+[Blessed Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88627) (Caster Version)
+[Blessed Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88680) (Melee Version)
+- Task 5 - Fletching
+[Revered Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88628) Caster Version)
+[Revered Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88702) (Melee Version)
+- Task 6 - Jewelcrafting
+[Sacred Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88642) (Caster Version)
+[Sacred Sanctified Underfoot Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88773) Melee Version)
+- Task 7 - Blacksmithing
+[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88820) (Int Caster Version)
+[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88850) (Plate Melee Version)
+[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88874) (Priest Version)
+[Blessed Serilis Prayer Shawl](http://everquest.allakhazam.com/db/item.html?item=88889) (DPS Version)
+There is a raid version as well, but you can obtain the link to that from the 7th shawl links above.
 
-1. [Allakhazam's Seeds of Destruction Guide](http://everquest.allakhazam.com/wiki/EQ:Seeds_of_Destruction#Progression_Through_Seeds_of_Destruction) progression listing  
-2. [Rasper's SoD link](http://rasper.samanna.net/SoD/)  
-3. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/wiki/Bayle's_Heraldic_Crest) augment  
-4. [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) augment  
-5. [Baron Yosig's Skeleton](http://everquest.allakhazam.com/db/item.html?item=78799) (iksar skeleton illusion mask)  
-6. [Bone Mask of the Ancient Iksar](http://everquest.allakhazam.com/db/item.html?item=77408)  illusion mask - makes you NON KOS to FoS mobs  
-7. [Rallosian Battle Figure](http://everquest.allakhazam.com/db/item.html?item=79027)  
-	- Putting it together is [here](http://rasper.samanna.net/SoD/BattleFigure.html)  
-		1: Summon Familiar: FamiliarBattleOgre  
-		8: Increase Max Hitpoints by 5 (L1) to 425 (L85)   
-		9: Increase Mana Pool by 5 (L1) to 425 (L85)  
-8. [Timeshear](http://everquest.allakhazam.com/db/item.html?item=79876)  
-	- [Putting it together](http://rasper.samanna.net/SoD/Timeshear.html)  
-9. [List of spells and how to obtain them](http://rasper.samanna.net/SoD/Spells.html)  
+## Seeds of Destruction
 
-##Secrets of Faydwer
+1. [Allakhazam's Seeds of Destruction Guide](http://everquest.allakhazam.com/wiki/EQ:Seeds_of_Destruction#Progression_Through_Seeds_of_Destruction) progression listing
+2. [Rasper's SoD link](http://rasper.samanna.net/SoD/)
+3. [Bayle's Heraldic Crest](http://everquest.allakhazam.com/wiki/Bayle's_Heraldic_Crest) augment
+4. [Blood of the Fallen](http://everquest.allakhazam.com/db/item.html?item=80339) augment
+5. [Baron Yosig's Skeleton](http://everquest.allakhazam.com/db/item.html?item=78799) (iksar skeleton illusion mask)
+6. [Bone Mask of the Ancient Iksar](http://everquest.allakhazam.com/db/item.html?item=77408)  illusion mask - makes you NON KOS to FoS mobs
+7. [Rallosian Battle Figure](http://everquest.allakhazam.com/db/item.html?item=79027)
+	- Putting it together is [here](http://rasper.samanna.net/SoD/BattleFigure.html)
+		1: Summon Familiar: FamiliarBattleOgre
+		8: Increase Max Hitpoints by 5 (L1) to 425 (L85)
+		9: Increase Mana Pool by 5 (L1) to 425 (L85)
+8. [Timeshear](http://everquest.allakhazam.com/db/item.html?item=79876)
+	- [Putting it together](http://rasper.samanna.net/SoD/Timeshear.html)
+9. [List of spells and how to obtain them](http://rasper.samanna.net/SoD/Spells.html)
+
+## Secrets of Faydwer
 
 1. Faction quests; see Fenden Helter in Dragonscale Hills
 	- [Fang Breakers](http://eqbeastiary.allakhazam.com/faction.html?faction=516)
@@ -152,7 +152,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 1. [Ancient Faycite Bone Circum](http://everquest.allakhazam.com/db/quest.html?quest=5681)
 1. [Lantern O'Wisps](http://everquest.allakhazam.com/db/quest.html?quest=5685)
 
-##The Buried Sea
+## The Buried Sea
 
 0. [Rasper's guide](http://rasper.samanna.net/TBS/index.html) - to all missions, many quests and drops
 1. [Katta Portal Guide](http://samanna.net/eq.progression/prog.tbs.portals.shtml)
@@ -170,13 +170,13 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 	- 5a: [A City in Peril #5a](http://everquest.allakhazam.com/db/quest.html?quest=4109)
 	- 5b: [A City in Peril #5b](http://everquest.allakhazam.com/db/quest.html?quest=4438)
 	- 6: [Where There's a Will](http://everquest.allakhazam.com/db/quest.html?quest=4103)
-	- 7: [Slay the Serpent](http://everquest.allakhazam.com/db/quest.html?quest=4104). Locs for these are:  
-700, 410,240   
-730,180,240   
--390, 140,410   
--320, -20, 410   
-170, -420, 590   
-250, -550, 640   
+	- 7: [Slay the Serpent](http://everquest.allakhazam.com/db/quest.html?quest=4104). Locs for these are:
+700, 410,240
+730,180,240
+-390, 140,410
+-320, -20, 410
+170, -420, 590
+250, -550, 640
 	- 8: [Stop the Ritual](http://everquest.allakhazam.com/db/quest.html?quest=4105)
 	- 8a: [A City in Peril](http://everquest.allakhazam.com/db/quest.html?quest=4110)
 3. [Pottery Fragments](http://everquest.allakhazam.com/db/quest.html?quest=4126) (start of), reward is [Tsaph Katta's Urn of Rejuvenation](http://everquest.allakhazam.com/db/item.html?item=67086):
@@ -198,7 +198,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 7. Final item of the "bones" quest (**GOOD AUG**) = [Jonas Dagmire's Sketal Hand](http://everquest.allakhazam.com/db/item.html?item=67072) and [here](http://www.paullynch.org/eqguide/guides/jonas-dagmires-skeletal-hand/) is another link with everything outlined including locs and hints
 7. [Greater Corrupted Sunshards](http://everquest.allakhazam.com/db/quest.html?quest=4014) 10% slow for undead mob, 5 min reuse clickie; available at launch of expansion only
 
-##The Serpent's Spine
+## The Serpent's Spine
 
 1. [Dog Whistle](http://everquest.allakhazam.com/db/quest.html?quest=3583) Single swarm pet quest
 2. [Start of clickie circle type items](http://everquest.allakhazam.com/db/zone.html?zstrat=438) ??
@@ -230,41 +230,41 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 20. [Sweeping the Steppes: Goblins](http://everquest.allakhazam.com/db/quest.html?quest=3770) Goblin familiar with FR and DS
 21. [Shield of the Otherworld](http://everquest.allakhazam.com/db/quest.html?quest=4117) Final Augment from the 3 "disc" series [Shield of the Otherworld](http://everquest.allakhazam.com/db/item.html?item=66928)
 
-##Prophecy of Ro
+## Prophecy of Ro
 
-1. [Samamma's reference link to PoR](http://samanna.net/gen.info/prog.por.shtml)  
-2. [Deathknell access](http://everquest.allakhazam.com/db/quest.html?quest=3397)  
-3. [Temple of Blood access](http://everquest.allakhazam.com/db/quest.html?quest=3444)  
-4. [Arena Champion's Badge](http://everquest.allakhazam.com/db/quest.html?quest=3403) Freeport arena charm  
-5. [Black Orb of the Scrykin](http://everquest.allakhazam.com/db/quest.html?quest=3423)  
-6. [Tinkering quest](http://everquest.allakhazam.com/db/quest.html?quest=3476)  
-7. [Cloak of the Spirit Hunter](http://everquest.allakhazam.com/db/quest.html?quest=3369) back evolving item  
-8. [Spirit Mark Armor](http://everquest.allakhazam.com/db/quest.html?quest=3375)  
-9. [Relic Shopkeeper's Charm](http://everquest.allakhazam.com/db/quest.html?quest=3394) augment +55 HME  
-10. ["Dain"](http://everquest.allakhazam.com/db/quest.html?quest=3471) Coldain augment, 3 part MM  
-11. [Elddar Corruption](http://eqbeastiary.allakhazam.com/search.shtml?id=20348) Start of group missions to gain access to Corruption of Ro raid event  
-  
-  
-##Depths of Darkhollow
+1. [Samamma's reference link to PoR](http://samanna.net/gen.info/prog.por.shtml)
+2. [Deathknell access](http://everquest.allakhazam.com/db/quest.html?quest=3397)
+3. [Temple of Blood access](http://everquest.allakhazam.com/db/quest.html?quest=3444)
+4. [Arena Champion's Badge](http://everquest.allakhazam.com/db/quest.html?quest=3403) Freeport arena charm
+5. [Black Orb of the Scrykin](http://everquest.allakhazam.com/db/quest.html?quest=3423)
+6. [Tinkering quest](http://everquest.allakhazam.com/db/quest.html?quest=3476)
+7. [Cloak of the Spirit Hunter](http://everquest.allakhazam.com/db/quest.html?quest=3369) back evolving item
+8. [Spirit Mark Armor](http://everquest.allakhazam.com/db/quest.html?quest=3375)
+9. [Relic Shopkeeper's Charm](http://everquest.allakhazam.com/db/quest.html?quest=3394) augment +55 HME
+10. ["Dain"](http://everquest.allakhazam.com/db/quest.html?quest=3471) Coldain augment, 3 part MM
+11. [Elddar Corruption](http://eqbeastiary.allakhazam.com/search.shtml?id=20348) Start of group missions to gain access to Corruption of Ro raid event
 
-1. [The Skull of Den Lord Rakban](http://everquest.allakhazam.com/db/quest.html?quest=3264) +50 to all resist (right click) mask  
-2. [Access to Dreadspire Keep](http://everquest.allakhazam.com/db/quest.html?quest=3203)  
-3. [Access to the Demi-Plane of Blood](http://everquest.allakhazam.com/db/quest.html?quest=3582)  
-4. [Vestiges of the Empire](http://everquest.allakhazam.com/db/quest.html?quest=3193) evolving weapon [Korgoron, the Shattered Blade of Illsalin](http://everquest.allakhazam.com/db/item.html?item=44680)  
-5. [Slipgear's Errands](http://everquest.allakhazam.com/db/quest.html?quest=3172) Slipgear's Gem, charm augmentation  
-6. [Epic 2.5 quest to add additional stats](http://everquest.allakhazam.com/db/quest.html?quest=3210)  
+
+## Depths of Darkhollow
+
+1. [The Skull of Den Lord Rakban](http://everquest.allakhazam.com/db/quest.html?quest=3264) +50 to all resist (right click) mask
+2. [Access to Dreadspire Keep](http://everquest.allakhazam.com/db/quest.html?quest=3203)
+3. [Access to the Demi-Plane of Blood](http://everquest.allakhazam.com/db/quest.html?quest=3582)
+4. [Vestiges of the Empire](http://everquest.allakhazam.com/db/quest.html?quest=3193) evolving weapon [Korgoron, the Shattered Blade of Illsalin](http://everquest.allakhazam.com/db/item.html?item=44680)
+5. [Slipgear's Errands](http://everquest.allakhazam.com/db/quest.html?quest=3172) Slipgear's Gem, charm augmentation
+6. [Epic 2.5 quest to add additional stats](http://everquest.allakhazam.com/db/quest.html?quest=3210)
 6. Series of Dreadspire "Vule" Turn in missions:
 	1. [Frustrated Functionary](http://everquest.allakhazam.com/db/quest.html?quest=3238)
 	2. [Check Out a Library Book](http://everquest.allakhazam.com/db/quest.html?quest=3580)
-	3. [Eyes Wide Open](http://everquest.allakhazam.com/db/quest.html?quest=3581) -  (5-6 hour mission timer)  
-	5. [Misty for You](http://everquest.allakhazam.com/db/quest.html?quest=3252)  
+	3. [Eyes Wide Open](http://everquest.allakhazam.com/db/quest.html?quest=3581) -  (5-6 hour mission timer)
+	5. [Misty for You](http://everquest.allakhazam.com/db/quest.html?quest=3252)
  	4. [Eye Bound](http://everquest.allakhazam.com/db/quest.html?quest=3253)
  	4. [Memories Lost](http://everquest.allakhazam.com/db/quest.html?quest=3211)
 7. There are some augments that can be farmed/camped for:
 	1. [Ancient Dragon's Eggshell Fragment](http://everquest.allakhazam.com/db/item.html?item=45391) - random trash
 	2. [Pouch of Curses](http://everquest.allakhazam.com/db/item.html?item=45276) - Throwing pouch (off random trash)
 	3. [Azure Drop](http://everquest.allakhazam.com/db/item.html?item=47815) weapon proc
-	4. [Calcified Heart of the Bonewalker](http://everquest.allakhazam.com/db/item.html?item=46854)  
+	4. [Calcified Heart of the Bonewalker](http://everquest.allakhazam.com/db/item.html?item=46854)
 	5. [Emblem of the Violet Order](http://everquest.allakhazam.com/db/item.html?item=46824) weapon proc
 	6. [Ice of Insight](http://everquest.allakhazam.com/db/item.html?item=45076)
 	7. [Ioan's Special Ingredient](http://everquest.allakhazam.com/db/item.html?item=56482) - Damage aug
@@ -274,60 +274,60 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 	1. [Shiny Sapphire](http://everquest.allakhazam.com/db/item.html?item=45531)
 	1. [Stonewarden](http://everquest.allakhazam.com/db/item.html?item=48624) - Great tank aug (AC 25)
 	1. [Wanderer's Durability](http://everquest.allakhazam.com/db/item.html?item=45113)
-    
-##Dragons of Norrath/Antonica
+
+## Dragons of Norrath/Antonica
 
 1. [Good side progression](http://everquest.allakhazam.com/db/quest.html?quest=3061)
 2. [Evil side progression](http://everquest.allakhazam.com/db/quest.html?quest=3062)
 3. [Class specific 'quest' item](http://everquest.allakhazam.com/db/quest.html?quest=3090)
 4. [Crown of Deceit](http://everquest.allakhazam.com/db/quest.html?quest=2275)  (wood elf illusion mask)
 5. [Cultural Tradeskill Armor Information](http://everquest.allakhazam.com/db/quest.html?quest=3056)
-  
-##Omens of War
+
+## Omens of War
 
 - [Access to Asylum of Anguish](http://everquest.allakhazam.com/db/quest.html?quest=2978)
 - [Achievement: Trials of Mata Muram](http://everquest.allakhazam.com/db/quest.html?quest=5671)
 
-##GoD
+## Gates of Destruction
 
-1. [Breakdown in Communication ](http://everquest.allakhazam.com/db/quest.html?quest=2781) (augment)  
-2. [The Fourteen Great Adventurers](http://everquest.allakhazam.com/db/quest.html?quest=2854) (range)  
-3. [Discord Skin Samples](http://everquest.allakhazam.com/db/quest.html?quest=2839) quest (neck/waist piece [Assistant Researcher's Symbol](http://everquest.allakhazam.com/db/item.html?item=33815))  
-4. [Search Allakhazam for the tradeskill ones](http://everquest.allakhazam.com/db/qsearch.html?zone=236)  
-  
-##Planes of Power
+1. [Breakdown in Communication ](http://everquest.allakhazam.com/db/quest.html?quest=2781) (augment)
+2. [The Fourteen Great Adventurers](http://everquest.allakhazam.com/db/quest.html?quest=2854) (range)
+3. [Discord Skin Samples](http://everquest.allakhazam.com/db/quest.html?quest=2839) quest (neck/waist piece [Assistant Researcher's Symbol](http://everquest.allakhazam.com/db/item.html?item=33815))
+4. [Search Allakhazam for the tradeskill ones](http://everquest.allakhazam.com/db/qsearch.html?zone=236)
 
-1. [Aid Grimel](http://everquest.allakhazam.com/db/quest.html?quest=2412) earring  
-2. [Secret of the Planes](http://everquest.allakhazam.com/db/quest.html?quest=2273)  
-3. [The Binden Concerrentia](http://everquest.allakhazam.com/db/quest.html?quest=2202) Gate necklace  
-  
-##Luclin
+## Planes of Power
+
+1. [Aid Grimel](http://everquest.allakhazam.com/db/quest.html?quest=2412) earring
+2. [Secret of the Planes](http://everquest.allakhazam.com/db/quest.html?quest=2273)
+3. [The Binden Concerrentia](http://everquest.allakhazam.com/db/quest.html?quest=2202)
+Gate necklace
+## Luclin
 
 1. [Earring of Veracity](http://everquest.allakhazam.com/db/quest.html?quest=1667) leads to [Arx Key](http://everquest.allakhazam.com/db/item.html?item=36900)
-1. [Scepter of Shadows](http://everquest.allakhazam.com/db/quest.html?quest=2000) Vex Thall key  
-2. [Ring of the Shissar](http://everquest.allakhazam.com/db/quest.html?quest=1999) Emperor's Key  
-3. [Corrupted Shissar Weapons](http://everquest.allakhazam.com/db/quest.html?quest=1998)  
-  
-##Velious
+1. [Scepter of Shadows](http://everquest.allakhazam.com/db/quest.html?quest=2000) Vex Thall key
+2. [Ring of the Shissar](http://everquest.allakhazam.com/db/quest.html?quest=1999) Emperor's Key
+3. [Corrupted Shissar Weapons](http://everquest.allakhazam.com/db/quest.html?quest=1998)
 
-1. [War on the Giants](http://everquest.allakhazam.com/db/quest.html?quest=1291) (Coldain Ring #1-10)  
-2. [Blessed Coldain Prayer Shawl](http://everquest.allakhazam.com/db/quest.html?quest=1869)  
-3. [The Spirit of Garzicor](http://everquest.allakhazam.com/db/quest.html?quest=1277)  
-4. [Key to Sleeper's Tomb](http://everquest.allakhazam.com/db/quest.html?quest=938)  
-5. [The Lost Map](http://everquest.allakhazam.com/db/quest.html?quest=932) Eyepatch of Plunder  
-6. [Ancient Dragon Tome](http://everquest.allakhazam.com/db/quest.html?quest=2286)  
-7. [Key to Cobalt Scar](http://everquest.allakhazam.com/db/quest.html?quest=940)  
-8. [Link to All Sleepers Tomb quests](http://everquest.allakhazam.com/db/qsearch.html?zone=123)  
-9. [Link to All Plane of Mischief's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=104)  
-10. [Link to all Plane of Growth's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=103)  
-11. [Leuz's Task](http://everquest.allakhazam.com/db/quest.html?quest=1255)  
-12. [Link to all Skyshrine's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=107)  
-13. [Link to all Kael's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=115)  
-14. [Link to all Temple of Veeshan's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=116)  
-15. [Link to all Thurgadin's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=102)  
-16. [Alternate Access to Tower of Solusek Ro](http://everquest.allakhazam.com/db/quest.html?quest=3018)  
-    
-##Kunark
+## Velious
+
+1. [War on the Giants](http://everquest.allakhazam.com/db/quest.html?quest=1291) (Coldain Ring #1-10)
+2. [Blessed Coldain Prayer Shawl](http://everquest.allakhazam.com/db/quest.html?quest=1869)
+3. [The Spirit of Garzicor](http://everquest.allakhazam.com/db/quest.html?quest=1277)
+4. [Key to Sleeper's Tomb](http://everquest.allakhazam.com/db/quest.html?quest=938)
+5. [The Lost Map](http://everquest.allakhazam.com/db/quest.html?quest=932) Eyepatch of Plunder
+6. [Ancient Dragon Tome](http://everquest.allakhazam.com/db/quest.html?quest=2286)
+7. [Key to Cobalt Scar](http://everquest.allakhazam.com/db/quest.html?quest=940)
+8. [Link to All Sleepers Tomb quests](http://everquest.allakhazam.com/db/qsearch.html?zone=123)
+9. [Link to All Plane of Mischief's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=104)
+10. [Link to all Plane of Growth's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=103)
+11. [Leuz's Task](http://everquest.allakhazam.com/db/quest.html?quest=1255)
+12. [Link to all Skyshrine's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=107)
+13. [Link to all Kael's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=115)
+14. [Link to all Temple of Veeshan's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=116)
+15. [Link to all Thurgadin's quests](http://everquest.allakhazam.com/db/qsearch.html?zone=102)
+16. [Alternate Access to Tower of Solusek Ro](http://everquest.allakhazam.com/db/quest.html?quest=3018)
+
+## Kunark
 
 1. [New Key to Veeshan's Peak](http://everquest.allakhazam.com/db/quest.html?quest=2904)
 1. [Rune of Scale](http://everquest.allakhazam.com/db/quest.html?quest=87) old key to Veeshan's Peak
@@ -347,22 +347,21 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 8. [The Firepots](http://everquest.allakhazam.com/db/quest.html?quest=308)
 9. [Key to Sebilis](http://everquest.allakhazam.com/db/quest.html?quest=86)
 
-##Old World Planes
+## Old World Planes
 
-1. Plane of Fear [Grandmaster Assassin's Seal](http://everquest.allakhazam.com/db/quest.html?quest=2253)  
-2. Plane of Hate [Marsinger's Quests](http://everquest.allakhazam.com/db/quest.html?quest=2457)  
-3. Plane of Hate [Rogue's Master Sketch](http://everquest.allakhazam.com/db/quest.html?quest=2853)  
-4. [Link to all Plane of Sky quests](http://everquest.allakhazam.com/db/qsearch.html?zone=70)  
-  
-##Multi-Continent Quests
+1. Plane of Fear [Grandmaster Assassin's Seal](http://everquest.allakhazam.com/db/quest.html?quest=2253)
+2. Plane of Hate [Marsinger's Quests](http://everquest.allakhazam.com/db/quest.html?quest=2457)
+3. Plane of Hate [Rogue's Master Sketch](http://everquest.allakhazam.com/db/quest.html?quest=2853)
+4. [Link to all Plane of Sky quests](http://everquest.allakhazam.com/db/qsearch.html?zone=70)
+
+## Multi-Continent Quests
 
 1. [Phylactery Will Get You Nowhere](http://everquest.allakhazam.com/db/quest.html?quest=2652)
 
-##Faydwer (also Antonica)
+## Faydwer (also Antonica)
 
-1. [Adventurer's Stone](http://everquest.allakhazam.com/db/quest.html?quest=2641)  
-  
-##Antonica
+1. [Adventurer's Stone](http://everquest.allakhazam.com/db/quest.html?quest=2641)
+
+## Antonica
 
 1. [Qeynos Badge](http://everquest.allakhazam.com/db/quest.html?quest=1271), leading to [Qeynos Badge of Nobility](http://everquest.allakhazam.com/db/item.html?item=13796)
-

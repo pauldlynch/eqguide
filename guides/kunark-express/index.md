@@ -17,7 +17,7 @@ Some of the zone that aren't on the express route have become popular since for 
 
 My notes here are entirely from memory, from following this progression in the early days of Luclin.  I'll revise some after actually following this with some new character(s).
 
-##Field of Bone
+## Field of Bone
 
 For starter levels, the most popular zone was Field of Bone.  Much harder to get to for non-iksar than LOIO.  It also had the most starter quests for iksars (although all of the starter zones had some quests to work on, and the iksar weapon quests would take you through all of the starter zones).
 
@@ -27,17 +27,17 @@ The pit was the initial target for most people as they levelled past the first m
 
 The north side of the zone featured much higher level mobs, and is best avoided for levelling.
 
-##Kurns Tower
+## Kurns Tower
 
 Kurns had/has an amazing experience bonus, and remained one of the best fast levelling zones until TSS introduced Blightfire Moors, being better even than the famed Paludal Caverns.
 
-Above ground, all the mobs (almost all) are skeletons.  Enter at 8 or 9 and kill the two skeletons in the lobby, with a safe zone line just behind you if things got too tough.  On the entry level at the back was a secret wall entrance into a safe room (until you were trained).  
+Above ground, all the mobs (almost all) are skeletons.  Enter at 8 or 9 and kill the two skeletons in the lobby, with a safe zone line just behind you if things got too tough.  On the entry level at the back was a secret wall entrance into a safe room (until you were trained).
 
 Higher floors were only a little harder, with a couple of tougher quest mobs on the top floor.  You will easily get to 18 or 19 on the undead.
 
 The harder mobs for grounds were in the basement, with a mix of burynai and skeletons, and some much sought after rare drops to camp.
 
-##Lake of Ill Omen
+## Lake of Ill Omen
 
 As with Field of Bone, it offers bind points close to the city and good hunting for 1 to 10, with the same risks, although never quite as popular for those levels.
 
@@ -47,37 +47,37 @@ Not far from the windmill is the Sarnak fort, and east from there are the goblin
 
 Not many people took advantage of them, but the lake held a few aqua goblins around the entrance to what is now Veksar; good for around level 40, but the usual caveat about few mobs and slow spawns for modern game play also applies.
 
-##Warsliks Woods
+## Warsliks Woods
 
 This was a less popular zone for low levels than LOIO, but good for iksar with little competition from non-iksar: thanks to unfriendly terrain, iksar bandit camps and troopers.
 
 The most popular camp site was the giant fort, around the low 20s; and the tunnels leading to Dalnir were viable in the high 20s, although the mob density and respawn rate is far too low for modern gear and changes in game play.
 
-##Frontier Mountains
+## Frontier Mountains
 
 Another zone with a giant fort (many of the in Kunark) is Frontier Mountains; the main attraction being the Forest Loop, both a good stat item (for Kunark), and would sell for 200pp to vendors.
 
 Frontier Mountains also holds the entrances to Nurga and Droga.  It was a little awkward to reach, as you had to get a port to Dreadlands or a boat to the Overthere.
 
-##The Overthere
+## The Overthere
 
 The west side of the Overthere had a good low level spot around the mud pit, although few people seemed to know of it.  Good characters had to take the boat from Oasis (?) and jump off and swim to short before it docked in the Overthere outpost.  There was a spot just outside the outpost walls where you could bind.
 
 But the reason the Overthere is in the Kunark Express path is because of the "ledge"; the spot in the north eastern corner close to the Skyfire entrance were a group of 30-35 characters could sit and pull mobs.  Solo characters could continue on to 40 if they were careful with pulls of rhinos, sabertooths and sarnaks.
 
-##Dreadlands
+## Dreadlands
 
 The prime spot in the Dreadlands was the ledge around Karnor's Castle.  Several groups could sit there and pull from the open area.  This was best for 35-45.
 
 There were a couple of solo spots in the mountains that separate the hidden valley from the Karnor's area - some tunnels with brutes.
 
-##Karnor's Castle
+## Karnor's Castle
 
 The downside of Karnor's (and this goes for Howling Stones as well) is that virtually every kill here hurts your faction for the Overthere outpost; this can be a big deal for evil races.
 
 This wasn't a zone that I used much, so apart from the obvious two camps - left courtyard and right courtyard, I don't know much.
 
-##Sebilis
+## Sebilis
 
 Sebilis was one of the glories of Kunark - the other being Howling Stones.  Multiple options for dungeon crawls, some interesting lore, and lots of great drops - not forgetting the famous froglok flip animation for casting.  Perfect for levelling from 50 to 60.
 
@@ -90,5 +90,3 @@ From that central point the left hand bridge took you to the disco area, and sev
 For higher level mobs, jump into the water and follow the underwater tunnels into the jail.  The jail itself is a notch higher level than the entry areas, but through the jail you enter the myconid area, with lots of twisty passages.  What makes the myconids tough is the number of healers (using Complete Heal) that would make some kills extremely long.
 
 Past the myconids you'll find the juggs (sebilite juggernaut) - big golems, and lots of them.  This is the last camp before the Trakanon room, which has lots more juggs and a few other mobs.  Watch out that a runner from the juggs doesn't head this way, as an accidental pull of Trakanon would be possible (if he wasn't camped to instant oblivion, that is).
-
-

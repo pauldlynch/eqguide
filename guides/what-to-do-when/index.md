@@ -16,7 +16,7 @@ As you level, keep an eye on the Hero's Journey achievements (/ach, or click on 
 
 Also keep an eye on the hot zones: Franklin Teek in Plane of Knowledge can tell you the appropriate ones for each level range, and give you a quest (kill 5) for each one.  The quest rewards a small amount of money, a choice of waist, back or shoulder items (Defiant), and a reasonably large amount of experience.  You can get a new quest every 16-20 hours.  One useful strategy is to take several quests, then do them all back to back.
 
-##Start up 1-25
+## Start up 1-25
 
 First start by making your character; just choose your class, and any race - pick the race you like the look of the most, there is no strong difference between races that trumps how you feel about the race. Don't bother with changing starting stats, as your points are now automatically allocated in a reasonable fashion (and starting stats don't matter anyway), but you get to choose the official starting zones (Crescent Reach, or the old home cities for your race - only available if you are a Gold member), although you will be directed into Crescent Reach if you follow the tutorial, regardless of which home city you pick. I'd do the Mines of Gloomingdeep (that's the tutorial) just to get the [Kobold Skull Charm](http://everquest.allakhazam.com/db/item.html?item=29524); open barrels to get bags and some cash loot (Forlorn bows), and a full set of [Gloomingdeep gear](http://everquest.allakhazam.com/search.html?q=gloomingdeep) from completing the quests; it is a good starting set of gear. see [Mines of Gloomingdeep](/eqguide/guides/mines-of-gloomingdeep/) for a guide.  Make sure you get a Journeyman (if Gold) or Apprentice 5 tank mercenary while there.
 
@@ -34,7 +34,7 @@ You may want to get an [Adventurer's Stone](http://everquest.allakhazam.com/db/q
 
 Move to Blightfire; if you need any Kimem quest gear to fill out any missing Defiant, collect any armor quest items that drop, by repeat killing Plaguebringer and Mossback. Melee characters can do [the Scout quest](http://everquest.allakhazam.com/db/quest.html?quest=3816) by the gnolls for a 1HB (not knights or berserker, unfortunately). Do the [bag quest](http://everquest.allakhazam.com/db/quest.html?quest=3788) from the forge (killing gnolls, so collect the quest before leaving Crescent Reach).
 
-##Levelling spots 25-50
+## Levelling spots 25-50
 
 City of Mist is good for 35-50, and not bad up to 55.
 
@@ -52,7 +52,7 @@ Fabled Goblin Skull Earring from Fabled Grachnist the Destroyer can be soloed at
 
 Level 46-51: consider doing epic 1.0. Some are very easy given a little help: beastlord, rogue, enchanter, ranger, druid, magician, berserker, shaman, cleric. The rest either have minimal benefit or are still unreasonably hard to complete, for reasons of death touch mobs, or over-camped mobs. A level 100+ friend will be able to survive the classic death touches.
 
-##Levels 50-65
+## Levels 50-65
 
 From 50-65 collect the better [hot zone augments](http://www.paullynch.org/eqblog/?p=265); you only want the ones that will make a full set at 65, as you will be upgrading from there.
 
@@ -60,7 +60,7 @@ Collect PoP ornate molds/patterns for the clickies for use at 55. Clickies will 
 
 Collect [Elaborate Defiant](http://everquest.allakhazam.com/search.html?q=elaborate+defiant) armor set from the Bazaar for equipping at 59.
 
-##Levels 65-70
+## Levels 65-70
 
 Collect SoF tier 1 drops in the Bazaar: search on level 65 required, for non-visible slots and weapons. You should also be able to buy Elaborate Defiant rings and earrings from the vendors in the Plane of Knowledge, close to the Crescent Reach stone; these are likely to be much more expensive than the Bazaar items. The Franklin Teek quests starting at this level will give Elaborate Defiant back, waist and shoulders.
 
@@ -70,7 +70,7 @@ There are several shield options for 65-71 tanks: a drop from Fire ([Basalt Bulw
 
 You can start [Fenden Helter](http://eqbeastiary.allakhazam.com/search.shtml?id=29799) quests at 65 for SoF faction and currency. You will only need the Loping Plains/Hills of Shade quests ("acts") if you need currency. Faction comes from "errands" and "combat"; you may not be able to do the combat tasks until higher level, and some are much easier than others. 20 hour lock out. He sells SoF tier 2 items, equippable at 75.
 
-##Levels 70-75
+## Levels 70-75
 
 Level 70: weapon augs from DoN camp in Lavastorm. Start DoN faction and progression for AAs and currency (radiant and ebon crystals; these can also be bought from the Loyalty merchant in PoK). The DoN AAs are never superceded.
 
@@ -86,7 +86,7 @@ Level 71: collect Othni/Athlai drops for armor, which can be equipped at this le
 
 Consider the [Coldain Ring quests](http://everquest.allakhazam.com/db/quest.html?quest=997) to number eight for DS clickie. MPG group trials for the AAs, which are never superceded, and the Dragons of Norrath progression for the AAs.
 
-##Levels 75-85
+## Levels 75-85
 
 If you are lucky enough to have the Fabled pet weapons, they are usable at 75, and are the best dps weapons until higher end weapons.
 
@@ -100,7 +100,7 @@ OMM missions (from Old Man Mackenzie in Plane of Knowledge) are monster missions
 
 Level 80-85. SoF zone drops - Mechamatic Guardian augs. Armor upgrades come from the Bazaar, from House of Thule tier 1 drops. If you can, buy 330 dream motes in the Bazaar, and use that to buy 11 non-visible items; the low tier visible armor items will also be available in the Bazaar.
 
-##Levels 85-100
+## Levels 85-100
 
 Level 85: Again, armor upgrades in the Bazaar, this time from Veil of Alaris tier 1.  Do the two quests (no killing required): [Welcome to Shard's Landing](http://rof.eqresource.com/welcometoshardslanding.php) and [Words of the Unspoken](http://rof.eqresource.com/wordsoftheunspoken.php), which gives you maximum Alaran language skill.  If you have access to a group, do the Partisan quests for VoA.
 

@@ -13,7 +13,7 @@ At all levels player made jewellery is a valid options; it can be adjusted by au
 
 I will also mostly ignore both charm and range slots.
 
-##Focuses
+## Focuses
 
 Most of these armor sets have focuses on specific slots.
 
@@ -33,19 +33,19 @@ Most of these armor sets have focuses on specific slots.
 - Neck: increased healing, improved parry/block
 - Range: increased spell damage (corruption), improved dodge
 
-##1 - 10: Gloomingdeep
+## 1 - 10: Gloomingdeep
 
 If you do all the quests in Gloomingdeep, you will end up with a fantastic set of Defiant-equivalent gear.  If you follow the normal rules for levelling and use a tank merc, this set will last you into the 50s.  You will have a full set of visible armor from this, but not jewellery or non-visible gear.  You can also fill out the non-visibles by collecting Gloomsilk and handing in to Vahlara in exchange for stitched burlap; this sells to the merchant for more than it costs to buy, so a useful strategy is to collect silk, hand in, sell the excess, and use the proceeds to full out any gaps.
 
 At the same level you can complete the Disgruntled Boab quests in Crescent Reach to get face and waist items; the mask has a useful disease resist clicky.
 
-##11 - 58: Wear What Drops
+## 11 - 58: Wear What Drops
 
 From that point on to 59, I ignore armor almost entirely; the tank mercenary makes it pointless.  If anything drops that I can wear, I will equip it, and items for other classes I sell in the Bazaar - low level Defiant sells much better than higher level.  Seriously: there is no point buying any armor at these levels.
 
 However, it is worth doing the hot zone quests from Franklin Teek in the Plane of Knowledge for the shoulders, back and waist items, although the high quantity of experience given for each daily quest is enough justification.
 
-##59 - 70: Elaborate Defiant
+## 59 - 70: Elaborate Defiant
 
 As the tank merc starts to wind down, and mobs power up as the expansions move forward, it is worth regearing.  I either collect or buy a full set of Elaborate Defiant for this level, which will last through another dozen levels and almost a thousand AAs.
 
@@ -53,7 +53,7 @@ Keep doing the Franklin Teek quests!
 
 From 65 you can buy the Elaborate Defiant earrings and rings from the vendors in the Plane of Knowledge, but they are rather expensive.
 
-##71 - 79: Glowing Othni
+## 71 - 79: Glowing Othni
 
 During the Hardcore Heritage events over each summer, two sets of level 71 required visible armor appear: Glowing Athlai and Glowing Othni.  Othni is the better of the two.  These are all turn ins to Thach Jerden in the Plane of Knowledge, returning an armor item specific to your class.  Depending on your server economy, you should be able to buy a few pieces at least at any time of year, but they will be much more available in late summer.
 
@@ -63,7 +63,7 @@ From 75 the Elegant Defiant earrings and rings will appear on the Plane of Knowl
 
 The achievements for completing Seeds of Destruction tasks reward with Paragon armor, all slots, including jewellery.  These are another slight upgrade over Hero's.
 
-##80: Dream Motes
+## 80: Dream Motes
 
 In Feerrott, the Dream there is a merchant called Rotharran Radhelm, who is on find (Ctrl-f).  If you collect 300 dream motes (from the Bazaar or by completing quests in House of Thiule zones), you can purchase from the tier 1 set of jewellery and non-visibles ("of Fearful Reverie"), which cost 30 motes each, and only require apprehensive faction (the default).  There are two extra items in this set for the charm (which powers up during daylight hours) and range slots.  Remember that if you are a pet class (magician, necromncer or beastlord), you will want to reserve one ear slot for a pet focus.  These are somewhat less good than the dropped tier 1 items, so should probably best be called "tier 0", and if Dream Motes are hard to find, just skip this set entirely.
 
@@ -83,17 +83,17 @@ A set of tier one tradeable drops from House of Thule zones (Feerrott, the Dream
 
 There is a set of tier 1 visible gear that is better than Terror Infused, but all the drops required are no trade.  If you get the lowest level drops (from Feerrott and House of Thule), you will need a tradeskill made item to complete the combine, as well as 10kppp+ - quite expensive.  The no drop armor components from the Grounds are the same cost, without the tradeskill requirement, although these will have an 82 required level.
 
-##85: Rustic
+## 85: Rustic
 
 These are a little more complex to acquire: you need a "Rustic" tradeable drop item from Veil of Alaris, a template made by players with high trade skills, an adorning agent for your class and a Reliquary of Refinement, both purchased from Yaun in Argath.  These are significantly better than the tier 2 (no trade) items from HoT.
 
 As an alternative, you can consider Glowing Reis (from Crushbone and Permafrost when they are upgraded during the summer Hardcore Heritage events).  However, the Rustic set generally has better stats.
 
-##92: Fear Touched
+## 92: Fear Touched
 
 This is similar to the Veil of Alaris tier 1 gear; you need a drop of "Fear Touched" and a Rust-Tinged Box of Fear (class specific, but they all have the same name!) purchased in Shard's Landing from Master Armorer Synlaris, which make Boreal armor.  The great thing about Rustic is that the 10kpp investment in the combining box is a one-time cost - you get to keep it for subsequent combines. You need to have Rain of Fear to make this set.
 
-##100: Latent Ether/Castaway
+## 100: Latent Ether/Castaway
 
 Latent Ether drops from Call of the Forsaken, and requires access to Call of the Forsaken zones.  You need the appropriate "Latent Ether" drop, and combine in a class specific Ethereal Attuner.  This is purchased in Ethernere Tainted West Karana from Blacksmith Cerray.
 

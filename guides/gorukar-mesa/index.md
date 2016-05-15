@@ -7,7 +7,7 @@ group: guide
 
 This is a large zone, catering for a wide range of levels, as much as Blightfire Moors.  It has probably more quests to complete, some of which require trade skills.  Important: watch out for the griffon that wanders the area (if it still does after Hero's Journey was introduced).  There is a lot of running around back to Crescent Reach called for in some quests, and quests from different sections of the Hero's Journey all overlap, which will require some going back and forth between different camps if your approach is not planned very carefully.  I have made all these mistakes so that you don't have to!
 
-##Animals and Satyrs (41-45)
+## Animals and Satyrs (41-45)
 
 This collects together all the 40-45 rated quests in the Mesa.  You will have to visit Crescent Reach at least twice, and Blightfire Moors also twice; and kill and loot wolves, bears, snakes and spiders multiple times.  Some of the quest series (Dorina and Ciodaru) require relatively high tailoring skill.
 
@@ -21,7 +21,7 @@ Tuffein quests from Costica and Devan; Devan's must be followed in order.  You h
 
 Next comes wolves and bears (35-38).  Return to Devan.  We will return to him later.
 
-##For Serious Trade Skill Junkies Only
+## For Serious Trade Skill Junkies Only
 
 Try to do the Dorina and Ciodaru quests together, as they require running back and forth between the same general locations, and looting similar drops from many of the same mobs.
 
@@ -47,7 +47,7 @@ After this you get another protect task: two tuffein will spawn, and you need to
 
 *more to come; I'm not going to give up on this series, but I can't bear taking it any further - it's not the trade skills, but it's the Protect tasks that aren't feasible to complete in one shot at the appropriate level.*
 
-##Nymphs and Dromrek (46-50)
+## Nymphs and Dromrek (46-50)
 
 Now you should collect the remaining quest series from Scout Madu (ask him about "difficult tasks", then "Dromrek"), for the giants, and find Iulia and Nedelcu to pick up all of their quests; they are dryads on and around the "Serpent's Eye" island.  Watch out for the dark cloud on the south bank, which will cause the dryads to attack you.  Madu's first Dromrek quest just involves running around the giant area.  For the nymph quests, the polished stone is in the water surrounding the island, and can be quite hard to see; you have to equip it as a weapon and click on the stones, which will respawn immediately. The burning stick comes from the centaur fire.
 
@@ -61,7 +61,7 @@ The next Madu quests involve "talking to", and fighting, giants, level 52 and ab
 
 While killing giants, watch out for a "Drakkin Youngling's Sword", and loot it if you find it, as it is needed for one of the Charm of Lore quests coming up next; there _may_ be a higher drop rate inside the caves.
 
-##West of the Mesa
+## West of the Mesa
 
 By this point you should have finished the first Pioneer Vulu mapping quest on the east side of the zone, and returned to Regan in Crescent Reach for an update.  Now you need to take the quests from Marilena (one of the dryads), more of Laurentiu's quests (Birds of a Feather and Harping on Harpies), Tudor's Spirits, and as you will be in the area, you should take the timed task from Scout Madu, "Centaur Troubles, Prove Yourself" (kill mesa widows, highland snakes and harpies).  These mobs all have a normal aggro range, and will usually come as two or three; level ranges are mid 40s to low 50s.  You can complete the Wanderlust quest quickly with a diversion into Blackfeather Roost, and collect the Charm of Lore item from the red flower behind the griffin at the end of the all pumas and snakes; then head south in the Mesa to the final waypoint - where you are likely to get aggro from the undead lingering dryads there (needed for Tudor).  Just zone it off by going back into Blackfeather Roost, or head further back to Madu, where you should eventually lose aggro.
 
@@ -69,7 +69,7 @@ While killing harpies, look for Shrynn in the NW.  If you kill the harpies aroun
 
 You won't be able to finish off this achievement (Moving Up The Ranks) until you can clear the potameid spring at the north of the zone, with the level 60 queen.  In addition, Tudor's Spirits still has to be finished; to complete, you must kill a lingering dryad and a tanglewood, swim around the oread lake, and search the buildings in the centaur village (in the latter two cases, the items will appear on your cursor).
 
-##Centaurs and 'Bad' Potameids
+## Centaurs and 'Bad' Potameids
 
 By now you should have good enough faction to approach Ekaterina (I was at amiable), south of the Serpent's Eye lake.  Her first two quests are just run arounds; the "desert passage" is the zone to Sunderock Springs.  The first of these quests took me to kindly.  The next quest is to kill: murkwater oozes, which are in the river to the north; ring snakes, around the river; and dark widows, near the path to Blackfeather Roost.
 
@@ -101,7 +101,7 @@ Now is the time for Laurentiu's last quest (Cleanse Serpent Falls).
 	- More Supplies for Devan (Devan)
 	- Nymphs Are a Menace! (Devan)
 	- Minohten Are a Menace! (Devan)
-		
+
 - Dorina's Love (40+)
 	- Dorina's Love (Dorina)
 	- Dorina's Love Letter (Dorina)
@@ -109,7 +109,7 @@ Now is the time for Laurentiu's last quest (Cleanse Serpent Falls).
 	- Dorina's Personalized Gift (Dorina)
 	- Dorina's Potion (Dorina)
 	- Dorina's Lament (Dorina)
-	
+
 **Part Two**
 
 - Pranks and Research (46-50)
@@ -142,9 +142,9 @@ Now is the time for Laurentiu's last quest (Cleanse Serpent Falls).
 	- Protect Kathryn Some More (Ciodaru)
 	- Who Wants to Kill Kathryn? (Ciodaru)
 	- Ciodaru's Gift Box (Ciodaru)
-	
+
 end of part two?
-	
+
 - Moving Up the Ranks (51-55)
 	- Pluck It! (Marilena)
 	- Harpy Horrors (Marilena)
@@ -164,7 +164,7 @@ end of part two?
 	- Find the Cure (Ekaterina)
 	- Parts for a Cure (Ekaterina)
 	- Tunare Save the Queen (Ekaterina)
-	
+
 - Centaur's Troubles (50+)
 	- Prove Yourself (Scout Madu)
 	- Reduce the Thug Menace (Klassr)

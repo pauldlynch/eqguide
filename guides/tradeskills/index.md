@@ -12,7 +12,7 @@ Tradeskills Basics
 I have added this because I have been trying to work my way through the Goru'kar Mesa quests, which require several trade skills, mostly notably tailoring.  The master reference is, as usual,  <a href="http://mboards.eqtraders.com/eq/showthread.php?33385-Complete-Tradeskill-Guide-6-1-(Serverwide-Drop-Edition)-Rev-Apr-2009">EQTraders</a>.  This suggest the Abysmal Sea starter quests, but the Crescent Reach equivalent is very much faster.  Just go to the tailoring area near the upstairs bank, and you will soon have skill 54.
 
 
-##Tradeskills Basics
+## Tradeskills Basics
 
 Before you start, there are a couple of things that you need to know; any old Everquest hand will automatically assume that you know these things.
 
@@ -22,7 +22,7 @@ Use to search for recipes and combine should be self-evident.  In the other form
 
 Exactly the same applies to all tradeskills.  In addition, some recipes must be made in special containers, usually "racial", or, in the case of epics, "New Tanaan" containers in the Plane of Knowledge.
 
-##Tradeskill Trophies
+## Tradeskill Trophies
 
 If you intend to pursue trade skills much higher than 54, and without fail if you want to get max trade skill or even just progress to 200 and above, you should do the appropriate trophy quests to get your trophy for each trade skill, and you do it while your skill is under 100, so that you can get the easiest quest with the fewest rare drop ingredients.
 
@@ -31,21 +31,21 @@ A trophy gives you a bonus chance to succeed each combine you attempt, which wil
 EQTraders has a reasonable [guide](http://mboards.eqtraders.com/eq/showthread.php?37646-The-Ultimate-EQ-Tradeskill-Guide) to trade skills, including trophies.
 
 
-##To 100
+## To 100
 
 For each trade skill, do the Crescent Reach free quests; this will get your skill level to 54.  I will give a brief set of suggestions for each tradeskill to get your to 100, which should be enough for all of the epic quests, at least.  See also [this link](http://www.paullynch.org/eqblog/?p=133).  Some skills need products from brewing or smithing, so best to do those first.  These recipes use vendor sold ingredients as far as possible; there is also [a way to skill up using drops](http://mboards.eqtraders.com/eq/showthread.php?37646-The-Ultimate-EQ-Tradeskill-Guide), which can more efficiently be obtained (depending on your server, of course) in the Bazaar, either from traders or in barter.
 
-###Alchemy
+### Alchemy
 
 See [Alchemy for Beginners](../guides/alchemy).
 
-###Baking
+### Baking
 
 Fish Rolls (135): bat wing, fresh fish
 
 Crescent Reach: ground floor, Merchant Osaze, Merchant Odimari (fresh fish), Merchant Wyn'las (bat wings).  As there isn't an oven down there, you may want to buy a spit from Butcher Umi.
 
-###Brewing
+### Brewing
 
 Fetid Essence (122): water flask, fishing grubs
 
@@ -54,7 +54,7 @@ You can easily make in Plane of Knowledge.  Grubs from Caden (parcel vendor) by 
 Make heady kiola for tailoring: bottle, 2 pakets of kiola sap, water flask.
 
 
-###Fletching
+### Fletching
 
 Field point, bone shaft, round fletch, large nock (68): 2/50
 Hooked point, wood shaft, round fletch, large nock (102):2/50
@@ -66,14 +66,14 @@ Hooked point, wood shaft, parabolic fletch, small nock (102): 2/150
 
 You can do these in Plane of Knowledge at the fletching vendor.
 
-###Jewelry
+### Jewelry
 
 Old recipes no longer work.
 
-###Poison Making
+### Poison Making
 
 
-###Pottery
+### Pottery
 
 Unfired Medium Bowl (122): block of clay, medium bowl sketch, water flask
 
@@ -81,7 +81,7 @@ Crescent Reach: Potter Subira, Merchant Anji (on platform by Boawb)
 
 You can do these in Plane of Knowledge by the pottery vendors, but there is slightly less movement required if you work in Crescent Reach.  As each finished combine takes up an inventory slot, and is worth nothing; and you no longer auto-drop items when your inventory is full, you can't use the auto-combine button to speed up the process.
 
-###Smithing
+### Smithing
 
 Metal bits (18): 2 small pieces of ore, water flask (3g5s for 2)
 Sheet Metal (31): s small brick of ore, water flask
@@ -94,7 +94,7 @@ Banded Mail (115): 3 sheets of metal, water flask, mail mold
 
 Crescent Reach, for banded bracers: Smith Yahya (sheet of metal or small bricks of ore), Smith Kaphiri (bracer molds), and Smith Gyasi (water flasks)
 
-###Tailoring
+### Tailoring
 
 See [Tailoring for Beginners](../tailoring) for a guide to the trophy and skills to 170.  This is oriented to completing one of the Goru'kar Mesa quests, so I will give an alternative path here as well.
 
@@ -105,5 +105,4 @@ Quiver (115): HQ cat pelt, quiver pattern
 Or: LoY ribbons.
 
 
-###Tinkering
-
+### Tinkering

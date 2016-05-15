@@ -1,14 +1,14 @@
 ---
-layout: page 
-title: "Levelling in Classic/Progression" 
-group : guide 
+layout: page
+title: "Levelling in Classic/Progression"
+group : guide
 ---
-{% include JB/setup %} 
+{% include JB/setup %}
 
 This is just some suggestions as to how to best level on a Classic or Progression server that has only classic zones available: Antonica, Odus, Faydwer.
-Levelling is going to be slower than in current Everquest, as recent progression servers (Fippy and Vulak) have been capped at 2% experience per kill.  It is also possible that Luclin 
+Levelling is going to be slower than in current Everquest, as recent progression servers (Fippy and Vulak) have been capped at 2% experience per kill.  It is also possible that Luclin
 armour quests may be available for a starting Progression server, so bear that in mind.  Modern Everquest has made many changes from the original, meaning that, in
-general, things will be a little easier to kill than they were at launch; bear that in mind. Also, monks are very likely to keep the modern Everquest fist 
+general, things will be a little easier to kill than they were at launch; bear that in mind. Also, monks are very likely to keep the modern Everquest fist
 ratios (better than dragon weapons).  Rules relating to pet damage and eating experience will also be as per current, giving an advantage to magicians and necromancers, and probably also enchanters.
 
 Ragefire doesn't have the same exp cap counting against soloing, which is an improvement for most.  The Lucin armor quests aren't in this time around.
@@ -80,15 +80,15 @@ Nagafen's Lair (Sol B), Lower Guk, Kedge Keep, High Keep (nobles & guards)
 
 ## Variations
 
-If you don't like one camp, there are plenty of others that I haven't listed.  Feel free to move between areas, although long runs and yoar travel will eat into your 
-levelling time.  Careful reading of the above will show that starting on Odus will force you to move around 25; Kerra Isle (part of Toxxulia Forest now) and 
+If you don't like one camp, there are plenty of others that I haven't listed.  Feel free to move between areas, although long runs and yoar travel will eat into your
+levelling time.  Careful reading of the above will show that starting on Odus will force you to move around 25; Kerra Isle (part of Toxxulia Forest now) and
 Erud's Crossing have some reasonable camps while you travel.  If I were to choose one area as a "best" newbie area, it would be Qeynos newbie yard. However...
 
-The options for the final levels are strictly limited: most people won't like fighting in Kedge Keep (and I can't blame them), and High Keep is really a solo camp, 
-which brings it down to Lower Guk and Sol B, both on the same side of Antonica, making Neriak an ideal base for both of these zones.  
+The options for the final levels are strictly limited: most people won't like fighting in Kedge Keep (and I can't blame them), and High Keep is really a solo camp,
+which brings it down to Lower Guk and Sol B, both on the same side of Antonica, making Neriak an ideal base for both of these zones.
 Good characters will need to allow a little more time for corpse runs.
 
-##Classes - notes
+## Classes - notes
 
 An old link for gear suggestions: ["Best" Gear per Class for Everquest Classic](http://www.paullynch.org/eqblog/?p=529).
 
@@ -106,4 +106,3 @@ An old link for gear suggestions: ["Best" Gear per Class for Everquest Classic](
 - warrior
 - paladin
 - shadowknight
-

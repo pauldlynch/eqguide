@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bayle's Heraldic Crest
-group: guide 
+group: guide
 ---
 {% include JB/setup %}
 
@@ -19,13 +19,13 @@ One of the improvements in Seeds of Destruction with these long series quests wa
 
 As always, gather as many quests as possible for each area before you start, and try to be aware of what tasks require completion of other quests before they will open to you.
 
-##Progression
+## Progression
 
 For progression, you need the two quests from Sergeant Bronal Cadran, plus one that isn't part of the aug series, [Familiarity is Key](http://everquest.allakhazam.com/db/quest.html?quest=4661) from Captain Hiran Tillin (mapping in Oceangreen Village), and three missions, two of which take place in Oceangreen Village instances, and one in Blackburrow.  As with the aug quests, you may need other precursor quests, and amiable faction to get the tasks.  The simplest way is to find someone who can request the missions for you.
 
 To be fair, the only progression flags of much use in Seeds of Destruction now are from the Korascian Warrens to obtain J4 mercenaries.
 
-##Oceangreen Hills
+## Oceangreen Hills
 
 From the guard tower on the east side of the zone:
 
@@ -64,7 +64,7 @@ To use the "curative elixir", you must be within melee range of the plant for ar
 
 The trees are all in the glade area, that will become Surefall Glade, and everything in this area before the grizzlies is undead.  Dessicated treelings and blackbriars are common in the area, but there is only two possible spawns of a tottering treant.  One is at the back near the false wall, and the other is one of the mobile trees that walk in front of the pool.  This is also spawns the defiled ancient treant, which you need to kill for Seradi Stormcaller's quest (from Bayle's Keep); the spawn rate is very low.
 
-##Oceangreen Village
+## Oceangreen Village
 
 - Dan Hearthpride: [Arms of the Dead](http://everquest.allakhazam.com/db/quest.html?quest=4654) (north side of village)
 - Viktor Snowborn: [Paint Supplies](http://everquest.allakhazam.com/db/quest.html?quest=4656) (in the northwest house near Yvette, but he wanders to the ruins)
@@ -78,7 +78,7 @@ This is carried out in the Temple of Bertoxxulous:
 
 Kill in the temple, then clear an area and summon a named to kill; mobs are 75-78.  This is probably the hardest quest in the sequence; see the ZAM link for details.
 
-##Old Blackburrow
+## Old Blackburrow
 
 You may not be able to enter Blackburrow if you haven't completed certain quests - possibly the Tabron Caulria and Bronal Cadran series, and possibly the first Fripp quest as well; you may also need to have one of the subsequent Blackburrow quests in order to enter.
 
@@ -93,4 +93,3 @@ Starts with killing lurkers outside Blackburrow, then moves inside; you will onl
 - Guard Ellery: [Run to Daylight](http://everquest.allakhazam.com/db/quest.html?quest=4680)
 
 Escort quest in Blackburrow, can be done at any time you are there, best combined with one of the kill quests.
-

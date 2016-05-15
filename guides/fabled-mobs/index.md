@@ -11,11 +11,12 @@ The basic principle of Fableds is simple: every year, for just over one month st
 
 The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everquest.allakhazam.com/db/item.html?item=27236) from Fabled Drelzna in Najena, although [Grachnist's Earring](http://everquest.allakhazam.com/db/item.html?item=35054) is nice (insta-clickie), and the few augments are nice as well, although most are slot 7 only (this isn't likely to be a problem for a newbie). For a low level melee, the [Fabled Frozen Long Sword](http://everquest.allakhazam.com/db/item.html?item=47753) is the best accessible weapon; and the [Fabled Gore Covered Horn](http://everquest.allakhazam.com/db/item.html?item=67477) is probably the best piercer. I'm going to post the available Fabled mobs, and their drop, in level ranges up to 65 (I have now extended this to cover all known Fableds). If you have the support required to get higher level Fableds, then take a look at things like the Fabled Ring of the Shissar (groupable at 70-75), and the drops from the BoT wing bosses, which should all be groupable (at 80).
 
-#Table of Contents
+# Table of Contents
+
 * toc list
 {:toc}
 
-##Fabled 1-39 {#newbie}
+## Fabled 1-39 {#newbie}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -257,7 +258,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Tuchako](http://eqbeastiary.allakhazam.com/search.shtml?id=25362) |65| [Fabled Tarmok Hunting Spear](http://everquest.allakhazam.com/db/item.html?item=67485) |Fungus Grove|
 |[The Fabled Undertow](http://eqbeastiary.allakhazam.com/search.shtml?id=14912) |65| [Fabled Squallsurge Shawl](http://everquest.allakhazam.com/db/item.html?item=27284) |Kedge Keep|
 
-##Fabled 66-70 {#seventy}
+## Fabled 66-70 {#seventy}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -334,7 +335,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Prince Thirneg](http://eqbeastiary.allakhazam.com/search.shtml?id=20928) |70| [Fabled Flute of the Sacred Glade](http://everquest.allakhazam.com/db/item.html?item=47751) | Plane of Growth|
 |[The Fabled Brogg](http://eqbeastiary.allakhazam.com/search.shtml?id=17836) |70| [Fabled Clay Guardian Shield](http://everquest.allakhazam.com/db/item.html?item=35060) | Old Sebilis|
 
-##Fabled 71-75 {#seventy-five}
+## Fabled 71-75 {#seventy-five}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -403,7 +404,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Overking Bathezid](http://eqbeastiary.allakhazam.com/search.shtml?id=17837) |75| [Fabled Incarnadine Breastplate](http://everquest.allakhazam.com/db/item.html?item=35061) | Chardok|
 |[The Fabled Lord Koi'Doken](http://eqbeastiary.allakhazam.com/search.shtml?id=20903) |75| [Fabled Net of the Deep Sea](http://everquest.allakhazam.com/db/item.html?item=47777) | Temple of Veeshan|
 
-##Fabled 80 {#eighty}
+## Fabled 80 {#eighty}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -448,7 +449,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Warder of Death](http://eqbeastiary.allakhazam.com/search.shtml?id=25317) |80| | Acrylia Caverns|
 |[The Fabled Gaukr Sandstorm](http://eqbeastiary.allakhazam.com/search.shtml?id=29555) |80| | Torden, the Bastion of Thunder|
 
-##Fabled 81-85 {#eighty-five}
+## Fabled 81-85 {#eighty-five}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|
@@ -546,7 +547,7 @@ The best Fabled loot is probably the [Fabled Journeyman's Boots](http://everques
 |[The Fabled Terris Thule](http://eqbeastiary.allakhazam.com/search.shtml?id=29524) |85| | Lair of Terris Thule|
 |[The Fabled Omni Magus Crato](http://eqbeastiary.allakhazam.com/search.shtml?id=29571) |85| | Doomfire, the Burning Lands|
 
-##Fabled 90 {#ninety}
+## Fabled 90 {#ninety}
 
 | Mob | Level | Drop | Zone |
 |-----|:-----:|------|------|

@@ -6,7 +6,7 @@ title: Choosing Race and Class
 
 This page contains advice on choosing race and class resued from the old Everquest forums, posted by someone called Mandaar. Please forgive the messy formatting, that's my fault, not Mandaar's!
 
-##PART 1: CHOOSING THE BEST CHARACTER FOR YOU. 
+## PART 1: CHOOSING THE BEST CHARACTER FOR YOU. 
 First Rule of choosing a character. Playing something that turns out to be what you don't like, is still worthwhile.  The more you understand the classes you will be playing with, the better player you will be.  That said, here's a summary to help you choose a class.  Much of this will not be in the official listing.  I will try to cut to brass tacks.  If it gets stickied, great. If not, I will try to bump it when I see requests.
 
 *The following contains many general statements.  There are always exceptions. For example, I know rangers that can top the dps lists on some raids. I know necros that are number 1 dps on any long event.  We have a beastlord that is always in the top 10.  Etc...  Please don't take issue unless you feel the general trend is incorrect.*
@@ -25,7 +25,7 @@ Kiter
 Aggro
 :when you are engaging a mob by yourself, you are said to have it's aggression, or aggro. That means it's going to want to hit you.
 
-##Pure Melee Classes
+## Pure Melee Classes
 
 **BERSERKER**- Pure melee class.  Wears chain armor.  Will be very weapon dependent at the high end.  If you like the idea of wielding a huge axe and doing big damage while your fury affects those around you, this class may fit you. Not a good solo class until high level with the addition of potions. Shines in a group.
 
@@ -51,7 +51,7 @@ Aggro
 
 *Downsides: only can choose 3 races, Humans, Drakkin and Iksar.  Won't quite match the dps of the first 2.*
 
-##Versatile Melee Classes
+## Versatile Melee Classes
 
 **BEASTLORD** - Part Shaman, part monk.  Wears leather armor.  Moderately weapon dependent.  Beastlords have moderate to low skills in melee, casting, and healing.   But when you add the entire package together with a strong pet, they equal a very strong class.  When you then consider their ability to slow and even snare with their pets, you have a very strong soloing class that is also good in groups.  Beastlords have a couple buffs that are very valuable in groups/raids.  If you want to succeed in a group or solo, and have a bit of every ability in the game, this class is for you.
 
@@ -79,7 +79,7 @@ Aggro
 
 *Downsides: You don't do it well alone.*
 
-##Pure Casters
+## Pure Casters
 
 ***All pure casters wear silk armor.***
 
@@ -115,7 +115,7 @@ Aggro
 
 *Downsides:  Can be a difficult class to play well.  But, the good ones are pampered.*
 
-##Healers 
+## Healers 
 **CLERIC** - Lives in a group.   Wears plate armor.  The best healer in the game.  If there is a heal that affects a single player, a group or a raid, the cleric has it.  Required to raid.  Can resurrect dead players and return most of their lost experience.  Has a line of magic based damage spells, the ability to root, and is an outstanding buffing class.   Can solo, but does it poorly except for the very high end game where it can solo big mobs very well.  If you want to be the life or death of the group, you are a cleric.
 
 Difficulty:  Easy (unless you become a high end raider)
@@ -168,7 +168,7 @@ Upsides:  You cannot raid without a warrior at the high end.
 
 Downsides:  You live in a group.
 
-##PART 2: CHARACTER CREATION BASICS
+## PART 2: CHARACTER CREATION BASICS
 
 Now we get into the specifics of making your new character. Here's a few hints to remember in case you forget everything once you log in. These may not be optimal, but they will be close to the advice I'll give you anyways. Don't forget to read the final considerations sections at the end of this post.
 
@@ -207,7 +207,7 @@ Bard is a funny class. In the old days creation was probably very important, tod
 
 BEASTLORD - may be Barbarian, Iksar, Ogre, Troll, or Vah Shir.
 
-I highly recommend 25 in stamina and 5 in wisdom, strength or dexterity. You are a melee class primarily with pets. If you want to focus more on spells, and some people do, split your points between wisdom and stamina evenly. But, I don't recommend that until later levels. 
+I highly recommend 25 in stamina and 5 in wisdom, strength or dexterity. You are a melee class primarily with pets. If you want to focus more on spells, and some people do, split your points between wisdom and stamina evenly. But, I don't recommend that until later levels.
 
 BERSERKER- may be Barbarian, Dwarf, Ogre, Troll, and Vah Shir.
 
