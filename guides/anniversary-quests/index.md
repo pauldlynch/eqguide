@@ -120,7 +120,7 @@ clickies, and [Bristlebane's Party Generator](http://everquest.allakhazam.com/db
     [Pub Crawl](http://everquest.allakhazam.com/db/quest.html?quest=8025)
   Brasse in the Plane of Knowledge; level 75+, rewards a 30 minute
   reuse, fast cast port to Plane of Knowledge.  See guide here:
-  [Brasse's Stein](brasses-stein.html)
+  [Brasse's Stein](brasses-stein/)
 
 Most (recent) missions require level 100, and give a mission specific reward as well as currency (Commemorative Coins) that can be spent at [a jubilant merchant](http://everquest.allakhazam.com/db/npc.html?id=46622) in Plane of Knowledge.  There should also be a mission and raid for the Plane of War, which may or may not be restricted to the Anniversary time.  There is an achievement given for each year's anniversary tasks; 13th, 15th and 16th have an additional achivement for completing the bonus stage in each task.
 

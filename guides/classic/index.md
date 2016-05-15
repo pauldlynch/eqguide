@@ -92,7 +92,7 @@ Good characters will need to allow a little more time for corpse runs.
 
 An old link for gear suggestions: ["Best" Gear per Class for Everquest Classic](http://www.paullynch.org/eqblog/?p=529).
 
-- [necromancer](necromancer.html)
+- [necromancer](necromancer/)
 - enchanter
 - wizard
 - magician
