@@ -11,7 +11,7 @@ At 15 you will be forcibly expelled to the Plane of Knowledge, and you can't ree
 
 This latest version of Mines of Gloomingdeep has been revised for the launch of Free To Play.  Changes are to add a new quest that links together all the main quests in the zone; a few new NPCs are added to explain topics that were omitted before; and some of the gear drops are updated to be identical to Defiant.  In addition, there are new items on the vendors (Gate spell, hurray!), and there is now a mercenary liaison in the zone.
 
-Gloomingdeep was originally taken from Everquest sometime around the Dragons of Norrath era; although there was an earlier version with much less content and a simpler layout, and some other aspects are obviously added from Depths of Darkhollow. There are only a few potions (Divine and Celestial Healing I and II), ... There are also no guild masters, so you can’t spend training points.
+Gloomingdeep was originally added to Everquest sometime around the Dragons of Norrath era; although there was an earlier version with much less content and a simpler layout, and some other aspects are obviously added from Depths of Darkhollow. There are only a few potions (Divine and Celestial Healing I and II), ... There are also no guild masters, so you can’t spend training points.
 
 **Installation**
 
@@ -23,9 +23,13 @@ Make sure that your Desktop shortcut is pointing to Everquest.exe, and that you 
 
 **Character Creation**
 
-Once you get past the log in, you’ll want to create a character. You can allocate statistic points, but I suggest you don't bother; with modern gear, stats are mostly irrelevant (the exception is if you are playing on a Progression server, which is Gold tier only).  You have a choice from 16 races and 16 classes. The automatic name generator will only rarely find an unused name, so be prepared with original names!
+Once you get past the log in, you’ll want to create a character. You
+can allocate statistic points, but I suggest you don't bother; with
+modern gear, stats are mostly irrelevant (the exception is if you are
+playing on a Progression server, which is Gold tier/All Access only).  You have a choice from 16 races and 16 classes. The automatic name generator will only rarely find an unused name, so be prepared with original names!
 
-First you can watch an intro movie, or press Esc to skip it.  The movie is just static images, each very blurry.  I'd advise skipping it.
+First you can watch an intro movie, or press Esc to skip it.  The
+movie is just static images, each very blurry, with a narration.  I'd advise skipping it.
 
 There’s a chance that you’ll hit the messages about “That zone is unavailable” and “Your personalized tutorial zone is still loading. Please click on Enter World again in a few seconds”; just keep trying – it may take some time if the servers are loaded!
 
@@ -37,13 +41,18 @@ You zone in to a private instance zone at level 1, and run through a series of p
 
 If you don't like the layout of the windows, and the default layout isn't great, feel free to drag them around, and start the conversation with Arias.  When this is complete, you will know to click on an NPC to target it and for conversations, to press 'h' for hail (which will get you some introductory text in most cases), and how to auto-attack and loot.
 
-Your inventory contains the usual bread cakes, skin of milk (both x20), Bandages (x20), Backpack, Gloomingdeep Lantern and guild note (of no use to you until you leave Gloomingdeep). You may also have a melee tome, which you can right click to learn.  You will also be someway into level 2.
+Your inventory contains the usual bread cakes, skins of milk (both
+x20), Bandages (x20), Backpack, weapon of some sort, Gloomingdeep Lantern and guild note (of no use to you until you leave Gloomingdeep). You may also have a melee tome, which you can right click to learn.  You will also be someway into level 2.
 
 As you enter the main mines after completing Jail Break!, you will find two tasks in your quest journal": The Revolt of Gloomingdeep", which is the big task that collects together all (or almost all) of the tasks in the mines; and "Basic Training".
 
 Your bank has another Backpack – and has 24 slots, plus the two shared slots. You can equip the backpack straight away.
 
-You should probably check over the Allakhazam spells and abilities list for your class.  Almost all of the spells you get up to level 10 are available from the vendors in the main cavern.
+You should probably check over the Allakhazam spells and abilities
+list for your class.  Almost all of the spells you get up to level 10
+are available from the vendors in the main cavern. One thing to watch
+for: the level 1 spells have no level indicated in the vendor
+inventory, so make sure you don't miss any that are important.
 
 **Way Out**
 
