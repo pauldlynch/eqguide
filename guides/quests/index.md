@@ -288,7 +288,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 - [Access to Asylum of Anguish](http://everquest.allakhazam.com/db/quest.html?quest=2978)
 - [Achievement: Trials of Mata Muram](http://everquest.allakhazam.com/db/quest.html?quest=5671)
 
-## Gates of Destruction
+## Gates of Discord
 
 1. [Breakdown in Communication ](http://everquest.allakhazam.com/db/quest.html?quest=2781) (augment)
 2. [The Fourteen Great Adventurers](http://everquest.allakhazam.com/db/quest.html?quest=2854) (range)
@@ -301,6 +301,7 @@ There is a raid version as well, but you can obtain the link to that from the 7t
 2. [Secret of the Planes](http://everquest.allakhazam.com/db/quest.html?quest=2273)
 3. [The Binden Concerrentia](http://everquest.allakhazam.com/db/quest.html?quest=2202)
 Gate necklace
+
 ## Luclin
 
 1. [Earring of Veracity](http://everquest.allakhazam.com/db/quest.html?quest=1667) leads to [Arx Key](http://everquest.allakhazam.com/db/item.html?item=36900)
