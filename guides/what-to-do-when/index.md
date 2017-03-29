@@ -90,7 +90,9 @@ Consider the [Coldain Ring quests](http://everquest.allakhazam.com/db/quest.html
 
 If you are lucky enough to have the Fabled pet weapons, they are usable at 75, and are the best dps weapons until higher end weapons.
 
-The fastest experience will come from doing the Franklin Teek daily quests, plus the Call of the Forsaken Heroic Adventures, from level 75 up.  The HAs give reasonable currency rewards, which can be used to buy good armor.
+The fastest experience will come from doing the Franklin Teek daily
+quests, plus the Call of the Forsaken Heroic Adventures, from level 75
+up.  There is a discussion on doing these [here](https://forums.daybreakgames.com/eq/index.php?threads/heroic-adventures-guide.232287/). The HAs give reasonable currency rewards, which can be used to buy good armor.
 
 Level 75: level 99 and up magicians can summon augs with good AC (34) that fit in head, shoulders, legs and feet.
 

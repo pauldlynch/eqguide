@@ -33,7 +33,7 @@ Now find the other lift platform; the book you have been sent to find is on top 
 You can do the next quests in several ways; but go back down to the council level.  Start with Mystrana again, who sends you to speak to all the council members; they are on a raised platform, but you can run up the sides (even though it may not look as if you can).  The first one you speak to will give you "[Prove Your Worth](http://everquest.allakhazam.com/db/quest.html?quest=3675)", which you must complete before you can take the others.  I would normally prefer to skip these, as there is a lot of running around involved, but they are part of the Hero's Journey.
 
 - [Heshyrr's Wisdom](http://everquest.allakhazam.com/db/quest.html?quest=3673)
-- [Ithakis' Challenge](http://everquest.allakhazam.com/db/quest.html?quest=3925) 
+- [Ithakis' Challenge](http://everquest.allakhazam.com/db/quest.html?quest=3925)
 - [Lizzrel's Path](http://everquest.allakhazam.com/db/quest.html?quest=3748)
 - [Myjinn's Enlightenment](http://everquest.allakhazam.com/db/quest.html?quest=3890)
 - [Reakash's Serenity](http://everquest.allakhazam.com/db/quest.html?quest=4203)
@@ -89,15 +89,15 @@ I was still only level 8 after completing these, so a spot of grinding on young 
 
 **Making a Name for Yourself (11-15)**
 
-Remember that you will need to travel back and forth to Plane of Knowledge to collect spells past level 10.  The fastest way, if you are level ten or lower, or a caster still bound in Gloomingdeep, is to return to the Tutorial, then say to Arias "ready to leave".  Alternatively, you can run through the Hollows to Blightfire Moors, then turn sharp right and avoid the rats running to the nearby book; click it to enter the Plane of Knowledge.  There is one other route, involving the Priest of Destiny in the inn...
+Remember that you will need to travel back and forth to Plane of Knowledge to collect spells past level 10.  The fastest way, if you are level ten or lower, or a caster still bound in Gloomingdeep, is to return to the Tutorial, then say to Arias "ready to leave".  Alternatively, you can run through the Hollows to Blightfire Moors, then turn sharp right and avoid the rats running to the nearby book; click it to enter the Plane of Knowledge.  There is one other route, involving the Priest of Discord in the inn...
 
 These quests come from Council Aide Shay, in the council chamber on the upper floor, Skinner Bezuth on the same level, and Vunder the Dark, on the top floor.
 
 - [Web of Fears](http://everquest.allakhazam.com/db/quest.html?quest=4439)
-- [No Skin Off Your Back](http://everquest.allakhazam.com/db/quest.html?quest=3865) 
-- [What a Croc!](http://everquest.allakhazam.com/db/quest.html?quest=3864) 
+- [No Skin Off Your Back](http://everquest.allakhazam.com/db/quest.html?quest=3865)
+- [What a Croc!](http://everquest.allakhazam.com/db/quest.html?quest=3864)
 - [Rings and Things](http://everquest.allakhazam.com/db/quest.html?quest=3866)
-- [A Dark Heart](http://everquest.allakhazam.com/db/quest.html?quest=3653) 
+- [A Dark Heart](http://everquest.allakhazam.com/db/quest.html?quest=3653)
 
 The spiderlings for Shaye are almost certainly grey cons, so do this part fast - as is the Canyon Queen.  Spiderling silks may be of value in the Bazaar (as a trader or selling to buyers, depending on your account status).
 
@@ -111,11 +111,11 @@ These took me from 11 to 15.  The achievement reward is a set of jewelry: 2 ring
 
 Farmer Lize, Farmer Joen, both in a room downstairs in the inn; and Akins, upstairs in the tavern.  If you haven't already, in the inn on the top floor, second room on the right, is the first item needed for the Charm of Lore quest (hand in to Librarian Hemfar).  At this stage you are also directed to the Wanderlust Guild Loadstone; the latter is offered in (many) stages by Master Vanguard Regan, on the upper floor in the city of Crescent Reach.
 
-- [Food for Thought](http://everquest.allakhazam.com/db/quest.html?quest=3963) 
-- [Soul Patrol](http://everquest.allakhazam.com/db/quest.html?quest=4171) 
-- [Reclaim the Farm!](http://everquest.allakhazam.com/db/quest.html?quest=3917) 
+- [Food for Thought](http://everquest.allakhazam.com/db/quest.html?quest=3963)
+- [Soul Patrol](http://everquest.allakhazam.com/db/quest.html?quest=4171)
+- [Reclaim the Farm!](http://everquest.allakhazam.com/db/quest.html?quest=3917)
 - [Locked Up Locket](http://everquest.allakhazam.com/db/quest.html?quest=3916)
-- [Things Go Bump in the Night: The Catacombs](http://everquest.allakhazam.com/db/quest.html?quest=3658) 
+- [Things Go Bump in the Night: The Catacombs](http://everquest.allakhazam.com/db/quest.html?quest=3658)
 - [Things Go Bump in the Night: The Ogre's Spirit](http://everquest.allakhazam.com/db/quest.html?quest=3659)
 
 Now you need to go to the farm, north of the gnolls in the Hollow.  Open chests for the trinkets and kill skeletons.  The chests respawn rapidly, so complete this and go back to the farmers; you should then be able to pick up the "Reclaim the Farm!" quest (this may require a slightly higher level than the rest).  Go back, finish the kill quest if you haven't already, and click the bag of seeds on the field area.  Rewards are: some drink, food, and a range slot item.
