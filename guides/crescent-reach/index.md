@@ -107,7 +107,7 @@ The apothecary is a seated barbarian just outside the alchemy vendor room.  A wa
 
 These took me from 11 to 15.  The achievement reward is a set of jewelry: 2 rings and 2 earrings.  The quests give you a ring, either a 1HB or 2HB depending on class, and some potions.  Under eight hours played so far.
 
-**Becoming a Hero (16-20)**
+**Becoming a Hero (15-20)**
 
 Farmer Lize, Farmer Joen, both in a room downstairs in the inn; and Akins, upstairs in the tavern.  If you haven't already, in the inn on the top floor, second room on the right, is the first item needed for the Charm of Lore quest (hand in to Librarian Hemfar).  At this stage you are also directed to the Wanderlust Guild Loadstone; the latter is offered in (many) stages by Master Vanguard Regan, on the upper floor in the city of Crescent Reach.
 
