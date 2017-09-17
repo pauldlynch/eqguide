@@ -53,6 +53,7 @@ I list all the tradable pet focus items for spell level 59 and up, by the level 
 |92|76-100|Enhanced Minion XII|110|[Black Vertebrae](http://everquest.allakhazam.com/db/item.html?item=108256)|
 | |81-105|Enhanced Minion XIII|115|[Imprint of the Enhanced Minion](http://everquest.allakhazam.com/db/item.html?item=117741)|
 |100|86-105|Enhanced Minion XVI|130|[Chitin Stud](http://everquest.allakhazam.com/db/item.html?item=121462)|
+|105|101-120|Enhanced Minion XXIV|170|[Golden Sage's Earring](http://everquest.allakhazam.com/db/item.html?item=126359)
 
 Notes:
 
@@ -60,8 +61,7 @@ Notes:
 - Imprint of the Enhanced Minion: although EMXIII claims to work from pet spell level 81 and up, it probably really only affects 86+.
 - Energized Wire Coil is purchased from Fenden Helter in Dragonscale Hills for 747 faycetum (and is also a drop, so check the Bazaar)
 - Orb of Servitude is purchased from Alerynril the Loyal in the Plane of Knowledge for 864 Loyalty crowns.
--
 
-I am ignoring the [Diamond Prism of Companionship](http://everquest.allakhazam.com/db/item.html?item=23480), because it is only relevant on a Progression server at Lost Dungeons of Norrath.  The same goes for the [Orb of Swarming Darkness](http://everquest.allakhazam.com/db/item.html?item=36665) from Dragons of Norrath.  And again for the various "Summoner's Earrings", which can be purchased in the Plane of Knowledge, as there are much better focuses relatively easily available from other vendors, or by camping them yourself.
+I am ignoring the [Diamond Prism of Companionship](http://everquest.allakhazam.com/db/item.html?item=23480), because it is only relevant on a Progression server at Lost Dungeons of Norrath.  The same goes for the [Orb of Swarming Darkness](http://everquest.allakhazam.com/db/item.html?item=36665) from Dragons of Norrath, and again for the various "Summoner's Earrings", which can be purchased in the Plane of Knowledge, as there are much better focuses relatively easily available from other vendors, or by camping them yourself.
 
 Personally, I would start with Drowned Man's Hair, then move on through The Sweeper (easy to camp), the two cauldron summoned oddities, then one of the Shards, Whisper-Steel Loop, Twitching Snood, Chitin Stud.
